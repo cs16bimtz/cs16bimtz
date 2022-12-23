@@ -22,6 +22,7 @@ O SisASC foi concebido como ferramenta de apoio da Seleção Complemetar.
  - Seleção do efetivo automatizada significando dizer que a partir de parâmetros estabelecidos pelo Cmt e inseridos no sistema é possível conduzir o processo de seleção de modo a obter os melhores resultados.
 ### Exemplo
 Para o candidato ser considerado **indicado** na fase de entrevista, os parâmetros inseridos no sistema foram os seguinte:
+
 Na aba **DADOS PESSOAIS**
  Campo/parâmetro   | Indicado      | Contraindicado | 
 -------------------|---------------|----------------|
