@@ -23,6 +23,7 @@ O SisASC foi concebido como ferramenta de apoio da Seleção Complemetar.
 ### Exemplo
 Para o candidato ser considerado **indicado** na fase de entrevista, os parâmetros inseridos no sistema foram os seguinte:
  - Na aba **DADOS PESSOAIS**
+
  Campo/parâmetro   | Indicado      | Contraindicado | 
 -------------------|---------------|----------------|
  Voluntário        | Sim           |                |   
