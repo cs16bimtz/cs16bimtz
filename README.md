@@ -1,7 +1,8 @@
 ### Pátria 👋
 
 
-**cs16bimtz/cs16bimtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem vindo ao Sistema de Acompanhamento da Seleção Complementar**SisASC/16º BI Mtz**.
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
