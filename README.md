@@ -4,7 +4,7 @@ Sistema de Acompanhamento da Seleção Complementar 👋
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC foi concebido para ser a ferramenta de coleta de dados dos conscritos durante a execução da seleção complementar na OM. O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário são agrupados respeitando a afinidade que os dados guardam entre si;
  - Menus de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC;
-No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema (podem ser alterados a critéro do Cmt OM).Em sua barba moravam três <span style="color:red">cardeais</span>.
+No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema (podem ser alterados a critéro do Cmt OM).
 
 Para o conscrito ser considerado indicado na entrevista, uma série de requisitos devem ser satisfeitos. Para que o conscrito seja contraindicado na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja satisfeito. 
 Essa característica do sistema garantem o rigor e homogeneidade do processo seletivo. 
@@ -13,7 +13,7 @@ O sistema possui as configurações necessárias de modo a assegurar que o máxi
 
 Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". O próprio sistema se encarregará de indicar o candidato a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
-
+Em sua barba moravam três <span style="color:red">cardeais</span>.
 ## Terminologia utilizada:
  - Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi bem ou mal sucedido durante essa etapa do processo;
  - Na fase de inspeção médica e odontológica os termos utilizados são **apto** e **inapto** para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal;
