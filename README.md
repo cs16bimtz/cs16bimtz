@@ -45,13 +45,13 @@ Principais características do SisASC/16º BI Mtz:
  
 ✔️ Impressão da Ficha de Entrevista gerada.
  
-✔️Imprime e exporta consulta PDF, CSV;
+✔️ Imprime e exporta consulta PDF, CSV;
  
-✔️Formulário para cadastramento de entrevistadores
+✔️ Formulário para cadastramento de entrevistadores
  
 ✔️ Controle de acesso;
  
- ✔️ Log de ações do usuário (auditoria);
+✔️ Log de ações do usuário (auditoria);
  
 
 ## TERMINOLOGIA:
