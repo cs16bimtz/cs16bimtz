@@ -6,13 +6,14 @@ Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC
 ## COMPOSIÇÃO
 O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, INSPEÇÃO MÉDICA, INSPEÇÃO ODONTOLÓGICA, TESTE DE HABILIDADES, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
+ - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
+
 ![menus e abas 1](https://user-images.githubusercontent.com/121310141/209476833-cc7f8c83-6f32-494e-a391-2d6f78e0b27c.png)
 
 Na imagem acima temos a aba DADOS PESSOAIS em evidência. 
 
 Repare que o sistema recusa o cadastramanto do conscrito se os campos NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, e ENTREVISTADOR não forem corretamente preenchidos. O campo CPF do formulário tem validação "isunique", garantindo que cada CPF armazenado no banco de dados seja único. De outra forma, o sistema não permitirá a duplicidade de cadastro.  
 
- - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
   
 ## CARACTERÍSTICAS
 No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema e que podem ser alterados a critéro do Cmt OM.
