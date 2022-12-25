@@ -28,6 +28,7 @@ A situação de contraindicado durante a fase de entrevista, depende da negaçã
 **Exemplo**: no campo RELIGIÃO da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado independente de quais sejam as respostas para os demais campos utilizados como parâmetros.
 
 As principais características do SisASC/16º BI Mtz são:
+
  ✔️ Ferramenta de gestão e controle;
 - Ficha Digital de Entrevista (FDE);
 - Relatórios (Consultas) predefinidos no sistema:
