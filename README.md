@@ -74,11 +74,11 @@ Parametrização dos campos das abas DADOS PESSOAIS e PERFIL SOCIOECONÔMICO ape
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
     
 ## 6 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
->**Note**
+**Note**
 
 >Unicos candidatos liberados em definitivo serão os não voluntários após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia.&nbsp; 
 
->**Warning**
+**Warning**
 
 > Não há a hipóteses de o candidato sendo liberado sem passar pelo entrevistador.
  
