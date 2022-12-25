@@ -10,7 +10,7 @@ Para o conscrito ser considerado indicado na entrevista, uma série de requisito
 Essa característica do sistema garantem o rigor e homogeneidade do processo seletivo. 
 
 A ideia é assegurar que o máximo possível dos conscritos selecionados para a incorporação atendam aos requisitos desejados. Se o número necessário de conscritos não for atingido, os parâmetros, a critério do Cmt OM serão flexibilizados um a um obedecendo a precedência definida pelo Cmt OM. 
-Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". O próprio sistema se encarregará de indicar o candidato a partir dos dados informados em confronto com os parâmetros configurados.
+Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". O próprio sistema se encarregará de indicar o candidato a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
 ## Terminologia utilizada:
