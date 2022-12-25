@@ -10,7 +10,7 @@ O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de 
  <details>
 <summary>:eyes: Imagem - 1</summary>
  
-![menus e abas 2](https://user-images.githubusercontent.com/121310141/209483852-e72d5fb1-aeba-4432-af77-509f4a905c72.png)
+![menus e abas 3](https://user-images.githubusercontent.com/121310141/209483899-58cfb8ed-2889-4022-80cd-9d21cca478e0.png)
 
 </details>
 
