@@ -5,7 +5,7 @@ Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si;
  - Menus de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
-No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema (podem ser alterados a critéro do Cmt OM).
+No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema e que podem ser alterados a critéro do Cmt OM.
 
 Para o conscrito ser considerado indicado na entrevista, uma série de requisitos devem ser satisfeitos. Para que o conscrito seja contraindicado na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja satisfeito. 
 Essa característica do sistema garantem o rigor e homogeneidade do processo seletivo. 
