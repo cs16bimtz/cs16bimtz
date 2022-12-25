@@ -1,7 +1,11 @@
 ## Pátria 👋
-
-
-Bem vindo ao Sistema de Acompanhamento da Seleção Complementar - **SisASC/16º BI Mtz**.
+# SISTEMA DE ACOMPANHAMENTO DA SELEÇÃO COMPLEMENTAR
+Seja bem vindo ao Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz. O SisASC é composto de diversas abas (fildset). Cada aba agrupa por afinidade campos de formulário. O sistema foi concebido como a ferramenta de gestão da Seleção Complementar da OM. No SisASC os atributos desejáveis no conscrito são os parametros que serão setados.
+Para que o candidato seja considerado indicado na entrevista, por exemplo, uma série de requisitos devem ser satisfeitos. Para que o candidato seja contraindicado, todavia, basta que apenas um dos parâmetros não seja satisfeito.
+Isso garante o rigor do processo seletivo.
+A ideia é garantir que o máximo possível dos candidatos atendam aos requisitos desejados. Se o número necessário de candidatos não for atingido, os parâmetros, a critério do Cmt OM serão flexibilizados, um a um. 
+Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito".
+A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
 O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar. 
 
