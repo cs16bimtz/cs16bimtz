@@ -68,47 +68,7 @@ Para o candidato ser considerado **indicado** na fase de entrevista, os parâmet
  Estado civil      | Solteiro      |                |      
  Religião          | <> Adventista |                |    
  
-## Terminologia utilizada:
-<table style="width: 100%; height: 205px; border-color: #000000;" border="1">
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE/TERMINOLOGIA UTILIZADA</strong></td>
-<td style="text-align: center;"><strong> BEM SUCEDIDO</strong></td>
-<td style="text-align: center;"><strong>MAL SUCEDIDO</strong></td>
-<td style="text-align: center;"><strong>COMENTÁRIO</strong></td>
-</tr>
-<tr>
-<td>ENTREVISTA</td>
-<td style="text-align: center;">Indicado</td>
-<td style="text-align: center;">Contraindicado</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>AVALIAÇÃO MÉDICA</td>
-<td style="text-align: center;">Apto</td>
-<td style="text-align: center;">Inapto</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>AVALIAÇÃO ODONTO</td>
-<td style="text-align: center;">Apto</td>
-<td style="text-align: center;">Inapto</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>TESTE DE HABILIDADES</td>
-<td style="text-align: center;">Demonstrou</td>
-<td style="text-align: center;">Não demonstrou</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>INCORPORAÇÃO CONSCRITO</td>
-<td style="text-align: center;">Classificado</td>
-<td style="text-align: center;">Não classificado</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-</tbody>
-</table>
+
 
 
 <table style="width: 100%; height: 222px; border-color: #000000;" border="1">
