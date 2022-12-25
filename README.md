@@ -73,7 +73,7 @@ Para o candidato ser considerado **indicado** na fase de entrevista, os parâmet
 
  Campo/parâmetro   | Indicado      | Contraindicado | 
 -------------------|---------------|----------------|
- Voluntário        | Sim           |                |   
+ Voluntário  ✔️   | Sim           |                |   
  Estado civil      | Solteiro      |                |      
  Religião          | <> Adventista |                |    
  
