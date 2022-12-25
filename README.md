@@ -25,7 +25,7 @@ No entanto se o número necessário de conscritos para o preenchimento dos "clar
 
 A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
-Exemplo:no campo RELIGIÃO da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado independente de quais sejam as resposatas para os demais campos utilizados como parâmetros.
+**Exemplo**: no campo RELIGIÃO da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado independente de quais sejam as resposatas para os demais campos utilizados como parâmetros.
 
 As principais características do SisASC/16º BI Mtz são:
 - Ferramenta de gestão e controle;
