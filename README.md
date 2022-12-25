@@ -25,7 +25,7 @@ O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar.
  Incorporação      | Classificado | Não clasiificado |      
    
 ## Características do SisASC
-  - Ficha de Entrevista Eletrônica;
+- Ficha de Entrevista Eletrônica;
   - Relatórios (Consultas) predefinidos no sistema
    - - Indicados/contraindicados na entrevista;
    - Aptos/inaptos na inspeção de saúde;
