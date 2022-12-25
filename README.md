@@ -8,7 +8,7 @@ Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC
 No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema e que podem ser alterados a critéro do Cmt OM.
 
 Para o conscrito ser considerado indicado na entrevista, uma série de requisitos devem ser satisfeitos. Para que o conscrito seja contraindicado na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja atendido. 
-Essa característica do sistema garantem o rigor e homogeneidade do processo seletivo. 
+Essa característica do sistema garantem o rigor e a homogeneidade do processo seletivo. 
 
 O sistema possui as configurações necessárias de modo a assegurar que o máximo possível dos conscritos selecionados para a incorporação atendam aos requisitos desejados. Se o número necessário de conscritos não for atingido, os parâmetros, a critério do Cmt OM podem ser flexibilizados um a um, obedecendo a uma precedência que o Cmt OM definirá. 
 > Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
