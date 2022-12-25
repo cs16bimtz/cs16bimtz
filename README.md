@@ -15,13 +15,13 @@ O sistema possui as configurações necessárias a assegurar que o máximo poss�
 A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
 ## TERMINOLOGIAS:
- Descrição/Termo   | Bem sucedido | Mal sucedido     | 
--------------------|--------------|------------------|
- Entrevista        | Indicado     | Contraindicado   |   
- Inspeção médica   | Apto         | Inapto           |      
- Inspeção odonto   | Apto         | Inapto           |      
- Teste habilidades | Demonstrou   | Não demonstrou   |      
- Incorporação      | Classificado | Não clasiificado |      
+ DESCRIÇÃO DA FASE/TERMO | BEM SUCEDIDO |   MAL SUCEDIDO   | 
+-------------------------|--------------|------------------|
+ Entrevista              | Indicado     | Contraindicado   |   
+ Inspeção médica         | Apto         | Inapto           |      
+ Inspeção odonto         | Apto         | Inapto           |      
+ Teste habilidades       | Demonstrou   | Não demonstrou   |      
+ Incorporação            | Classificado | Não clasiificado |      
    
 ## CARACTERÍSTICAS
 - Ferramenta de gestão e controle;
