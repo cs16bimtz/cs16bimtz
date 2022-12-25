@@ -1,6 +1,6 @@
 Sistema de Acompanhamento da Seleção Complementar 👋
 
-## Conceito
+## CONCEITO DO SISTEMA
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC foi concebido para ser a ferramenta de coleta de dados dos conscritos durante a execução da seleção complementar na OM. O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si;
  - Menus de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
@@ -14,7 +14,7 @@ O sistema possui as configurações necessárias a assegurar que o máximo poss�
 > Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
-## Quadro-resumo das terminologias utilizadas no SisASC:
+## TERMINOLOGIAS:
  Descrição/Termo   | Bem sucedido | Mal sucedido     | 
 -------------------|--------------|------------------|
  Entrevista        | Indicado     | Contraindicado   |   
@@ -23,7 +23,7 @@ A situação de contraindicado a permancer no processo seletivo durante a fase d
  Teste habilidades | Demonstrou   | Não demonstrou   |      
  Incorporação      | Classificado | Não clasiificado |      
    
-## Características do SisASC
+## CARACTERÍSTICAS
 - Ferramenta de gestão e controle;
 - Ficha de Entrevista Eletrônica;
 - Relatórios (Consultas) predefinidos no sistema:
