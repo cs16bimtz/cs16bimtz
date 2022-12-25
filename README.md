@@ -35,11 +35,11 @@ Principais características do SisASC/16º BI Mtz:
  
 ✔️ Relatórios (Consultas) predefinidos no sistema:
  
-  - Indicados/contraindicados na entrevista;
-  - Aptos/inaptos na inspeção de saúde;
-  - Voluntários/não voluntários;
-  - Possuem/não possuem habilidades;
-  - Classificados/não classificados para a incorporação;
+   - Indicados/contraindicados na entrevista;
+   - Aptos/inaptos na inspeção de saúde;
+   - Voluntários/não voluntários;
+   - Possuem/não possuem habilidades;
+   - Classificados/não classificados para a incorporação;
  
 ✔️ Ferramenta de busca avançada;
  
