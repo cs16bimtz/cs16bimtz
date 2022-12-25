@@ -30,7 +30,7 @@ O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar.
  - 📫 How to reach me: ...<br />
  - 😄 Pronouns: ...<br />
  - ⚡ Fun fac: ..
-</p>
+</p><br/>
 - Ficha de Entrevista Eletrônica;
 - Relatórios (Consultas) predefinidos no sistema
   - Indicados/contraindicados na entrevista;
