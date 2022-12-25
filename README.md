@@ -15,7 +15,7 @@ O sistema possui as configurações necessárias a assegurar que o máximo poss�
 
 No entanto se o número necessário de conscritos para o preenchimento dos "claros" não for atingido, a critério do Cmt OM, os parâmerros podem ser flexibilizados obedecendo a uma precedência definida pelo Cmt OM. 
 > Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
-A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
+A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 - Ferramenta de gestão e controle;
 - Ficha de Entrevista Eletrônica;
 - Relatórios (Consultas) predefinidos no sistema:
