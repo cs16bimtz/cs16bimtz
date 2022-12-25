@@ -73,7 +73,9 @@ Principais características do **`SisASC/16º BI Mtz`**:
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
     
 
- 
+Unicos candidatos liberados em definitivo serão os não voluntários após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia.&nbsp; 
+
+Não há a hipóteses de o candidato sendo liberado sem passar pelo entrevistador.
  
  
  
@@ -81,81 +83,8 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 
 
-<td>ESTADO CIVIL&nbsp;</td>
-<td style="text-align: center;">Solteiro</td>
-<td style="text-align: center;">&nbsp;Indicado</td>
-<td style="text-align: center;">DADOS PESSOAIS</td>
-<td style="text-align: center;">Obrigatoriamente solteiro.</td>
-</tr>
-<tr>
-<td>RELIGIÃO</td>
-<td style="text-align: center;">&lt;&gt; Adventista</td>
-<td style="text-align: center;">&nbsp;Indicado</td>
-<td style="text-align: center;">DADOS PESSOAIS</td>
-<td style="text-align: center;">Não pode ser adventista</td>
-</tr>
-<tr>
-<td>ESCOLARIDADE</td>
-<td style="text-align: center;">Ensino fundamental completo</td>
-<td style="text-align: center;">&nbsp;Indicado</td>
-<td style="text-align: center;">DADOS PESSOAIS</td>
-<td style="text-align: center;">Conscrito com no mínimo o ensino fundamental completo.</td>
-</tr>
-<tr>
-<td>VOLUNTÁRIO</td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">&nbsp;Indicado</td>
-<td style="text-align: center;">DADOS PESSOAIS</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>MORA COM QUEM NO ENDEREÇO DECLARADO</td>
-<td style="text-align: center;">Pais</td>
-<td style="text-align: center;">&nbsp;Indicado</td>
-<td style="text-align: center;">PERFIL SOCIOECONÔMICO</td>
-<td style="text-align: center;">A convivência com a família pressupõe certos atributos morais e éticos&nbsp;necessários à vida na caserna.</td>
-</tr>
-<tr>
-<td>EM CASO DE CONVOCAÇÃO</td>
-<td style="text-align: center;">&lt;&gt; Adotarei o aquartelamento como residência</td>
-<td style="text-align: center;">&nbsp;Indicado</td>
-<td style="text-align: center;">PERFIL SOCIOECONÔMICO</td>
-<td style="text-align: center;">Laranjeira pressupõe despesas adicionais com as concessionárias, uso das instalações, outras demandas logísticas e de aprovisionamento</td>
-</tr>
-<tr>
-<td>ARRIMO DE FAMÍLIA</td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;">&nbsp;Indicado</td>
-<td style="text-align: center;">PERFIL SOCIOECONÔMICO</td>
-<td style="text-align: center;">O conscrito a ser incorporado não pode essencialmente ser arrimo de família .</td>
-</tr>
-<tr>
-<td>PASSAGEM PELA POLÍCIA</td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;">Indicado</td>
-<td style="text-align: center;">PERFIL SOCIOECONÔMICO</td>
-<td style="text-align: center;">O conscrito para ser indicado na fase de entrevista e estar em condições de concorrer á classificação não pode ter passagem pela polícia.</td>
-</tr>
-<tr>
-<td>EXPERIÊNCIA COM DROGAS</td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;">Indicado</td>
-<td style="text-align: center;">PERFIL SOCIOECONÔMICO</td>
-<td style="text-align: center;">O conscrito necessariamente não pode ter tido ao longo da vida experiência com drogas.</td>
-</tr>
-<tr>
-<td>USO DE ARMA DE FOGO</td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;">Indicado</td>
-<td style="text-align: center;">PERFIL SOCIOECONÔMICO</td>
-<td style="text-align: center;">-</td>
-</tr>
-</tbody>
-</table>
-<div></div>
-<div>Unicos candidatos liberados em definitivo serão os não voluntários após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia.&nbsp;</div>
-<div>Não há a situação de candidato sendo liberado sem passar pelo entrevistador.</div>
-<div>&nbsp;</div>
+
+
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1">
 <tbody>
 <tr>
@@ -187,49 +116,6 @@ Principais características do **`SisASC/16º BI Mtz`**:
 </tr>
 </tbody>
 </table>
-
-
-<table style="width: 100%; align: center; height: 205px; border-color: #000000;" border="1">
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE/TERMINOLOGIA UTILIZADA</strong></td>
-<td style="text-align: center;"><strong> BEM SUCEDIDO</strong></td>
-<td style="text-align: center;"><strong>MAL SUCEDIDO</strong></td>
-<td style="text-align: center;"><strong>COMENTÁRIO</strong></td>
-</tr>
-<tr>
-<td>ENTREVISTA</td>
-<td style="text-align: center;">Indicado</td>
-<td style="text-align: center;">Contraindicado</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>AVALIAÇÃO MÉDICA</td>
-<td style="text-align: center;">Apto</td>
-<td style="text-align: center;">Inapto</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>AVALIAÇÃO ODONTO</td>
-<td style="text-align: center;">Apto</td>
-<td style="text-align: center;">Inapto</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>TESTE DE HABILIDADES</td>
-<td style="text-align: center;">Demonstrou</td>
-<td style="text-align: center;">Não demonstrou</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-<tr>
-<td>INCORPORAÇÃO CONSCRITO</td>
-<td style="text-align: center;">Classificado</td>
-<td style="text-align: center;">Não classificado</td>
-<td style="text-align: center;">&nbsp;-</td>
-</tr>
-</tbody>
-</table>
-
 
 
  ### Exemplo
