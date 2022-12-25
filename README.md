@@ -16,9 +16,11 @@ O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de 
 
 Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do Conscrito em evidência. 
 
-Repare que o sistema recusa o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, ou ENTREVISTADOR não forem corretamente preenchidos. 
+> **Note**
+> Repare que o sistema recusa o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, ou ENTREVISTADOR não forem corretamente preenchidos. 
 
-O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma, o sistema não permitirá a duplicidade de cadastro.  
+> **Note**
+> O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma, o sistema não permitirá a duplicidade de cadastro.  
 
   
 ### 3 - CARACTERÍSTICAS DO SisASC
