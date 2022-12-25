@@ -59,34 +59,7 @@ Para o candidato ser considerado **indicado** na fase de entrevista, os parâmet
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fac: ..
-<h1>Pátria 👋</h1>
-<h2><strong>CONCEITO</strong></h2>
-<div>Seja bem vindo ao Sistema de Acompanhamento da Seleção Complementar - <strong>SisASC/16º BI Mtz</strong>.&nbsp;O <strong>SisASC</strong>&nbsp;é composto de diversas abas (fildset).&nbsp;Cada aba agrupa por afinidade campos de formulário.&nbsp;O sistema foi concebido como a ferramenta de gestão da Seleção Complementar da OM. No <strong>SisASC</strong>&nbsp;os atributos desejáveis no conscrito são os parametros que serão setados.
-<div style="text-align: justify;">Para que o candidato seja considerado <strong>indicado</strong> na entrevista, por exemplo, uma série de requisitos devem ser satisfeitos. Para que o candidato seja <strong>contraindicado</strong>, todavia, basta que apenas um dos parâmetros não seja satisfeito.
-<div>Isso garante o rigor do processo seletivo.
-<div>A ideia é garantir que o máximo possível dos candidatos atendam aos requisitos desejados. Se o número necessário de candidatos não for atingido, os parâmetros, a critério do Cmt OM serão flexibilizados, um a um.&nbsp;
-<div style="text-align: justify;">Não existe no sistema o botão "<strong>Indicado</strong>", ou "i<strong>ndicar candidato</strong>", ou "<strong>indicar conscrito</strong>".</div>
-<div style="text-align: justify;">A situação de <strong>contraindicado</strong>&nbsp;a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.</div>
-</div>
-</div>
-</div>
-</div>
-<h2><strong>TERMINOLOGIA UTILIZADA</strong></h2>
-<ul>
-<li>
-<div>Na fase de entrevista os termos tilizados são&nbsp;<strong>indicado</strong> e <strong>contraindicado</strong> para significar que o conscrito foi bem ou mal sucedido durante essa etapa do processo;</div>
-</li>
-<li>
-<div>Na fase de inspeção médica e odontológica os termos utilizados são <strong>apto</strong>&nbsp;e <strong>inapto</strong>&nbsp;para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal;</div>
-</li>
-<li>
-<div>Na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são <strong>demonstrou</strong>&nbsp;e <strong>não&nbsp;demonstrou</strong> a competência declarada;</div>
-</li>
-<li>
-<div>Na última etapa do processo os termos utilizados são <strong>classificado</strong> e <strong>não classificado</strong> para indicar que o conscrito foi bem ou mal sucedido no processo seletivo e que está ou não em condições de incorporar.</div>
-</li>
-</ul>
-<h2><strong>RESUMO DOS TERMOS UTILIZADOS NO</strong>&nbsp;<strong>SisASC</strong>:</h2>
+
 <table style="width: 100%; height: 205px; border-color: #000000;" border="1">
 <tbody>
 <tr>
@@ -127,9 +100,8 @@ Para o candidato ser considerado **indicado** na fase de entrevista, os parâmet
 </tr>
 </tbody>
 </table>
-<h2><strong>CARACTERÍSTICAS DO SisASC</strong></h2>
-<div>Seleção do efetivo conduzida de forrma "automatizada" significando dizer que a partir de parâmetros estabelecidos pelo Cmt e inseridos no sistema é possível conduzir o processo de seleção de modo a obter os melhores resultados.</div>
-<div>Exemplo:<br />Para o candidato ser considerado <strong>indicado</strong> na fase de entrevista, os parâmetros inseridos nos campos de formulário do sistema foram os seguintes:</div>
+
+
 <table style="width: 100%; height: 222px; border-color: #000000;" border="1">
 <tbody>
 <tr>
