@@ -59,7 +59,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi bem ou mal sucedido durante essa etapa do processo; na fase de inspeção médica e odontológica os termos utilizados são **apto** e **inapto** para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal; na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na última etapa da seleçãao os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo.
 
 ## PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS:
- ABA DE DADOS DO FORMULÁRIO |            CAMPO FORMULÁRIO         |                             CRITÉRIO               | STATUS            | OBS |
+ ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |                    CRITÉRIO UTILIZADO              | STATUS            | OBS |
 ----------------------------|-------------------------------------|----------------------------------------------------|-------------------|-----|
  DADOS PESSOAIS             | ESTADO CIVIL                        | Solteiro                                           | INDICADO          |     |
  DADOS PESSOAIS             | RELIGIÃO                            | &lt;&gt; Adventista                                | INDICADO          |     |
