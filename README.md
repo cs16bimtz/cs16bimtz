@@ -1,6 +1,6 @@
 Sistema de Acompanhamento da Seleção Complementar 👋
 
-## CONCEITO
+## Conceito
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC foi concebido para ser a ferramenta de coleta de dados dos conscritos durante a execução da seleção complementar na OM. O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si;
  - Menus de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC;
@@ -8,6 +8,7 @@ No SisASC os atributos/características desejáveis no conscrito (Perfil do Cand
 
 Para o conscrito ser considerado indicado na entrevista, uma série de requisitos devem ser satisfeitos. Para que o conscrito seja contraindicado na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja satisfeito. 
 Essa característica do sistema garantem o rigor e homogeneidade do processo seletivo. 
+> A seleção do efetivo automatizada significando dizer que a partir de parâmetros estabelecidos pelo Cmt e inseridos no sistema é possível conduzir o processo de seleção de modo a obter os melhores resultados.
 
 O sistema possui as configurações necessárias de modo a assegurar que o máximo possível dos conscritos selecionados para a incorporação atendam aos requisitos desejados. Se o número necessário de conscritos não for atingido, os parâmetros, a critério do Cmt OM podem ser flexibilizados um a um, obedecendo a uma precedência que o Cmt OM definirá. 
 > Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". O próprio sistema se encarregará de indicar o candidato a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
@@ -19,7 +20,7 @@ A situação de contraindicado a permancer no processo seletivo durante a fase d
  - Na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada;
  - Na última etapa da seleçãao os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo.
 
-## Resumo das terminologias utilizadas no SsASC:
+## Quadro-resumo das terminologias utilizadas no SisASC:
  Descrição/Termo   | Bem sucedido | Mal sucedido     | 
 -------------------|--------------|------------------|
  Entrevista        | Indicado     | Contraindicado   |   
@@ -31,7 +32,7 @@ A situação de contraindicado a permancer no processo seletivo durante a fase d
 ## Características do SisASC
 - Ferramenta de gestão e controle;
 - Ficha de Entrevista Eletrônica;
-- Relatórios (Consultas) predefinidos no sistema
+- Relatórios (Consultas) predefinidos no sistema:
   - Indicados/contraindicados na entrevista;
   - Aptos/inaptos na inspeção de saúde;
   - Voluntários/não voluntários;
