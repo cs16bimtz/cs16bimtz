@@ -9,7 +9,6 @@ O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de 
  - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
  <details>
 <summary>:eyes: Show example</summary>
-
 ![menus e abas 1](https://user-images.githubusercontent.com/121310141/209476833-cc7f8c83-6f32-494e-a391-2d6f78e0b27c.png)
 <picture>
 <source 
