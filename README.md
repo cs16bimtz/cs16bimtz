@@ -58,8 +58,6 @@ Para o candidato ser considerado **indicado** na fase de entrevista, os parâmet
 - 😄 Pronouns: ...
 - ⚡ Fun fac: ..
 ## Terminologia utilizada:
-E
- 
 <table style="width: 100%; height: 205px; border-color: #000000;" border="1">
 <tbody>
 <tr>
@@ -260,22 +258,4 @@ E
 </tr>
 </tbody>
 </table>
-<p>- <br />
- - 🌱 Parâmetros utilizados I’m currently learning ...<br />
- - 👯 I’m looking to collaborate on ...<br />
- - 🤔 I’m looking for help with ...</p>
-<p>
- - 💬 Ask me about ...<br />
- - 📫 How to reach me: ...<br />
- - 😄 Pronouns: ...<br />
- - ⚡ Fun fac: ..
-</p>
-<p>
- - Ficha de Entrevista Eletrônica;<br />
- - Relatórios (Consultas) predefinidos no sistema<br />
-   - Indicados/contraindicados na entrevista;<br />
-   - Indicados/contraindicados na entrevista;<br />
-   - Indicados/contraindicados na entrevista;<br />
- - 😄 Pronouns: ...<br />
- - ⚡ Fun fac: ..
-</p><br/>
+
