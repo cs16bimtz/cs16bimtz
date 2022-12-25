@@ -3,7 +3,7 @@ Sistema de Acompanhamento da Seleção Complementar 👋
 ## CONCEITO DO SISTEMA
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC foi concebido para ser a ferramenta de coleta de dados dos conscritos durante a execução da seleção complementar na OM. O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si;
- - Menus de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
+ - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
 No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema e que podem ser alterados a critéro do Cmt OM.
 
