@@ -32,14 +32,13 @@ No entanto se o número necessário de conscritos para o preenchimento dos `clar
 Principais características do SisASC/16º BI Mtz:
 
 - Ferramenta de gestão e controle; 
- - Ficha Digital de Entrevista (FDE); 
- - Relatórios (Consultas) predefinidos no sistema: 
+- Ficha Digital de Entrevista (FDE); 
+- Relatórios (Consultas) predefinidos no sistema: 
    - Indicados/contraindicados na entrevista;
    - Aptos/inaptos na inspeção de saúde;
    - Voluntários/não voluntários;
    - Possuem/não possuem habilidades;
    - Classificados/não classificados para a incorporação;
- 
 - Ferramenta de busca avançada; 
 - Impressão da Ficha de Entrevista gerada. 
 - Imprime e exporta consulta PDF, CSV; 
