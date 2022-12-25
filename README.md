@@ -14,7 +14,7 @@ O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de 
 
 </details>
 
-Na imagem acima temos a aba DADOS PESSOAIS em evidência. 
+Na imagem acima temos a aba DADOS PESSOAIS da Ficha de Entrevista em evidência. 
 
 Repare que o sistema recusa o cadastramanto do conscrito se os campos NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, e ENTREVISTADOR não forem corretamente preenchidos. O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma, o sistema não permitirá a duplicidade de cadastro.  
 
