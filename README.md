@@ -25,16 +25,6 @@ O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar.
  Incorporação      | Classificado | Não clasiificado |      
    
 ## Características do SisASC
-<p>
- - Ficha de Entrevista Eletrônica;<br />
- - Relatórios (Consultas) predefinidos no sistema<br />
-   - Indicados/contraindicados na entrevista;<br />
-   - Indicados/contraindicados na entrevista;<br />
-   - Indicados/contraindicados na entrevista;<br />
- - 😄 Pronouns: ...<br />
- - ⚡ Fun fac: ..
-</p><br/>
-
 - Ficha de Entrevista Eletrônica;
 - Relatórios (Consultas) predefinidos no sistema
   - Indicados/contraindicados na entrevista;
@@ -301,3 +291,12 @@ Para o candidato ser considerado **indicado** na fase de entrevista, os parâmet
  - 😄 Pronouns: ...<br />
  - ⚡ Fun fac: ..
 </p>
+<p>
+ - Ficha de Entrevista Eletrônica;<br />
+ - Relatórios (Consultas) predefinidos no sistema<br />
+   - Indicados/contraindicados na entrevista;<br />
+   - Indicados/contraindicados na entrevista;<br />
+   - Indicados/contraindicados na entrevista;<br />
+ - 😄 Pronouns: ...<br />
+ - ⚡ Fun fac: ..
+</p><br/>
