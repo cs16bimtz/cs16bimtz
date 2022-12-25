@@ -2,8 +2,6 @@ Sistema de Acompanhamento da Seleção Complementar 👋
 
 ## INTRODUÇÃO
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e controle e foi concebido para ser a ferramenta de coleta de dados dos conscritos durante a execução da seleção complementar na OM.
-> **Warning**
-> We use caching to decrease the load on our servers (see https://github.com/anuraghazra/github-readme-stats/issues/1471#issuecomment-1271551425). Our cards have a default cache of 4 hours (14400 seconds). Also, note that the cache is clamped to a minimum of 4 hours and a maximum of 24 hours.
 
 > **Note**
 > Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats._
@@ -31,7 +29,8 @@ No entanto se o número necessário de conscritos para o preenchimento dos "clar
 > **Note**
 > Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 
-A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
+> **Warning**
+> A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
 **Exemplo**: no campo RELIGIÃO da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado independente de quais sejam as respostas para os demais campos utilizados como parâmetros.
 
