@@ -16,7 +16,7 @@ O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar.
  - Na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada;
  - Na última etapa da seleçãao os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo.
 
-### Resumo das terminologias utilizadas no SsASC:
+## Resumo das terminologias utilizadas no SsASC:
  Descrição/Termo   | Bem sucedido | Mal sucedido     | 
 -------------------|--------------|------------------|
  Entrevista        | Indicado     | Contraindicado   |   
