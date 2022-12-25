@@ -10,7 +10,7 @@ No SisASC os atributos/características desejáveis no conscrito (Perfil do Cand
 Para o conscrito ser considerado indicado na entrevista, uma série de requisitos devem ser satisfeitos. Para que o conscrito seja contraindicado na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja atendido. 
 Essa característica do sistema garantem o rigor e a homogeneidade do processo seletivo. 
 
-O sistema possui as configurações necessárias de modo a assegurar que o máximo possível dos conscritos selecionados para a incorporação atendam aos requisitos desejados. Se o número necessário de conscritos não for atingido, os parâmetros, a critério do Cmt OM podem ser flexibilizados um a um, obedecendo a uma precedência que o Cmt OM definirá. 
+O sistema possui as configurações necessárias a assegurar que o máximo possível dos conscritos selecionados para a incorporação atendam aos requisitos desejados. Se o número necessário de conscritos não for atingido, os parâmetros, a critério do Cmt OM podem ser flexibilizados um a um, obedecendo a uma precedência que o Cmt OM definirá. 
 > Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
