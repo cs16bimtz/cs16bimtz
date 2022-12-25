@@ -5,7 +5,7 @@ Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC
 
 ## COMPOSIÇÃO
 O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
- - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, INSPEÇÃO MÉDICA, INSPEÇÃO ODONTOLÓGICA, TESTE DE HABILIDADES, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
+ - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `INSPEÇÃO MÉDICA`, `INSPEÇÃO ODONTOLÓGICA`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, ETC). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
  - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
 ![menus e abas 1](https://user-images.githubusercontent.com/121310141/209476833-cc7f8c83-6f32-494e-a391-2d6f78e0b27c.png)
@@ -20,8 +20,8 @@ No SisASC os atributos/características desejáveis no conscrito (Perfil do Cand
 
 O sistema possui as configurações necessárias para garantir que todos os conscritos selecionados para a incorporação, atendam aos requisitos que a unidade deseja. Para que o conscrito seja considerado indicado na entrevista, uma série de requisitos devem ser satisfeitos; para que o conscrito seja contraindicado na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja atendido. Essas características do sistema garantem o rigor e a homogeneidade do processo seletivo. 
 
-No entanto se o número necessário de conscritos para o preenchimento dos "claros" não for atingido, a critério do Cmt OM, os parâmerros podem ser flexibilizados obedecendo a uma precedência definida pelo Cmt OM. 
-> Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
+No entanto se o número necessário de conscritos para o preenchimento dos `claros` não for atingido, a critério do Cmt OM, os parâmerros podem ser flexibilizados obedecendo a uma precedência definida pelo Cmt OM. 
+> Não existe no sistema o botão "Indicado", ou "indicar candidato", ou `indicar conscrito". Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 
 > **Note**
 > Não existe no sistema o botão `Indicado`, ou `indicar candidato`, ou `ndicar conscrito`. Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
