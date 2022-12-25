@@ -1,14 +1,13 @@
 Sistema de Acompanhamento da Seleção Complementar 👋
 
 ## CONCEITO
-Seja bem vindo ao Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz. O SisASC composto de diversas abas (fildset). Cada aba agrupa por afinidade campos de formulário. O sistema foi concebido como a ferramenta de gestão da Seleção Complementar da OM. No SisASC os atributos desejáveis no conscrito são os parametros que serão setados.
-Para que o candidato seja considerado indicado na entrevista, por exemplo, uma série de requisitos devem ser satisfeitos. Para que o candidato seja contraindicado, todavia, basta que apenas um dos parâmetros não seja satisfeito.
-Isso garante o rigor do processo seletivo.
-A ideia é garantir que o máximo possível dos candidatos atendam aos requisitos desejados. Se o número necessário de candidatos não for atingido, os parâmetros, a critério do Cmt OM serão flexibilizados, um a um. 
+Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC foi concebido para ser a ferramenta de coleta de dados dos conscritos durante a execução da seleção complementar na OM. O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
+ - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário são agrupados respeitando a afinidade que os dados guardam entre si;
+ - Menus de opções: os menus agrupam, também por afinidade as diversas consultas (relatórios) disponíveis no SisASC;
+No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema (podem ser alterados a critéro do Cmt OM), de modo que, para um conscrito ser considerado indicado na entrevista, por exemplo, uma série de requisitos devem ser satisfeitos. Para que o conscrito seja contraindicado na fase de entrevista, todavia, basta que apenas um dos parâmetros (critérios) não seja satisfeito. Essa característica do sistema garantem o rigor e homogeneidade do processo seletivo. 
+A ideia é garantir que o máximo possível dos conscritos selecionados para a incorporação atendam aos requisitos desejados. Se o número necessário de conscritos não for atingido, os parâmetros, a critério do Cmt OM serão flexibilizados, um a um. 
 Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito".
 A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
-
-O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar. 
 
 ## Terminologia utilizada:
  - Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi bem ou mal sucedido durante essa etapa do processo;
@@ -26,6 +25,7 @@ O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar.
  Incorporação      | Classificado | Não clasiificado |      
    
 ## Características do SisASC
+- Ferramenta de gestão e controle;
 - Ficha de Entrevista Eletrônica;
 - Relatórios (Consultas) predefinidos no sistema
   - Indicados/contraindicados na entrevista;
