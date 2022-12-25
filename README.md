@@ -19,7 +19,7 @@ A situação de contraindicado durante a fase de entrevista, depende da negaçã
 
 As principais características do SisASC/16º BI Mtz são:
 - Ferramenta de gestão e controle;
-- Ficha de Entrevista Eletrônica;
+- Ficha Digital de Entrevista (FDE);
 - Relatórios (Consultas) predefinidos no sistema:
   - Indicados/contraindicados na entrevista;
   - Aptos/inaptos na inspeção de saúde;
