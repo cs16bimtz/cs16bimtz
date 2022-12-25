@@ -13,15 +13,6 @@ Essa característica do sistema garantem o rigor e a homogeneidade do processo s
 O sistema possui as configurações necessárias a assegurar que o máximo possível dos conscritos selecionados para a incorporação atendam aos requisitos desejados. Se o número necessário de conscritos não for atingido, os parâmetros, a critério do Cmt OM podem ser flexibilizados um a um, obedecendo a uma precedência que o Cmt OM definirá. 
 > Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
-
-## TERMINOLOGIAS:
- DESCRIÇÃO DA FASE/TERMO | BEM SUCEDIDO |   MAL SUCEDIDO   | 
--------------------------|--------------|------------------|
- Entrevista              | Indicado     | Contraindicado   |   
- Inspeção médica         | Apto         | Inapto           |      
- Inspeção odonto         | Apto         | Inapto           |      
- Teste habilidades       | Demonstrou   | Não demonstrou   |      
- Incorporação            | Classificado | Não clasiificado |      
    
 ## CARACTERÍSTICAS
 - Ferramenta de gestão e controle;
@@ -46,7 +37,15 @@ Para o candidato ser considerado **indicado** na fase de entrevista, os parâmet
  Estado civil      | Solteiro      |                |      
  Religião          | <> Adventista |                |      
 
- - 
+## TERMINOLOGIAS:
+ DESCRIÇÃO DA FASE/TERMO | BEM SUCEDIDO |   MAL SUCEDIDO   | 
+-------------------------|--------------|------------------|
+ Entrevista              | Indicado     | Contraindicado   |   
+ Inspeção médica         | Apto         | Inapto           |      
+ Inspeção odonto         | Apto         | Inapto           |      
+ Teste habilidades       | Demonstrou   | Não demonstrou   |      
+ Incorporação            | Classificado | Não clasiificado |      
+ 
 - 🌱 Parâmetros utilizados I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
