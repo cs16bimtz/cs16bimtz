@@ -77,7 +77,7 @@ Parametrização dos campos das abas DADOS PESSOAIS e PERFIL SOCIOECONÔMICO ape
 >**Note**
 >Unicos candidatos liberados em definitivo serão os não voluntários após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia.&nbsp; 
 
->**Note**
+>**Warning**
 > Não há a hipóteses de o candidato sendo liberado sem passar pelo entrevistador.
  
  
