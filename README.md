@@ -14,7 +14,8 @@ O sistema possui as configurações necessárias de modo a assegurar que o máxi
 Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". O próprio sistema se encarregará de indicar o candidato a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
-> Colchetes angulares em estilo de e-mail são usados em blocosdecitação.
+> Não existe no sistema o botão "Indicado", ou "indicar candidato", ou "indicar conscrito". O próprio sistema se encarregará de indicar o candidato a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
+A situação de contraindicado a permancer no processo seletivo durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 >> Você também pode aninhá-los.
 >>
 > * Você pode citar uma lista.
