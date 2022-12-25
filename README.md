@@ -29,7 +29,7 @@ No entanto se o número necessário de conscritos para o preenchimento dos `clar
 
 **Exemplo**: no campo RELIGIÃO da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado independente de quais sejam as respostas para os demais campos utilizados como parâmetros.
 
-Principais características do `**SisASC/16º BI Mtz**`:
+Principais características do **`SisASC/16º BI Mtz`**:
 
 - Ferramenta de gestão e controle; 
 - Ficha Digital de Entrevista (FDE); 
