@@ -6,7 +6,7 @@ Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC
 ## COMPOSIÇÃO
 O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (DADOS PESSOAIS, TÍTULO DE ELEITOR, CNH, INSPEÇÃO MÉDICA, INSPEÇÃO ODONTOLÓGICA, TESTE DE HABILIDADES, PERFIL SOCIOECONÔMICO, ETC). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si;
-![Menus e Abas](https://user-images.githubusercontent.com/121310141/209476592-7128cbce-b7b9-4ccd-9038-f39bbd097e5e.png)
+![menus e abas 1](https://user-images.githubusercontent.com/121310141/209476833-cc7f8c83-6f32-494e-a391-2d6f78e0b27c.png)
 
  - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
   
