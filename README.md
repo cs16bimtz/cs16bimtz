@@ -28,9 +28,9 @@ O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar.
 <p>
  - Ficha de Entrevista Eletrônica;<br />
  - Relatórios (Consultas) predefinidos no sistema<br />
-  - Indicados/contraindicados na entrevista;<br />
-  - Indicados/contraindicados na entrevista;<br />
-  - Indicados/contraindicados na entrevista;<br />
+   - Indicados/contraindicados na entrevista;<br />
+   - Indicados/contraindicados na entrevista;<br />
+   - Indicados/contraindicados na entrevista;<br />
  - 😄 Pronouns: ...<br />
  - ⚡ Fun fac: ..
 </p><br/>
