@@ -27,17 +27,7 @@ A situação de contraindicado a permancer no processo seletivo durante a fase d
   - Impressão da Ficha de Entrevista gerada.
   - Imprime e exporta consulta PDF, CSV..
 
-### Exemplo
-Para o candidato ser considerado **indicado** na fase de entrevista, os parâmetros inseridos no sistema foram os seguinte:
- - Na aba **DADOS PESSOAIS**
-
- Campo/parâmetro   | Indicado      | Contraindicado | 
--------------------|---------------|----------------|
- Voluntário        | Sim           |                |   
- Estado civil      | Solteiro      |                |      
- Religião          | <> Adventista |                |      
-
-## TERMINOLOGIAS:
+## TERMINOLOGIA:
  DESCRIÇÃO DA FASE/TERMO UTILIZADO | BEM SUCEDIDO |   MAL SUCEDIDO   | 
 -----------------------------------|--------------|------------------|
  Entrevista                        | Indicado     | Contraindicado   |   
@@ -57,6 +47,17 @@ Para o candidato ser considerado **indicado** na fase de entrevista, os parâmet
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fac: ..
+
+### Exemplo
+Para o candidato ser considerado **indicado** na fase de entrevista, os parâmetros inseridos no sistema foram os seguinte:
+ - Na aba **DADOS PESSOAIS**
+
+ Campo/parâmetro   | Indicado      | Contraindicado | 
+-------------------|---------------|----------------|
+ Voluntário        | Sim           |                |   
+ Estado civil      | Solteiro      |                |      
+ Religião          | <> Adventista |                |    
+ 
 ## Terminologia utilizada:
 <table style="width: 100%; height: 205px; border-color: #000000;" border="1">
 <tbody>
