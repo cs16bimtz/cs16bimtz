@@ -11,10 +11,11 @@ A situação de contraindicado a permancer no processo seletivo durante a fase d
 O SisASC foi concebido como a ferramenta de gestão da Seleção Complemetar. 
 
 ## Terminologia utilizada:
- - Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi bem ou mal sucedido durante essa etapa do processo.
- - Na fase de inspeção médica e odontológica os termos utilizados são **apto** e **inapto** para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal.
- - Na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** ou **não demonstrou** a competência de
- - Na última etapa do processo os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo e que está ou não em condições de incorporar.
+ - Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi bem ou mal sucedido durante essa etapa do processo;
+ - Na fase de inspeção médica e odontológica os termos utilizados são **apto** e **inapto** para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal;
+ - Na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada;
+ - Na última etapa da seleçãao os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo.
+
 ### Resumo das terminologias utilizadas no SsASC:
  Descrição/Termo   | Bem sucedido | Mal sucedido     | 
 -------------------|--------------|------------------|
