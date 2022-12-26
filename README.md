@@ -92,6 +92,9 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 
 >**Warning**
 > Não há a hipóteses de o candidato sendo liberado sem passar pelo entrevistador.
+
+>**Note**
+> Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados semana de 22 a 26. 
  
  
  
