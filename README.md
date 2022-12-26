@@ -146,9 +146,29 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>✔</strong></td>
 <td style="text-align: center;"><strong>✔</strong></td>
 <td style="text-align: center;"><strong>✔</strong></td>
-<td style="text-align: center;"><strong>✔/strong></td>
+<td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
 </tr>
-
+<tr>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
+</tr>
+ <tr>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
+</tr>
+ <tr>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
+</tr>
 </tbody>
 </table>
 
