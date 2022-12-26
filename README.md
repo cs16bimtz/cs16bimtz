@@ -109,6 +109,224 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 >**Note**
 > Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados na semana de 22 a 26. 
  
+## 5 - TABELA DE PERMISSÕES
+<table class="table table-striped" style="width: 1187px;">
+<thead>
+<tr style="height: 15px;">
+<th style="width: 1144.09px; height: 15px;">Seção</th>
+<th style="width: 10px; height: 15px;">User </th>
+<th style="width: 674px; height: 15px;">Password</th>
+<th style="width: 621px; text-align: center; height: 15px;"> Create</th>
+<th style="width: 830px; text-align: center; height: 15px;"> Read</th>
+<th style="width: 723px; text-align: center; height: 15px;"> Update</th>
+<th style="width: 578px; text-align: center; height: 15px;">Delete </th>
+<th style="width: 1153px; text-align: center; height: 15px;">Disable record</th>
+<th style="width: 961px; text-align: center; height: 15px;">Enable record</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">Super user</td>
+<td style="width: 10px; height: 15px;"> root</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x </td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x </td>
+<td style="width: 578px; height: 15px; text-align: left;">x</td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;">x</td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">Cmt 16º BI Mtz</td>
+<td style="width: 10px; height: 15px;"> cmtom</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x</td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;">x</td>
+<td style="width: 1153px; height: 15px; text-align: left;">x</td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px;">1ª Seção</td>
+<td style="width: 10px; height: 15px;"> ch1secao</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x</td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;">x </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x</td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px;">2ª Seção</td>
+<td style="width: 10px; height: 15px;"></td>
+<td style="width: 674px; height: 15px;"></td>
+<td style="width: 621px; height: 15px; text-align: left;"></td>
+<td style="width: 830px; height: 15px; text-align: left;"></td>
+<td style="width: 723px; height: 15px; text-align: left;"></td>
+<td style="width: 578px; height: 15px; text-align: left;"></td>
+<td style="width: 1153px; height: 15px; text-align: left;"></td>
+<td style="width: 961px; height: 15px; text-align: left;"></td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">3ª Seção</td>
+<td style="width: 10px; height: 15px;"></td>
+<td style="width: 674px; height: 15px;"></td>
+<td style="width: 621px; height: 15px; text-align: left;"></td>
+<td style="width: 830px; height: 15px; text-align: left;"></td>
+<td style="width: 723px; height: 15px; text-align: left;"></td>
+<td style="width: 578px; height: 15px; text-align: left;"></td>
+<td style="width: 1153px; height: 15px; text-align: left;"></td>
+<td style="width: 961px; height: 15px; text-align: left;"></td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">1ª Cia Fuz</td>
+<td style="width: 10px; height: 15px;"> cmt1ciafuz</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x</td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x</td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">1ª Cia Fuz</td>
+<td style="width: 10px; height: 15px;"> sgte1ciafuz</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x</td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x</td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 16.4583px;">
+<td style="width: 1144.09px; height: 16.4583px; text-align: left;">2ª Cia Fuz</td>
+<td style="width: 10px; height: 16.4583px; text-align: left;">cmt2ciafuz</td>
+<td style="width: 674px; height: 16.4583px;">root</td>
+<td style="width: 621px; height: 16.4583px; text-align: left;">x</td>
+<td style="width: 830px; height: 16.4583px; text-align: left;">x</td>
+<td style="width: 723px; height: 16.4583px; text-align: left;">x</td>
+<td style="width: 578px; height: 16.4583px; text-align: left;"> </td>
+<td style="width: 1153px; height: 16.4583px; text-align: left;">x</td>
+<td style="width: 961px; height: 16.4583px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">2ª Cia Fuz</td>
+<td style="width: 10px; height: 15px;"><kbd>sgte2ciafuz</kbd></td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x </td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x</td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">Cia C Ap</td>
+<td style="width: 10px; height: 15px;"> cmtciacap</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x </td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x </td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">Cia C Ap</td>
+<td style="width: 10px; height: 15px;"> sgteciacap</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x </td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x </td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
+<td style="width: 10px; height: 15px;"> instrchnpor</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+  <tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
+<td style="width: 10px; height: 15px;"> instr1npor</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+  <tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
+<td style="width: 10px; height: 15px;"> instr2npor</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
+<td style="width: 10px; height: 15px;"> sgtenpor</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x </td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x </td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">CFGS</td>
+<td style="width: 10px; height: 15px;"> instrchcfgs</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x </td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x </td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">CFGS</td>
+<td style="width: 10px; height: 15px;"> sgtecfgs</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x</td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x</td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+  <tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">B Mus</td>
+<td style="width: 10px; height: 15px;"> sgtebanda</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x</td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x</td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+</tbody>
+</table>
+
+
  
  
 
