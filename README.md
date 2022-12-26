@@ -110,28 +110,6 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 > Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados na semana de 22 a 26. 
  
 ## 8 - RESULTADO/FASE DA SELEÇÃO
- ENTREVISTA |  INSPEÇÃO MÉDICA  | INSPEÇÃO ODONTOÓGICA | TESTE AHBILIDADES | STATUS |
-------------|-------------------|----------------------|-------------------|--------|
-       ✔    | ESTADO CIVIL                       | Solteiro                    | INDICADO |                              |
- DADOS PESSOAIS             | RELIGIÃO                            | &lt;&gt; Adventista         | INDICADO |Não pode ser adventista       |
- DADOS PESSOAIS             | ESCOLARIDADE                        | &lt;&gt; Ensino fundamental | INDICADO |Pelo menos o EF completo      |
- DADOS PESSOAIS             | VOLUNTÁRIO                          | Sim                         | INDICADO |                              |
- PERFIL SOCIOECONÔMICO      | MORA COM QUEM NO ENDEREÇO DECLARADO | Pais                        | INDICADO |                              |
- PERFIL SOCIOECONÔMICO      | EM CASO DE CONVOCAÇÃO               | &lt;&gt; Adotarei o aquarta | INDICADO |Não pode querer ser laranjeira|
- PERFIL SOCIOECONÔMICO      | ARRIMO DE FAMÍLIA                   | Não                         | INDICADO |                              |
- PERFIL SOCIOECONÔMICO      | PASSAGEM PELA POLÍCIA               | Não                         | INDICADO |                              |
- PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                         | INDICADO |                              |
- PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                         | INDICADO |                              |
-
-
- 
- 
-
-
-
-
-
-
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1">
 <tbody>
 <tr>
@@ -142,10 +120,10 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>STATUS</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>✔</strong></td>
-<td style="text-align: center;"><strong>✔</strong></td>
-<td style="text-align: center;"><strong>✔</strong></td>
-<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>➕</strong></td>
+<td style="text-align: center;"><strong>➕</strong></td>
+<td style="text-align: center;"><strong>➕/strong></td>
+<td style="text-align: center;"><strong>➕</strong></td>
 <td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
 </tr>
 <tr>
