@@ -119,8 +119,8 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>TESTE DE HABILIDADES</strong></td>
 <td style="text-align: center;"><strong>STATUS</strong></td>
 </tr>
-<tr style="text-align: center;">
-<td style="text-align: center;"><strong>✔️</strong></td>
+<tr>
+<td><strong>✔️</strong></td>
 <td style="text-align: center;"><strong>✔️</strong></td>
 <td style="text-align: center;"><strong>✔️</strong></td>
 <td style="text-align: center;"><strong>✔️</strong></td>
