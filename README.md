@@ -29,7 +29,7 @@ A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
 </details>
 
 <details>
-<summary>:eyes: DADOS PESSOAIS</summary>
+<summary>:eyes: INSPEÇÃO MÉDICA</summary>
  
 ![fm](https://user-images.githubusercontent.com/121310141/209503889-b8d7322c-934d-472d-895f-1b6718a2b76d.png)
 
