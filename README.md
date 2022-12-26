@@ -1,10 +1,16 @@
 Sistema de Acompanhamento da Seleção Complementar - Guia do utilizador 👋
 
 ### 1 - INTRODUÇÃO AO SisASC
-Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e controle e foi concebido para ser a ferramenta de coleta de dados dos conscritos durante a execução da seleção complementar na OM.
+Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta de dados dos conscritos durante a execução da seleção complementar na OM.
 
 ### 2 - COMPOSIÇÃO DO SisASC
-O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
+O sistema é composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos. A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
+
+- Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
+- Controle eficiente de todas fases da CS;
+- Quase a totalidade dos campos da FED são do tipo *dropdow* (menu de seleção), *checkbox* (caixas de seleção, normalmente campos de múltipla escolha) ou *radiobuton*  (boões de opção) 
+- 
+- muitas vantagens **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `INSPEÇÃO MÉDICA`, `INSPEÇÃO ODONTOLÓGICA`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
  - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
