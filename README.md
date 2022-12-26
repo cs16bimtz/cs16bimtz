@@ -11,7 +11,7 @@ Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinid
 A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
 - Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
 - Controle eficiente de todas fases da CS;
-- Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário reduz drasticamente o tempo de entrevista da a facilidade e rapidez no preenchimento dos dados;
+- Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário reduz drasticamente o tempo de entrevista dada a facilidade e rapidez no preenchimento dos dados;
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
 ### 3 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
@@ -35,7 +35,7 @@ O sistema possui as configurações necessárias para garantir que todos os cons
 
 No entanto se o número necessário de conscritos para o preenchimento dos `claros` não for atingido, a critério do Cmt OM, os parâmerros podem ser flexibilizados obedecendo a uma precedência definida pelo Cmt OM. 
 > **Note**
-> Não existe no sistema o botão `Indicado`, ou `indicar candidato`, ou `ndicar conscrito`. Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
+> Não existe no sistema o botão `Indicado`, ou `indicar candidato`, ou `Indicar conscrito`. Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 
 > **Warning**
 > A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
@@ -94,7 +94,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 > Não há a hipóteses de o candidato sendo liberado sem passar pelo entrevistador.
 
 >**Note**
-> Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados semana de 22 a 26. 
+> Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados na semana de 22 a 26. 
  
  
  
