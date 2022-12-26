@@ -7,6 +7,8 @@ Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC
 O sistema é composto basicamente de uma **Ficha de Entrevista (Digital)** e de um **Menu de opções**. 
  - Ficha Digital de Entrevista (FDE): é composta por um conjunto de abas (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `INSPEÇÃO MÉDICA`, `INSPEÇÃO ODONTOLÓGICA`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
  - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
+
+### 3 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
  <details>
 <summary>:eyes: DADOS PESSOAIS</summary>
  
@@ -23,7 +25,7 @@ Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do C
 > O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de cadastro.  
 
   
-### 3 - CARACTERÍSTICAS DO SisASC
+### 4 - CARACTERÍSTICAS DO SisASC
 No SisASC os atributos/características desejáveis no conscrito (Perfil do Candidato) são os parametros que foram configurados no sistema e que podem ser alterados a critéro do Cmt OM.
 
 O sistema possui as configurações necessárias para garantir que todos os conscritos selecionados para a incorporação, atendam aos requisitos que a unidade deseja. Para que o conscrito seja considerado indicado na entrevista, uma série de requisitos devem ser satisfeitos; para que o conscrito seja contraindicado na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja atendido. Essas características do sistema garantem o rigor e a homogeneidade do processo seletivo. 
@@ -54,7 +56,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Controle de acesso; 
 - Log de ações do usuário (auditoria); 
 
-### 4 - TERMINOLOGIA UTILIZADA NO SisASC
+### 5 - TERMINOLOGIA UTILIZADA NO SisASC
  DESCRIÇÃO DA FASE/TERMO UTILIZADO | BEM SUCEDIDO |   MAL SUCEDIDO   | 
 -----------------------------------|--------------|------------------|
  Entrevista                        | Indicado     | Contraindicado   |   
@@ -66,7 +68,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > **Note** 
 > Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi bem ou mal sucedido durante essa etapa do processo; na fase de inspeção médica e odontológica os termos utilizados são **apto** e **inapto** para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal; na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na última etapa da seleçãao os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo.
 
-## 5 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
+## 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
 Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCIOECONÔMICO para o conscrito ser considerado indicado na entrevista:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |                    CRITÉRIO UTILIZADO              | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
@@ -81,7 +83,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
     
-## 6 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
+## 7 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
 >**Note**
 >Unicos candidatos liberados em definitivo serão os não voluntários após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia.&nbsp; 
 
