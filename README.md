@@ -99,20 +99,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
     
-## 7 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
->**Note**
->Unicos candidatos dispensados em definitivo serão os `não voluntários` após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia.&nbsp. Lembre-se de que conforme a tabela de parâmetros o sistema se encarregará de contraindicar o candidato não voluntário.
-
->**Note**
-> Candidato mal sucedido (contraindicado na entrevista, inapto no caso das inspeções médica e odontológica), não realiza a triagem na fase seguinte. 
-
->**Warning**
-> Não há a hipóteses de o candidato sendo liberado sem passar pelo entrevistador.
-
->**Note**
-> Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados na semana de 22 a 26. 
- 
-## 8 - RESULTADO/FASE DA SELEÇÃO
+## 7 - RESULTADO/FASE DA SELEÇÃO
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
@@ -165,7 +152,18 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 </tr>
 </tbody>
 </table>
+## 8 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
+>**Note**
+>Unicos candidatos dispensados em definitivo serão os `não voluntários` após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia.&nbsp. Lembre-se de que conforme a tabela de parâmetros o sistema se encarregará de contraindicar o candidato não voluntário.
 
+>**Note**
+> Candidato mal sucedido (contraindicado na entrevista, inapto no caso das inspeções médica e odontológica), não realiza a triagem na fase seguinte. 
+
+>**Warning**
+> Não há a hipóteses de o candidato sendo liberado sem passar pelo entrevistador.
+
+>**Note**
+> Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados na semana de 22 a 26.
 
  ### Exemplo
 Para o candidato ser considerado **indicado** na fase de entrevista, os parâmetros inseridos no sistema foram os seguinte:
