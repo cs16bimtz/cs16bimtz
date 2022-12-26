@@ -109,7 +109,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 >**Note**
 > Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados na semana de 22 a 26. 
  
-## 5 - TABELA DE PERMISSÕES
+## 8 - RESULTADO/FASE DA SELEÇÃO
 <table class="table table-striped" style="width: 1187px;">
 <thead>
 <tr style="height: 15px;">
