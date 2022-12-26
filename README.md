@@ -110,7 +110,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 > Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados na semana de 22 a 26. 
  
 ## 8 - RESULTADO/FASE DA SELEÇÃO
-<table style="width: 100%; height: 109px; border-color: #000000;" border="1">
+<table style="width: 100%; height: 109px; border-color: #000000;" border="1"; text-align: center>
 <tbody>
 <tr>
 <td style="text-align: center;"><strong>ENTREVISTA</strong></td>
