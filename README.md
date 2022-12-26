@@ -53,8 +53,6 @@ No entanto se o número necessário de conscritos para o preenchimento dos `clar
 > **Warning**
 > A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
-**Exemplo**: no campo RELIGIÃO da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros.
-
 Principais características do **`SisASC/16º BI Mtz`**:
 
 - Ferramenta de gestão e controle; 
@@ -98,7 +96,10 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
  PERFIL SOCIOECONÔMICO      | PASSAGEM PELA POLÍCIA               | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
-    
+
+> **Note**
+> no campo RELIGIÃO da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros.
+
 ## 7 - RESULTADO/FASE DA SELEÇÃO
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
