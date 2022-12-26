@@ -120,7 +120,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>STATUS</strong></td>
 </tr>
 <tr>
-<td><strong>✔️</strong></td>
+<td style="text-align: center;"><strong>✔️</strong></td>
 <td style="text-align: center;"><strong>✔️</strong></td>
 <td style="text-align: center;"><strong>✔️</strong></td>
 <td style="text-align: center;"><strong>✔️</strong></td>
