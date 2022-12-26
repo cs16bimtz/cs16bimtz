@@ -139,29 +139,16 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>INSPEÇÃO MÉDICA</strong></td>
 <td style="text-align: center;"><strong>INSPEÇÃO ODONTO</strong></td>
 <td style="text-align: center;"><strong>TESTE DE HABILIDADES</strong></td>
-<td style="text-align: center;"><strong>STATUS/strong></td>
-<td style="text-align: center;"><strong>✔/strong></td>
-<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>STATUS</strong></td>
 </tr>
 <tr>
-<td>QTDE/DIA</td>
 <td style="text-align: center;"><strong>✔</strong></td>
 <td style="text-align: center;"><strong>✔</strong></td>
 <td style="text-align: center;"><strong>✔</strong></td>
 <td style="text-align: center;"><strong>✔</strong></td>
 <td style="text-align: center;"><strong>✔/strong></td>
-<td style="text-align: center;"><strong>✔/strong></td>
-<td style="text-align: center;"><strong>✔</strong></td>
 </tr>
-<tr>
-<td>50% DE NÃO VOLUNTÁRIOS/DIA&nbsp; AINDA GARANTE A CS?</td>
-<td style="text-align: center;">60</td>
-<td style="text-align: center;">60</td>
-<td style="text-align: center;">60</td>
-<td style="text-align: center;">60</td>
-<td style="text-align: center;">60</td>
-<td style="text-align: center;">300</td>
-</tr>
+
 </tbody>
 </table>
 
