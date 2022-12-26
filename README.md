@@ -113,6 +113,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
+<td style="text-align: center;"><strong>CASO</strong></td>
 <td style="text-align: center;"><strong>ENTREVISTA</strong></td>
 <td style="text-align: center;"><strong>INSPEÇÃO MÉDICA</strong></td>
 <td style="text-align: center;"><strong>INSPEÇÃO ODONTO</strong></td>
@@ -120,6 +121,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>STATUS</strong></td>
 </tr>
 <tr>
+<td style="text-align: center;"><strong>1</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
@@ -127,6 +129,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
 </tr>
 <tr>
+<td style="text-align: center;"><strong>2</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
@@ -134,6 +137,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
 </tr>
 <tr>
+<td style="text-align: center;"><strong>3</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
 <td style="text-align: center;"><strong>🔴</strong></td>
@@ -141,13 +145,15 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
 </tr>
 <tr>
+<td style="text-align: center;"><strong>4</strong></td>
 <td style="text-align: center;"><strong>🟢</strong></td>
 <td style="text-align: center;"><strong>🔴</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
 </tr>
- <tr>
+<tr>
+<td style="text-align: center;"><strong>5</strong></td>
 <td style="text-align: center;"><strong>🔴</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
