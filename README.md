@@ -135,22 +135,23 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1">
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>DIA</strong></td>
-<td style="text-align: center;"><strong> ✔</strong></td>
-<td style="text-align: center;"><strong>✔</strong></td>
-<td style="text-align: center;"><strong>✔</strong></td>
-<td style="text-align: center;"><strong>✔/strong></td>
+<td style="text-align: center;"><strong>ENTREVISTA</strong></td>
+<td style="text-align: center;"><strong>INSPEÇÃO MÉDICA</strong></td>
+<td style="text-align: center;"><strong>INSPEÇÃO ODONTO</strong></td>
+<td style="text-align: center;"><strong>TESTE DE HABILIDADES</strong></td>
+<td style="text-align: center;"><strong>STATUS/strong></td>
 <td style="text-align: center;"><strong>✔/strong></td>
 <td style="text-align: center;"><strong>✔</strong></td>
 </tr>
 <tr>
 <td>QTDE/DIA</td>
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">600</td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
+<td style="text-align: center;"><strong>✔/strong></td>
+<td style="text-align: center;"><strong>✔/strong></td>
+<td style="text-align: center;"><strong>✔</strong></td>
 </tr>
 <tr>
 <td>50% DE NÃO VOLUNTÁRIOS/DIA&nbsp; AINDA GARANTE A CS?</td>
