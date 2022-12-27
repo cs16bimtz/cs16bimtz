@@ -80,7 +80,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
  Incorporação                      | Classificado | Não clasiificado |      
  
 > **Note** 
-> Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi <kbd>Conforme</kbd> ou <kdb>>Não conforme</kdb> durante essa etapa do processo; na fase de inspeção médica e odontológica os termos utilizados são **apto** e **inapto** para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal; na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na última etapa da seleçãao os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo.
+> Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito atende/não atende aos requisitos exigidos; ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito possui/não possui as característica que se deseja em um soldado; na fase onde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi selecionado/não selecionado para a incorporação.
 
 ## 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
 Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCIOECONÔMICO para o conscrito ser considerado indicado na entrevista:
