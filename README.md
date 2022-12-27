@@ -162,26 +162,13 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 
 ## 8 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
 >**Note**
-> Os únicos candidatos dispensados em definitivo serão os `não voluntários` após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia. Lembre-se de que conforme a tabela de parâmetros o sistema se encarregará de contraindicar o candidato não voluntário.
+> Os únicos candidatos dispensados em definitivo em princípio, serão os `não voluntários` após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia. Lembre-se de que conforme a tabela de parâmetros o sistema se encarregará de contraindicar o candidato não voluntário.
 
 >**Note**
-> Candidato `Não conforme` (contraindicado na entrevista, inapto no caso das inspeções médica e odontológica), não realiza a triagem na fase seguinte. 
-
->**Warning**
-> Não há a hipóteses de o candidato sendo liberado sem passar pelo entrevistador.
+> Candidato `Não conforme` em uma das fases não realiza a triagem na fase seguinte. 
 
 >**Note**
-> Prioridade na seana 15 a 19 de janeiro a coleta rigorosa de dados com suporte à tomada de decisão; Análise dos dados coletados na semana de 22 a 26.
-
- ### Exemplo
-Para o candidato ser considerado **indicado** na fase de entrevista, os parâmetros inseridos no sistema foram os seguinte:
- - Na aba **DADOS PESSOAIS**
-
- Campo/parâmetro   | Indicado      | Contraindicado | 
--------------------|---------------|----------------|
- Voluntário  ✔️   | Sim           |                |   
- Estado civil      | Solteiro      |                |      
- Religião          | <> Adventista |                |   
+> A prioridade na semana de 15 a 19 de janeiro é a coleta rigorosa de dados.
  
 
  
