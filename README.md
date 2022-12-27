@@ -69,26 +69,9 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Formulário para cadastramento de entrevistadores 
 - Controle de acesso; 
 - Log de ações do usuário (auditoria); 
-#### 4 - Aos Sargenteantes das SU, permitirá o <kbd>controle</kbd> da distribuição do pessoal:
-##### - SU/Pel|Sç|Fr;
-##### - SU/Função;
-##### - SU/Destino;
-##### - SU/Estado civil;
-##### - SU/Escolaridade;
-##### - SU/Religião;
-##### - SU/Grupo sanguíneo;
-##### - SU/Cat CNH;
-##### - SU/Tipo de veículo que possui (Carro|Moto);
-##### - SU/Banco onde o militar possui conta.
-##### - SU/Bairro onde mora o militar
-#### 5 - Distribuição do pessoal por função (diferente de cargo militar - QCP), dentro da OM;
-#### 6 - Cartão de vacinação;
-#### 7 - Aba para o controle de FO;
-#### 8 - Aba para o controle de FATD;
-#### 9 - Aba para o controle de Punições (Ficha Disciplinar Digital);
 
 ### 5 - TERMINOLOGIA UTILIZADA NO SisASC
- DESCRIÇÃO DA FASE/TERMO UTILIZADO | BEM SUCEDIDO |   MAL SUCEDIDO   | 
+ DESCRIÇÃO DA FASE/TERMO UTILIZADO |   CONFORME   |   NÃO CONFORME   | 
 -----------------------------------|--------------|------------------|
  Entrevista                        | Indicado     | Contraindicado   |   
  Inspeção médica                   | Apto         | Inapto           |      
@@ -97,7 +80,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
  Incorporação                      | Classificado | Não clasiificado |      
  
 > **Note** 
-> Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi bem ou mal sucedido durante essa etapa do processo; na fase de inspeção médica e odontológica os termos utilizados são **apto** e **inapto** para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal; na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na última etapa da seleçãao os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo.
+> Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito foi <kbd>Conforme</kbd> ou <kdb>>Não conforme</kdb> durante essa etapa do processo; na fase de inspeção médica e odontológica os termos utilizados são **apto** e **inapto** para inddicar que o conscrito foi bem ou mal sucedido nessa fase da seleção de pessoal; na fase onde são verificadas as habilidades declaradas pelo conscrito, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na última etapa da seleçãao os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi bem ou mal sucedido no processo seletivo.
 
 ## 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
 Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCIOECONÔMICO para o conscrito ser considerado indicado na entrevista:
