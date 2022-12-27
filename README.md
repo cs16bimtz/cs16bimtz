@@ -74,7 +74,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Log de ações do usuário (auditoria); 
 
 ### 5 - TERMINOLOGIA UTILIZADA NO SisASC
- DESCRIÇÃO DA FASE/TERMO UTILIZADO |   CONFORME   |   NÃO CONFORME   | 
+ DESCRIÇÃO DA FASE                 |   CONFORME   |   NÃO CONFORME   | 
 -----------------------------------|--------------|------------------|
  Entrevista                        | Indicado     | Contraindicado   |   
  Inspeção médica                   | Apto         | Inapto           |      
