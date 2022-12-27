@@ -13,7 +13,7 @@ Na FDE os campos que serão utilizados como critério de seleção possuem um ti
 A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
 - Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
 - Controle eficiente de todas fases da CS;
-- Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário reduz drasticamente o tempo de entrevista dedido a facilidade e a rapidez no preenchimento dos dados;
+- Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário reduz drasticamente o tempo de entrevista/candidato em virtude da simplicidade, da rapidez no preenchimento e no processamento dos dados;
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
 ### 3 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
