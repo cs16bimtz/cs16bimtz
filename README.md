@@ -98,7 +98,11 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
 
 > **Note**
-> no campo RELIGIÃO da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros.
+> No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada.
+
+> **Note**
+> No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente de "Pais", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorososo quanto possível. Nesse batalhão hipotético todos os candidatos devem moram com os pais, porque morar com os pais presupõe certos valores morais e éticos. Sabemos que essa premissa pode não ser sempre verdadeira.
+
 
 ## 7 - RESULTADO/FASE DA SELEÇÃO
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
