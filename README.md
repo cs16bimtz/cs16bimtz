@@ -11,7 +11,7 @@ Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinid
 A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
 - Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
 - Controle eficiente de todas fases da CS;
-- Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário reduz drasticamente o tempo de entrevista dada a facilidade e rapidez no preenchimento dos dados;
+- Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário reduz drasticamente o tempo de entrevista dedido a facilidade e a rapidez no preenchimento dos dados;
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
 ### 3 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
@@ -69,6 +69,23 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Formulário para cadastramento de entrevistadores 
 - Controle de acesso; 
 - Log de ações do usuário (auditoria); 
+#### 4 - Aos Sargenteantes das SU, permitirá o <kbd>controle</kbd> da distribuição do pessoal:
+##### - SU/Pel|Sç|Fr;
+##### - SU/Função;
+##### - SU/Destino;
+##### - SU/Estado civil;
+##### - SU/Escolaridade;
+##### - SU/Religião;
+##### - SU/Grupo sanguíneo;
+##### - SU/Cat CNH;
+##### - SU/Tipo de veículo que possui (Carro|Moto);
+##### - SU/Banco onde o militar possui conta.
+##### - SU/Bairro onde mora o militar
+#### 5 - Distribuição do pessoal por função (diferente de cargo militar - QCP), dentro da OM;
+#### 6 - Cartão de vacinação;
+#### 7 - Aba para o controle de FO;
+#### 8 - Aba para o controle de FATD;
+#### 9 - Aba para o controle de Punições (Ficha Disciplinar Digital);
 
 ### 5 - TERMINOLOGIA UTILIZADA NO SisASC
  DESCRIÇÃO DA FASE/TERMO UTILIZADO | BEM SUCEDIDO |   MAL SUCEDIDO   | 
