@@ -162,7 +162,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 
 ## 8 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
 >**Note**
-> Os únicos candidatos dispensados em definitivo em princípio, serão os `não voluntários` após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia. Lembre-se de que conforme a tabela de parâmetros o sistema se encarregará de contraindicar o candidato não voluntário.
+> Inicialmente os únicos candidatos dispensados em definitivo serão os `não voluntários` após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia. Lembre-se de que conforme a tabela de parâmetros o sistema se encarregará de contraindicar o candidato não voluntário.
 
 >**Note**
 > Candidato `Não conforme` em uma das fases não realiza a triagem na fase seguinte. 
