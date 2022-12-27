@@ -8,6 +8,8 @@ O sistema é composto basicamente de um formulário de cadastro denominado **Fic
 
 Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si. 
 
+Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (noempty) que impede que os mesmos sejam armazenados com valor NULL no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
+
 A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
 - Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
 - Controle eficiente de todas fases da CS;
