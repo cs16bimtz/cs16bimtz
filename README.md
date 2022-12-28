@@ -121,8 +121,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 </tr>
 <tr>
 <td style="text-align: center;"><strong>5</strong></td>
-<td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>INCORPORAÇÃO</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
