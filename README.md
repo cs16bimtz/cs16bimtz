@@ -204,6 +204,58 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
 </table>
 
 ## 8 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
+### 5 - TERMINOLOGIA E FASES DA `COMISSÃO DE SELEÇÃO` NO SisASC
+<table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Nº FASE</strong></td>
+<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
+<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
+<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Nº FASE</strong></td>
+<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
+ <td style="text-align: center;" colspan="2"><strong>TERMINOLOGIA</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>1</strong></td>
+<td style="text-align: center;"><strong>ENTREVISTA</strong></td>
+<td style="text-align: center;"><strong>INDICADO</strong></td>
+<td style="text-align: center;"><strong>CONTRAINDICADO</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2</strong></td>
+<td style="text-align: center;"><strong>INSPEÇÃO MÉDICA</strong></td>
+<td style="text-align: center;"><strong>APTO</strong></td>
+<td style="text-align: center;"><strong>INAPTO</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: center;"><strong>INSPEÇÃO ODONTO</strong></td>
+<td style="text-align: center;"><strong>APTO</strong></td>
+<td style="text-align: center;"><strong>INAPTO</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>4</strong></td>
+<td style="text-align: center;"><strong>TESTE HABILIDADES</strong></td>
+<td style="text-align: center;"><strong>DEMONSTROU</strong></td>
+<td style="text-align: center;"><strong>NÃO DEMONSTROU</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>5</strong></td>
+<td style="text-align: center;"><strong>INCORPORAÇÃO</strong></td>
+<td style="text-align: center;"><strong>CLASSSIFICADO</strong></td>
+<td style="text-align: center;"><strong>NÃO CLASSSIFICADO</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+</tr>
+</tbody>
+</table>
+
 >**Note**
 > Inicialmente os únicos candidatos dispensados em definitivo serão os `não voluntários` após passarem pela entrevista (entrevista apenas) no percentual de no máximo 50% do número de candidatos/dia. Lembre-se de que conforme a tabela de parâmetros o sistema se encarregará de contraindicar o candidato não voluntário.
 
