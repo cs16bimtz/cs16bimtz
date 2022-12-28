@@ -157,31 +157,31 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
 </tr>
 <tr>
 <td style="text-align: center;"><strong>1</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
 <td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>2</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
 <td style="text-align: center;"><strong>🔴</strong></td>
 <td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>3</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
 <td style="text-align: center;"><strong>🔴</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>4</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🔵</strong></td>
 <td style="text-align: center;"><strong>🔴</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
