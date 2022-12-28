@@ -224,7 +224,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
 <td style="text-align: center;"><strong>11/01/2023</strong></td>
 <td style="text-align: center;"><strong>A</strong></td>
 <td style="text-align: center;"><strong>120</strong></td>
-<td style="text-align: center;">Entrevista/Inspeção médica/Inspeção odonto<strong></strong></td>
+<td style="text-align: center;"><strong>Entrevista/Inspeção médica/Inspeção odonto</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>3</strong></td>
