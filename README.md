@@ -231,21 +231,21 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
 <td style="text-align: center;"><strong>12/01/2023</strong></td>
 <td style="text-align: center;"><strong>B</strong></td>
 <td style="text-align: center;"><strong>120</strong></td>
-<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>Entrevista/Inspeção médica/Inspeção odonto</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>4</strong></td>
 <td style="text-align: center;"><strong>13/01/2023</strong></td>
 <td style="text-align: center;"><strong>C</strong></td>
 <td style="text-align: center;"><strong>120</strong></td>
-<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>Entrevista/Inspeção médica/Inspeção odonto</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>5</strong></td>
 <td style="text-align: center;"><strong>14/01/2023</strong></td>
 <td style="text-align: center;"><strong>D</strong></td>
 <td style="text-align: center;"><strong>120</strong></td>
-<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>Entrevista/Inspeção médica/Inspeção odonto</strong></td>
 </tr>
  
 </tbody>
