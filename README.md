@@ -212,35 +212,35 @@ Calendário de apresentação dos conscritos
 <tr>
 <td style="text-align: center;"><strong>1</strong></td>
 <td style="text-align: center;"><strong>10/01/2023</strong></td>
-<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;"><strong>TODOS</strong></td>
 <td style="text-align: center;"><strong>600</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>2</strong></td>
 <td style="text-align: center;"><strong>11/01/2023</strong></td>
-<td style="text-align: center;"><strong>B</strong></td>
+<td style="text-align: center;"><strong>A</strong></td>
 <td style="text-align: center;"><strong>120</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>3</strong></td>
 <td style="text-align: center;"><strong>12/01/2023</strong></td>
-<td style="text-align: center;"><strong>C</strong></td>
+<td style="text-align: center;"><strong>B</strong></td>
 <td style="text-align: center;"><strong>120</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>4</strong></td>
 <td style="text-align: center;"><strong>13/01/2023</strong></td>
-<td style="text-align: center;"><strong>D</strong></td>
+<td style="text-align: center;"><strong>C</strong></td>
 <td style="text-align: center;"><strong>120</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>5</strong></td>
 <td style="text-align: center;"><strong>14/01/2023</strong></td>
-<td style="text-align: center;"><strong>E</strong></td>
+<td style="text-align: center;"><strong>D</strong></td>
 <td style="text-align: center;"><strong>120</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
