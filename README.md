@@ -81,7 +81,57 @@ Principais características do **`SisASC/16º BI Mtz`**:
      2   | Inspeção médica                   | Apto         | Inapto           |      
      3   | Inspeção odonto                   | Apto         | Inapto           |      
      4   | Teste habilidades                 | Demonstrou   | Não demonstrou   |      
-     5   | Incorporação                      | Classificado | Não clasiificado |      
+     5   | Incorporação                      | Classificado | Não clasiificado |     
+     
+ <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Nº FASE</strong></td>
+<td style="text-align: center;"><strong> DESCRIÇÃO DA FASE</strong></td>
+<td style="text-align: center;"><strong>CONFORME</strong></td>
+<td style="text-align: center;"><strong>NÃO CONFORME</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>1</strong></td>
+<td style="text-align: center;"><strong>2</strong></td>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: center;"><strong>4</strong></td>
+<td style="text-align: center;"><strong>5</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2</strong></td>
+<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🔴</strong></td>
+<td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🔴</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>4</strong></td>
+<td style="text-align: center;"><strong>🟢</strong></td>
+<td style="text-align: center;"><strong>🔴</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>5</strong></td>
+<td style="text-align: center;"><strong>🔴</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
+</tr>
+</tbody>
+</table>
  
 > **Note** 
 > Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as característica que se deseja em um soldado; na fase onde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
