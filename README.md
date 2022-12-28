@@ -76,11 +76,6 @@ Principais características do **`SisASC/16º BI Mtz`**:
 ### 5 - TERMINOLOGIA E FASES DA `COMISSÃO DE SELEÇÃO` NO SisASC
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
- <tr>
-<td style="text-align: center;"><strong>Nº FASE</strong></td>
-<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
-<td style="text-align: center;" colspan="2"><strong>TERMINOLOGIA</strong></td>
-</tr>
 <tr>
 <td style="text-align: center;"><strong>Nº FASE</strong></td>
 <td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
