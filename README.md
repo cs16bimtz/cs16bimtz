@@ -93,9 +93,9 @@ Principais características do **`SisASC/16º BI Mtz`**:
 </tr>
 <tr>
 <td style="text-align: center;"><strong>1</strong></td>
-<td style="text-align: center;"><strong>ENTREVISTA</strong></td>
-<td style="text-align: center;"><strong>INDICADO</strong></td>
-<td style="text-align: center;"><strong>CONTRAINDICADO</strong></td>
+<td style="text-align: center;"><strong>2</strong></td>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: center;"><strong>4</strong></td>
 <td style="text-align: center;"><strong>5</strong></td>
 </tr>
 <tr>
