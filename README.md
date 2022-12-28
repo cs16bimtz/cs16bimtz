@@ -123,7 +123,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as característica que se deseja em um soldado; na fase onde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
 
 ## 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
-Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCIOECONÔMICO para o conscrito ser considerado indicado na entrevista:
+Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIOECONÔMICO e INSPEÇÃO MÉDICA para o conscrito ser considerado <kbd>classificado</kbd> no processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |                    CRITÉRIO UTILIZADO              | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
  DADOS PESSOAIS             | ESTADO CIVIL                        | Solteiro                                           | INDICADO |                              |
@@ -136,6 +136,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
  PERFIL SOCIOECONÔMICO      | PASSAGEM PELA POLÍCIA               | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
+ INSPEÇÃO MÉDICA            | TOMA REMÉDIO CONTROLADO             | Não                                                | APTO     |                              |
 
 > **Note**
 > No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre que esse é um campo com validação (noempty). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo estiver vazio.  
