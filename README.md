@@ -74,16 +74,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Log de ações do usuário (auditoria); 
 
 ### 5 - TERMINOLOGIA UTILIZADA NO SisASC
-
- Nº FASE |          DESCRIÇÃO DA FASE        |   CONFORME   |   NÃO CONFORME   | 
- --------|-----------------------------------|--------------|------------------|
-     1   | Entrevista                        | Indicado     | Contraindicado   |   
-     2   | Inspeção médica                   | Apto         | Inapto           |      
-     3   | Inspeção odonto                   | Apto         | Inapto           |      
-     4   | Teste habilidades                 | Demonstrou   | Não demonstrou   |      
-     5   | Incorporação                      | Classificado | Não clasiificado |     
-     
- <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
+<table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
 <td style="text-align: center;"><strong>Nº FASE</strong></td>
@@ -109,7 +100,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 <td style="text-align: center;"><strong>3</strong></td>
 <td style="text-align: center;"><strong>INSPEÇÃO ODONTO</strong></td>
 <td style="text-align: center;"><strong>APTO</strong></td>
-<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>INAPTO</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
