@@ -176,7 +176,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
 <td style="text-align: center;"><strong>🔵</strong></td>
 <td style="text-align: center;"><strong>🔵</strong></td>
 <td style="text-align: center;"><strong>🔴</strong></td>
-<td style="text-align: center;"><strong>❎</strong></td>
+<td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
 </tr>
 <tr>
