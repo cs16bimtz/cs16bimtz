@@ -139,7 +139,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
  INSPEÇÃO MÉDICA            | TOMA REMÉDIO CONTROLADO             | Não                                                | APTO     |                              |
  INSPEÇÃO MÉDICA            | FEZ OU FAZ                          | &lt;&gt;Tratamento Psicológico                     | APTO     |                              |
- INSPEÇÃO MÉDICA            | FEZ OU FAZ                          | &lt;&gt;Tratamento Psiquiátrico                    | APTO     |                              |
+ INSPEÇÃO MÉDICA            | FEZ OU FAZ                          | !=Tratamento Psiquiátrico                          | APTO     |                              |
 
 > **Note**
 > No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre que esse é um campo com validação (noempty). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo estiver vazio.  
