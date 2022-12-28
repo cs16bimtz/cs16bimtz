@@ -125,7 +125,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 ### 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
 Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIOECONÔMICO e INSPEÇÃO MÉDICA para o conscrito ser considerado <kbd>classificado</kbd> no processo seletivo:
- ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |                    CRITÉRIO UTILIZADO              | STATUS   | OBS                          |
+ ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
  DADOS PESSOAIS             | ESTADO CIVIL                        | Solteiro                                           | INDICADO |                              |
  DADOS PESSOAIS             | RELIGIÃO                            | !=Adventista                                       | INDICADO |Não pode ser adventista       |
