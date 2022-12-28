@@ -99,35 +99,35 @@ Principais características do **`SisASC/16º BI Mtz`**:
 <td style="text-align: center;"><strong>5</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>ENTREVISTA</strong></td>
-<td style="text-align: center;"><strong>Inspeção médica</strong></td>
-<td style="text-align: center;"><strong>Inspeção odonto</strong></td>
-<td style="text-align: center;"><strong>Teste habilidades</strong></td>
-<td style="text-align: center;"><strong>Incorporação</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>MEDICO</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🔴</strong></td>
 <td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>4</strong></td>
-<td style="text-align: center;"><strong>🟢</strong></td>
-<td style="text-align: center;"><strong>🔴</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>5</strong></td>
-<td style="text-align: center;"><strong>🔴</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong></strong></td>
 </tr>
 </tbody>
 </table>
