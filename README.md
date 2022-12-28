@@ -128,17 +128,17 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |                    CRITÉRIO UTILIZADO              | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
  DADOS PESSOAIS             | ESTADO CIVIL                        | Solteiro                                           | INDICADO |                              |
- DADOS PESSOAIS             | RELIGIÃO                            | &lt;&gt; Adventista                                | INDICADO |Não pode ser adventista       |
- DADOS PESSOAIS             | ESCOLARIDADE                        | &lt;&gt; Ensino fundamental incompleto             | INDICADO |Pelo menos o EF completo      |
+ DADOS PESSOAIS             | RELIGIÃO                            | !=Adventista                                       | INDICADO |Não pode ser adventista       |
+ DADOS PESSOAIS             | ESCOLARIDADE                        | !=Ensino fundamental incompleto                    | INDICADO |Pelo menos o EF completo      |
  DADOS PESSOAIS             | VOLUNTÁRIO                          | Sim                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | MORA COM QUEM NO ENDEREÇO DECLARADO | Pais                                               | INDICADO |                              |
- PERFIL SOCIOECONÔMICO      | EM CASO DE CONVOCAÇÃO               | &lt;&gt; Adotarei o aquartelamento como residência | INDICADO |Não pode querer ser laranjeira|
+ PERFIL SOCIOECONÔMICO      | EM CASO DE CONVOCAÇÃO               | !=Adotarei o aquartelamento como residência        | INDICADO |Não pode querer ser laranjeira|
  PERFIL SOCIOECONÔMICO      | ARRIMO DE FAMÍLIA                   | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | PASSAGEM PELA POLÍCIA               | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
  INSPEÇÃO MÉDICA            | TOMA REMÉDIO CONTROLADO             | Não                                                | APTO     |                              |
- INSPEÇÃO MÉDICA            | FEZ OU FAZ                          | &lt;&gt;Tratamento Psicológico                     | APTO     |                              |
+ INSPEÇÃO MÉDICA            | FEZ OU FAZ                          | !=Tratamento Psicológico                           | APTO     |                              |
  INSPEÇÃO MÉDICA            | FEZ OU FAZ                          | !=Tratamento Psiquiátrico                          | APTO     |                              |
 
 > **Note**
