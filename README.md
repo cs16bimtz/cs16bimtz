@@ -204,47 +204,41 @@ Calendário de apresentação dos conscritos
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>Nº FASE</strong></td>
-<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
-<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
-<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Nº FASE</strong></td>
-<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
+<td style="text-align: center;"><strong>Nº</strong></td>
+<td style="text-align: center;"><strong>DATA APRESENTAÇÃO</strong></td>
  <td style="text-align: center;" colspan="2"><strong>TERMINOLOGIA</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>1</strong></td>
-<td style="text-align: center;"><strong>ENTREVISTA</strong></td>
+<td style="text-align: center;"><strong>10/01/2023</strong></td>
 <td style="text-align: center;"><strong>INDICADO</strong></td>
 <td style="text-align: center;"><strong>CONTRAINDICADO</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>2</strong></td>
-<td style="text-align: center;"><strong>INSPEÇÃO MÉDICA</strong></td>
+<td style="text-align: center;"><strong>10/01/2023</strong></td>
 <td style="text-align: center;"><strong>APTO</strong></td>
 <td style="text-align: center;"><strong>INAPTO</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>3</strong></td>
-<td style="text-align: center;"><strong>INSPEÇÃO ODONTO</strong></td>
+<td style="text-align: center;"><strong>10/01/2023</strong></td>
 <td style="text-align: center;"><strong>APTO</strong></td>
 <td style="text-align: center;"><strong>INAPTO</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>4</strong></td>
-<td style="text-align: center;"><strong>TESTE HABILIDADES</strong></td>
+<td style="text-align: center;"><strong>10/01/2023</strong></td>
 <td style="text-align: center;"><strong>DEMONSTROU</strong></td>
 <td style="text-align: center;"><strong>NÃO DEMONSTROU</strong></td>
 <td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>5</strong></td>
-<td style="text-align: center;"><strong>INCORPORAÇÃO</strong></td>
+<td style="text-align: center;"><strong>10/01/2023</strong></td>
 <td style="text-align: center;"><strong>CLASSSIFICADO</strong></td>
 <td style="text-align: center;"><strong>NÃO CLASSSIFICADO</strong></td>
 <td style="text-align: center;"><strong></strong></td>
