@@ -127,7 +127,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > **Note** 
 > Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as característica que se deseja em um soldado; na fase onde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
 
-## 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
+### 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
 Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIOECONÔMICO e INSPEÇÃO MÉDICA para o conscrito ser considerado <kbd>classificado</kbd> no processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |                    CRITÉRIO UTILIZADO              | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
@@ -149,7 +149,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
 > **Note**
 > No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente de "Pais", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorosos quanto possível. Nesse batalhão hipotético todos os candidatos devem morar com os pais, porque morar com os pais pressupõe certos valores morais e éticos essenciais à vida na caserna.
 
-## 7 - RESULTADO/FASE DA SELEÇÃO
+### 7 - RESULTADO/FASE DA SELEÇÃO
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
@@ -203,8 +203,8 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
 </tbody>
 </table>
 
-## 8 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
-### 5 - TERMINOLOGIA E FASES DA `COMISSÃO DE SELEÇÃO` NO SisASC
+### 8 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
+Calendário de apresentação dos conscritos
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
