@@ -200,7 +200,7 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIO
 </table>
 
 ### 8 - CONCEPÇÃO DE UMA SC UTILIZANDO O SisASC:
-Calendário de apresentação dos conscritos
+### 9 - QUADRO DE ATIVIDADES
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
