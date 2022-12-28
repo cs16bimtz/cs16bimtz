@@ -79,8 +79,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 <tr>
 <td style="text-align: center;"><strong>Nº FASE</strong></td>
 <td style="text-align: center;"><strong> DESCRIÇÃO DA FASE</strong></td>
-<td style="text-align: center;"><strong>CONFORME</strong></td>
-<td style="text-align: center;"><strong>NÃO CONFORME</strong></td>
+<td colspan="2">Sum: 28</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>1</strong></td>
