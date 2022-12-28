@@ -73,7 +73,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Controle de acesso; 
 - Log de ações do usuário (auditoria); 
 
-### 5 - TERMINOLOGIA UTILIZADA NO SisASC
+### 5 - TERMINOLOGIA E FASES DA `COMISSÃO DE SELEÇÃO` NO SisASC
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
