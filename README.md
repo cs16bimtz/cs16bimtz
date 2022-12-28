@@ -208,13 +208,14 @@ Calendário de apresentação dos conscritos
 <td style="text-align: center;"><strong>DATA APRESENTAÇÃO</strong></td>
 <td style="text-align: center;"><strong>GRUPAMENTO</strong></td>
  <td style="text-align: center;"><strong>QTDE</strong></td>
+ <td style="text-align: center;"><strong>ATIVIDADE</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>1</strong></td>
 <td style="text-align: center;"><strong>10/01/2023</strong></td>
 <td style="text-align: center;"><strong>TODOS</strong></td>
 <td style="text-align: center;"><strong>600</strong></td>
-<td style="text-align: center;"><strong></strong></td>
+<td style="text-align: center;"><strong>Distribuição do efetivo por grupamento (ou dia) ao longo da semana</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>2</strong></td>
