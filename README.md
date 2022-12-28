@@ -74,13 +74,13 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Log de ações do usuário (auditoria); 
 
 ### 5 - TERMINOLOGIA UTILIZADA NO SisASC
- DESCRIÇÃO DA FASE                 |   CONFORME   |   NÃO CONFORME   | 
------------------------------------|--------------|------------------|
- Entrevista                        | Indicado     | Contraindicado   |   
- Inspeção médica                   | Apto         | Inapto           |      
- Inspeção odonto                   | Apto         | Inapto           |      
- Teste habilidades                 | Demonstrou   | Não demonstrou   |      
- Incorporação                      | Classificado | Não clasiificado |      
+Nº FASE |          DESCRIÇÃO DA FASE        |   CONFORME   |   NÃO CONFORME   | 
+--------|-----------------------------------|--------------|------------------|
+    1   | Entrevista                        | Indicado     | Contraindicado   |   
+    2   | Inspeção médica                   | Apto         | Inapto           |      
+    3   | Inspeção odonto                   | Apto         | Inapto           |      
+    4   | Teste habilidades                 | Demonstrou   | Não demonstrou   |      
+    5   | Incorporação                      | Classificado | Não clasiificado |      
  
 > **Note** 
 > Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as característica que se deseja em um soldado; na fase onde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
