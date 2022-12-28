@@ -170,6 +170,26 @@ Parametrização dos campos de formulário das abas DADOS PESSOAIS e PERFIL SOCI
 >**Note**
 > A prioridade na semana de 15 a 19 de janeiro é a coleta rigorosa de dados.
  
+### 8.1 Sistema de fases x sistema de rodízio.
+ 
+ #### TRIAGEM NO SISTEMA DE RODÍZIO
+   - O grupamento é dividido em 3 blocos de conscritos (entrevista, médico, odonto);
+   - Cada bloco conduz a triagem de forma independente; 
+   - O bloco que iniciará o rodízio na Inspeção Médica estará sem Ficha de Entrevista. 
+   - O bloco que iniciará o rodízio na inspeção Odonto também estará sem Ficha de Entrevista;
+   - A CS conduzida dessa maneira sugere que apenas os dados coletados na entrevista são relevantes e catalogados;
+   - A CS conduzida dessa maneira sugere que nas fases 2 e 3 o conscrito é apenas inspecionado, sem que haja a necessidade da coleta de informaçãoe sobre ele   
+   - Ihaverá a situação de conscrito apto na inspeção de saúde sendo contraindicado na entrevista 
 
- 
- 
+#### TRIAGEM NO SISTEMA DE FASES
+   - A CS opera como um todo;
+   - As fases da seleção acontecem uma após a outra;
+   - Não é necessário imprimir Ficha de Entrevista.
+   - Conscrito contraindicado na entrevista não realiza a fase seguinte conforme tabela de fases/resultados
+   - Candidato `Não conforme` em uma das fases não realiza a triagem na fase seguinte. 
+
+
+
+
+
+
