@@ -111,10 +111,8 @@ Principais características do **`SisASC/16º BI Mtz`**:
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong></strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
 <td style="text-align: center;"><strong></strong></td>
