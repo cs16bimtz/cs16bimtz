@@ -76,13 +76,13 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Log de ações do usuário (auditoria); 
 
 ### 5 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
-|  Nº FASE |DESCRIÇÃO DA FASE|CONFORME|   NÃO CONFORME  |TESTE DE HABILIDADES|     OBS      | 
-| :-----: | :--------: | :----------: | :-------------: | :----------------: | :----------: |
-| 1       | ENTREVISTA |    INDICADO  |  CONTRAINDICADO |  CLASSIFICADO  --  | CLASSIFICADO | 
-| 2       | EXAME MÉDICO |    APTO  |     INAPTO |  CLASSIFICADO  --  | CLASSIFICADO | 
-| 3       | EXAME MÉDICO|    APTO  |     INAPTO |  CLASSIFICADO  --  | CLASSIFICADO | 
-| 4       | ENTREVISTA |    INDICADO  |     INDICADO |  CLASSIFICADO  --  | CLASSIFICADO | 
-| 5       | ENTREVISTA |    INDICADO  |     INDICADO |  CLASSIFICADO  --  | CLASSIFICADO | 
+|  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |         OBS        | 
+| :-----: | :--------------: | :------------: | :-------------: | :----------------: |
+| 1       | ENTREVISTA       |    INDICADO    |  CONTRAINDICADO |  CLASSIFICADO  --  | 
+| 2       | EXAME MÉDICO     |    APTO        |     INAPTO      |  CLASSIFICADO  --  |
+| 3       | EXAME MÉDICO     |    APTO        |     INAPTO      |  CLASSIFICADO  --  | 
+| 4       | TESTE HABILIDADE |    INDICADO    |     INDICADO     |  CLASSIFICADO  --  | 
+| 5       | INCORPORAÇÃO     |    CLASSIFICADO  |    NÃO CLASSIFICADO |  CLASSIFICADO  --  | 
 
 
 
