@@ -161,9 +161,11 @@ Principais características do **`SisASC/16º BI Mtz`**:
 #### Parametrização de alguns dos campos de formulário da aba EXAME ODONTOLÓGICO para o conscrito ser considerado <kbd>Apto</kbd> na fase 3 (EXAME ODONTO) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
- EXAME ODONTO               | QNT DE CÁRIE DE ESMALTE             | <=5                                                | APTO     |                              |
- EXAME ODONTO               | QNT DE CÁRIE DE DENTINA             | <=2                                                | APTO     |                              |
- EXAME ODONTO               | QNT RESTAURAÇÕES INADEQUADAS        | <=3                                                | APTO     |                              |
+ EXAME ODONTO               | QNT DE CÁRIE DE ESMALTE             | <=3  (por exemplo)                                 | APTO     |                              |
+ EXAME ODONTO               | QNT DE CÁRIE DE DENTINA             | <=3  (por exemplo)                                 | APTO     |                              |
+ EXAME ODONTO               | QNT RESTAURAÇÕES INADEQUADAS        | <=3  (por exemplo)                                 | APTO     |                              |
+ EXAME ODONTO               | QNT AUSÊNCIA DENT ANTERIOR          | <=3  (por exemplo)                                 | APTO     |                              |
+ EXAME ODONTO               | QNT AUSÊNCIA DENT POSTERIOR         | <=3  (por exemplo)                                 | APTO     |                              |
 
 > **Note**
 > Não existe também no sistema, na fase de realização dos exames médicos/adontológicos, o botão `Apto`, ou `Conscrito apto`, ou `Conscrito inapto`. Essa tarefa também foi automatizada, significando dizer que o próprio sistema se encarregará de definir se o conscrito foi apto (ou inapto), a partir dos dados coletados na FDE em confronto com os parâmetros clínicos configurados, que por enquanto são os constantes da tabela acima.
