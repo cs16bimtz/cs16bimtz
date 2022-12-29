@@ -225,7 +225,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 </table>
 
 |  CASO |ENTREVISTA|EXAME MÉDICO|EXAME ODONTO|TESTE DE HABILIDADES|  STATUS | rerer|
-| ----- | -------- | ---------- | ---------- | ------------------ | ------- | ----- |
+| :-----: | :--------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
 | 1     |      🔵  |     🔵    |      🔵    |               🔵  | CLASSIFICADO |    |
 | 2     |      🔵  |     🔵    |      🔵    |               🔵  |   CLASSIFICADO|    |
 | 3     |      🔵  |     🔵    |      🔵    |               🔵  |  CLASSIFICADO |    |
