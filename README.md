@@ -129,7 +129,6 @@ Principais características do **`SisASC/16º BI Mtz`**:
  DADOS PESSOAIS             | RELIGIÃO                            | !=Adventista                                       | INDICADO |Não pode ser adventista       |
  DADOS PESSOAIS             | ESCOLARIDADE                        | !=Ensino fundamental incompleto                    | INDICADO |Pelo menos o EF completo      |
  DADOS PESSOAIS             | VOLUNTÁRIO                          | Sim                                                | INDICADO |                              |
- 
 > **Note**
 > No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre-se de que esse é um campo com validação (noempty). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo não for preenchido.  
 
@@ -145,7 +144,6 @@ Principais características do **`SisASC/16º BI Mtz`**:
  PERFIL SOCIOECONÔMICO      | PASSAGEM PELA POLÍCIA               | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
-  
 > **Note**
 > No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente (!=) de "Pais", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorosos quanto possível. Nesse batalhão hipotético todos os candidatos devem morar com os pais, porque morar com os pais pressupõe certos valores morais e éticos essenciais à vida na caserna.
 
@@ -156,7 +154,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
  EXAME MÉDICO               | FEZ OU FAZ                          | !=Tratamento Psicológico                           | APTO     |                              |
  EXAME MÉDICO               | FEZ OU FAZ                          | !=Tratamento Psiquiátrico                          | APTO     |                              |
 > **Note**
-> Não existe no sistema o botão `Indicado`, ou `Indicar candidato`, ou `Indicar conscrito`. Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
+> Não existe também no sistema, na fase de realização dos exames médicos/adontológicos, o botão `Apto`, ou `Conscrito apto`, ou `Conscrito inapto`. Essa tarefa também foi automatizada, significando dizer que o próprio sistema se encarregará de definir se o conscrito foi apto (ou inapto), a partir dos dados coletados na FDE em confronto com os parâmetros clínicos configurados, que por enquanto são os constantes da tabela acima.
 
 ### 7 - RESULTADO/FASE DA SELEÇÃO
 <table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
