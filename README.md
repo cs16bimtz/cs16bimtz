@@ -230,7 +230,3 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > **Note**
 > Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
-| Nº  | DATA APRESENTAÇÃO   |GRUPAMENTO  | QTDE   |
-|-------- | -------- |--------|----------|
-| 1   | 10/01/2023    |TODOS  | -   |
-| 2   | 10/01/2023    | 600 | -   |
