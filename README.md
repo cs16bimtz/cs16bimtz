@@ -224,6 +224,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 </tr>
 </tbody>
 </table>
+
 > **Note**
 > Conscrito contraindicado na entrevista não realiza a fase seguinte conforme tabela de STATUS/CASO
 
