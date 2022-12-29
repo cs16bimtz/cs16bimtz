@@ -224,13 +224,13 @@ Principais características do **`SisASC/16º BI Mtz`**:
 </tbody>
 </table>
 
-|  CASO |ENTREVISTA|EXAME MÉDICO|EXAME ODONTO|TESTE DE HABILIDADES|  STATUS | rerer|
+|  CASO |ENTREVISTA|EXAME MÉDICO|EXAME ODONTO|TESTE DE HABILIDADES|  STATUS | OBS|
 | :-----: | :--------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
 | 1     |      🔵  |     🔵    |      🔵    |               🔵  | CLASSIFICADO |    |
-| 2     |      🔵  |     🔵    |      🔵    |               🔵  |   CLASSIFICADO|    |
-| 3     |      🔵  |     🔵    |      🔵    |               🔵  |  CLASSIFICADO |    |
-| 4     |      🔵  |     🔵    |             |                   |  CLASSIFICADO    |    |
-| 5     |      🔵  |            |            |                    |   CLASSIFICADO   |   | 
+| 2     |      🔵  |     🔵    |      🔵    |               🔴  |   CLASSIFICADO|    |
+| 3     |      🔵  |     🔵    |      🔴    |                    |  NÃO CLASSIFICADO |    |
+| 4     |      🔵  |     🔴    |             |                   | NÃO CLASSIFICADO    |    |
+| 5     |      🔴  |            |            |                    |   NÃO CLASSIFICADO   |   | 
 
 > **Note**
 > Conscrito contraindicado na entrevista não realiza a fase seguinte conforme Caso 5 da tabela STATUS/CASO.
