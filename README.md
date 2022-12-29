@@ -91,14 +91,14 @@ Principais características do **`SisASC/16º BI Mtz`**:
 </tr>
 <tr>
 <td style="text-align: center;"><strong>2</strong></td>
-<td style="text-align: center;"><strong>INSPEÇÃO MÉDICA</strong></td>
+<td style="text-align: center;"><strong>EXAME MÉDICO</strong></td>
 <td style="text-align: center;"><strong>APTO</strong></td>
 <td style="text-align: center;"><strong>INAPTO</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>3</strong></td>
-<td style="text-align: center;"><strong>INSPEÇÃO ODONTO</strong></td>
+<td style="text-align: center;"><strong>EXAME ODONTO</strong></td>
 <td style="text-align: center;"><strong>APTO</strong></td>
 <td style="text-align: center;"><strong>INAPTO</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
@@ -124,22 +124,30 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as característica que se deseja em um soldado; na fase onde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
 
 ### 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
-Parametrização dos campos de formulário das abas DADOS PESSOAIS, PERFIL SOCIOECONÔMICO e INSPEÇÃO MÉDICA para o conscrito ser considerado <kbd>classificado</kbd> no processo seletivo:
+Parametrização dos campos de formulário da aba DADOS PESSOAIS, para o conscrito ser considerado <kbd>Indicado</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
  DADOS PESSOAIS             | ESTADO CIVIL                        | Solteiro                                           | INDICADO |                              |
  DADOS PESSOAIS             | RELIGIÃO                            | !=Adventista                                       | INDICADO |Não pode ser adventista       |
  DADOS PESSOAIS             | ESCOLARIDADE                        | !=Ensino fundamental incompleto                    | INDICADO |Pelo menos o EF completo      |
  DADOS PESSOAIS             | VOLUNTÁRIO                          | Sim                                                | INDICADO |                              |
+ 
+Parametrização dos campos de formulário da aba PERFIL SOCIOECONÔMICO para o conscrito ser considerado <kbd>Indicado</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
+ ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
+----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
  PERFIL SOCIOECONÔMICO      | MORA COM QUEM NO ENDEREÇO DECLARADO | Pais                                               | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EM CASO DE CONVOCAÇÃO               | !=Adotarei o aquartelamento como residência        | INDICADO |Não pode querer ser laranjeira|
  PERFIL SOCIOECONÔMICO      | ARRIMO DE FAMÍLIA                   | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | PASSAGEM PELA POLÍCIA               | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
- INSPEÇÃO MÉDICA            | TOMA REMÉDIO CONTROLADO             | Não                                                | APTO     |                              |
- INSPEÇÃO MÉDICA            | FEZ OU FAZ                          | !=Tratamento Psicológico                           | APTO     |                              |
- INSPEÇÃO MÉDICA            | FEZ OU FAZ                          | !=Tratamento Psiquiátrico                          | APTO     |                              |
+  
+Parametrização dos campos de formulário da aba EXAME MÉDICO para o conscrito ser considerado <kbd>Apto</kbd> na fase 2 (EXAME MÉDICO) do processo seletivo:
+ ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
+----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
+ EXAME MÉDICO               | TOMA REMÉDIO CONTROLADO             | Não                                                | APTO     |                              |
+ EXAME MÉDICO               | FEZ OU FAZ                          | !=Tratamento Psicológico                           | APTO     |                              |
+ EXAME MÉDICO               | FEZ OU FAZ                          | !=Tratamento Psiquiátrico                          | APTO     |                              |
 
 > **Note**
 > No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre que esse é um campo com validação (noempty). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo estiver vazio.  
