@@ -132,6 +132,9 @@ Parametrização dos campos de formulário da aba DADOS PESSOAIS, para o conscri
  DADOS PESSOAIS             | ESCOLARIDADE                        | !=Ensino fundamental incompleto                    | INDICADO |Pelo menos o EF completo      |
  DADOS PESSOAIS             | VOLUNTÁRIO                          | Sim                                                | INDICADO |                              |
  
+> **Note**
+> No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre que esse é um campo com validação (noempty). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo estiver vazio.  
+
 Parametrização dos campos de formulário da aba PERFIL SOCIOECONÔMICO para o conscrito ser considerado <kbd>Indicado</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
@@ -148,9 +151,6 @@ Parametrização dos campos de formulário da aba EXAME MÉDICO para o conscrito
  EXAME MÉDICO               | TOMA REMÉDIO CONTROLADO             | Não                                                | APTO     |                              |
  EXAME MÉDICO               | FEZ OU FAZ                          | !=Tratamento Psicológico                           | APTO     |                              |
  EXAME MÉDICO               | FEZ OU FAZ                          | !=Tratamento Psiquiátrico                          | APTO     |                              |
-
-> **Note**
-> No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre que esse é um campo com validação (noempty). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo estiver vazio.  
 
 > **Note**
 > No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente de "Pais", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorosos quanto possível. Nesse batalhão hipotético todos os candidatos devem morar com os pais, porque morar com os pais pressupõe certos valores morais e éticos essenciais à vida na caserna.
