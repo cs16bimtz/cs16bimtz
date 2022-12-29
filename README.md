@@ -224,13 +224,13 @@ Principais características do **`SisASC/16º BI Mtz`**:
 </tbody>
 </table>
 
-|  rtrt |trt   |   rtrt|   trtr|rtrrt   |  trtrt |
-| ----- | ---- | ----- | ----- | ------ | ------ |
-|🔵     | 🔵  | 🔵  |  🔵 | 🔵  |  🔵 |
-|  🔵   | 🔵  |🔵   | 🔵  | 🔵  | 🔵  |
-|🔵   | 🔵  |🔵   | 🔵  |  🔵 |  🔵 |
-| 🔵  |🔵   |🔵   |🔵   |🔵   | 🔵  |
-|  🔴 |   |   |   |   |   |
+|  rtrt |trt   |   rtrt|   trtr|rtrrt   |  trtrt | rerer|
+| ----- | ---- | ----- | ----- | ------ | ------ | ----- |
+|🔵     | 🔵  | 🔵  |  🔵 | 🔵  |  🔵 |   |
+|  🔵   | 🔵  |🔵   | 🔵  | 🔵  | 🔵  |   |
+|🔵   | 🔵  |🔵   | 🔵  |  🔵 |  🔵 |    |
+| 🔵  |🔵   |🔵   |🔵   |🔵   | 🔵  |     |
+|  🔴 |   |   |   |   |   |   | 
 
 > **Note**
 > Conscrito contraindicado na entrevista não realiza a fase seguinte conforme Caso 5 da tabela STATUS/CASO.
