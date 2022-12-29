@@ -171,7 +171,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Não existe também no sistema, na fase de realização dos exames médicos/adontológicos, o botão `Apto`, ou `Conscrito apto`, ou `Conscrito inapto`. Essa tarefa também foi automatizada, significando dizer que o próprio sistema se encarregará de definir se o conscrito foi apto (ou inapto), a partir dos dados coletados na FDE em confronto com os parâmetros configurados, que por enquanto são os constantes das tabelas acima.
 
 ### 7 - STATUS/CASO
-<table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
+<!--<table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
 <tbody>
 <tr>
 <td style="text-align: center;"><strong>CASO</strong></td>
@@ -222,7 +222,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 <td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
 </tr>
 </tbody>
-</table>
+</table>-->
 
 |  CASO |ENTREVISTA|EXAME MÉDICO|EXAME ODONTO|TESTE DE HABILIDADES|  STATUS | OBS|
 | :-----: | :--------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
