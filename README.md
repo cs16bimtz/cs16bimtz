@@ -77,62 +77,13 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 ### 5 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
-| :-----: | :--------------: | :------------: | :-------------: | :---:|
-| 1       | ENTREVISTA       |  INDICADO      |  CONTRAINDICADO |  -   | 
-| 2       | EXAME MÉDICO     |  APTO          |     INAPTO      |  -   |
-| 3       | EXAME ODONTO     |  APTO          |     INAPTO      |  -   | 
-| 4       | TESTE HABILIDADE |  DEMONSTROU    |   NÃO DEMONSTROU|  -   | 
-| 5       | INCORPORAÇÃO     |  CLASSIFICADO  |NÃO CLASSIFICADO |  -   | 
+| :------: | :-------------: | :------------: | :-------------: | :---:|
+|  1       | ENTREVISTA      |  INDICADO      | CONTRAINDICADO  |  -   | 
+|  2       | EXAME MÉDICO    |  APTO          | INAPTO          |  -   |
+|  3       | EXAME ODONTO    |  APTO          | INAPTO          |  -   | 
+|  4       | TESTE HABILIDADE|  DEMONSTROU    | NÃO DEMONSTROU  |  -   | 
+|  5       | INCORPORAÇÃO    |  CLASSIFICADO  | NÃO CLASSIFICADO|  -   | 
 
-
-
-
-<table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Nº FASE</strong></td>
-<td style="text-align: center;"><strong>DESCRIÇÃO DA FASE</strong></td>
-<td style="text-align: center;" colspan="2"><strong>TERMINOLOGIA</strong></td>
- <td style="text-align: center;"><strong>OBS</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>1</strong></td>
-<td style="text-align: center;"><strong>ENTREVISTA</strong></td>
-<td style="text-align: center;"><strong>INDICADO</strong></td>
-<td style="text-align: center;"><strong>CONTRAINDICADO</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>2</strong></td>
-<td style="text-align: center;"><strong>EXAME MÉDICO</strong></td>
-<td style="text-align: center;"><strong>APTO</strong></td>
-<td style="text-align: center;"><strong>INAPTO</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>3</strong></td>
-<td style="text-align: center;"><strong>EXAME ODONTO</strong></td>
-<td style="text-align: center;"><strong>APTO</strong></td>
-<td style="text-align: center;"><strong>INAPTO</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>4</strong></td>
-<td style="text-align: center;"><strong>TESTE HABILIDADES</strong></td>
-<td style="text-align: center;"><strong>DEMONSTROU</strong></td>
-<td style="text-align: center;"><strong>NÃO DEMONSTROU</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>5</strong></td>
-<td style="text-align: center;"><strong>INCORPORAÇÃO</strong></td>
-<td style="text-align: center;"><strong>CLASSSIFICADO</strong></td>
-<td style="text-align: center;"><strong>NÃO CLASSSIFICADO</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-</tbody>
-</table>
- 
 > **Note** 
 > Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as característica que se deseja em um soldado; na fase onde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
 
