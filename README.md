@@ -57,11 +57,7 @@ No entanto, se durante a fase de processamento dos dados (fase pós CS), o núme
 
 Exemplo: O Cmt pode estabelecer inicialmente que todos os conscritos selecionados para a incorporação necessariamente devam residir em Natal (campo ENDEREÇO, da aba DADOS PESSOAIS, deve conter a expressão "natal", restringindo o universo de seleção). Com oportunidade é possível ampliar o universo de seleção acresecentando aos critérios expressões como "parnamirim", "mipibu", "macaiba", "nisia" etc.  
 
-> **Warning**
-> A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
-
 Principais características do **`SisASC/16º BI Mtz`**:
-
 - Ferramenta de gestão e controle; 
 - Ficha Digital de Entrevista (FDE); 
 - Relatórios (Consultas) predefinidos no sistema: 
@@ -134,6 +130,9 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 > **Note**
 > Não existe também no sistema, na fase de realização dos exames médicos/adontológicos, o botão `Apto`, ou `Conscrito apto`, ou `Conscrito inapto`. Essa tarefa também foi automatizada, significando dizer que o próprio sistema se encarregará de definir se o conscrito foi apto (ou inapto), a partir dos dados coletados na FDE em confronto com os parâmetros configurados, que por enquanto são os constantes das tabelas acima.
+
+> **Warning**
+> A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
 ### 7 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
 |  CASO |ENTREVISTA|EXAME MÉDICO|EXAME ODONTO|TESTE DE HABILIDADES|  STATUS | OBS|
