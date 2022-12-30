@@ -195,11 +195,11 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 
 Legenda: 
 
-**V**-`Visualiza`
+**V** -`Visualiza`
 
-**I**-`Insere`
+**I** -`Insere`
 
-**E**-`Edita`
+**E** -`Edita`
 
 > **Note**
 
