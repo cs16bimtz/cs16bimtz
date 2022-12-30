@@ -174,9 +174,9 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
 |  1  | Cmt OM            | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
 |  2  | Presidente da CS  | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
-|  3  | Médico            | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
-|  4  | Dentis            | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
-|  5  | Entrevistador     | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
+|  3  | Médico            |V               | V            |V  | IEV        |V           | V               | V                   | -    |
+|  4  | Dentis            |V               | V            |V  | -          |IEV         | V               | V                   | -    |
+|  5  | Entrevistador     | ALL            | ALL          |ALL| V          |V           | ALL             | ALL                 | ALL  |
 
 
 
