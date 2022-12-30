@@ -68,11 +68,12 @@ Principais características do **`SisASC/16º BI Mtz`**:
    - Classificados/Não classificados para a incorporação;
    - Outras consultas (Conscritos/Estado Civil, Conscritos/Escolaridade, Conscritos/Religião, etc...)  
 - Ferramenta de busca avançada; 
-- Impressão da Ficha de Entrevista gerada. 
+- Impressão da Ficha de Entrevista gerada (Apenas para os candidatos classificados). 
 - Imprime e exporta consulta PDF, CSV; 
 - Formulário para cadastramento de entrevistadores 
 - Controle de acesso; 
 - Log de ações do usuário (auditoria); 
+- Diferentemente da prática adotada pelas comissões anteriores, de dispensar o conscrito não conforme ao longo da seleção complementar, a adoção do SisASC contempla uma fase de divulgação de resultados para os conscritos
 
 ### 5 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
