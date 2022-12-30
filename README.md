@@ -187,11 +187,15 @@ Principais características do **`SisASC/16º BI Mtz`**:
 A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário.
 |  Nº |      PERFIL       | DADOS PESSOAIS |TITULO ELEITOR|CNH|EXAME MÉDICO|EXAME ODONTO|TESTE HABILIDADES|PERFIL SOCIOECONOMICO|  OBS |
 |:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
-|  1  | Cmt OM            | ALL            | ALL          |ALL| ALL        | ALL        | ALL             | ALL                 | -    |
+|  1  | Cmt OM            | VIES            | ALL          |ALL| ALL        | ALL        | ALL             | ALL                 | -    |
 |  2  | Presidente da CS  | ALL            | ALL          |ALL| ALL        | ALL        | ALL             | ALL                 | -    |
 |  3  | Médico            | V              | V            | V | IEV        | V          | V               | V                   | -    |
 |  4  | Dentista          | V              | V            | V | V          | IEV        | V               | V                   | -    |
 |  5  | Entrevistador     | ALL            | ALL          |ALL| V          | V          | ALL             | ALL                 | -    |
+Legenda: 
+**V**: `Visualiza`
+**I**: `Insere`
+**E**: `Edita`
 
 > **Note**
 
@@ -202,3 +206,5 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 > O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
 
 > O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
+
+
