@@ -195,6 +195,8 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 
 > **Note**
 
+> O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros;
+
 > O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
 
 > O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
