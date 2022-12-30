@@ -209,3 +209,11 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |  4       | 3º Sgt Jonatas Damasceno         |  entrevistador_3 |       root      |  -   | 
 |  5       |                                  |  entrevistador_4 |                 |  -   | 
 |  6       |                                  |  entrevistador_4 |                 |  -   | 
+> **Note**
+> As senhas serão redefinidas por ocasião da CS; 
+
+> **Note**
+> Cada entevistador tem visibilidade apenas dos seus entrevistados
+
+> **Note**
+> Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador.
