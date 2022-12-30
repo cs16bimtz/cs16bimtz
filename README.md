@@ -1,4 +1,4 @@
-Sistema de Acompanhamento da Seleção Complementar - Guia do utilizador 👋 :star_white:
+Sistema de Acompanhamento da Seleção Complementar - Guia do utilizador 👋
 
 ### 1 - INTRODUÇÃO AO SisASC
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta e processamento de dados dos conscritos durante a execução da seleção complementar na OM.
