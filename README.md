@@ -70,11 +70,17 @@ Principais características do **`SisASC/16º BI Mtz`**:
 ✔️ Ficha Digital de Entrevista (FDE); 
 
 ✔️ Relatórios (Consultas) predefinidos no sistema: 
+
    ➖ Indicados/Contraindicados na Entrevista;
+   
    ➖ Aptos/Inaptos na Inspeção de Saúde;
+   
    ➖ Voluntários/Não voluntários;
+   
    ➖ Possuem/Não possuem habilidades;
+   
    ➖ Classificados/Não classificados para a incorporação;
+   
    ➖ Outras consultas (Conscritos/Estado Civil, Conscritos/Escolaridade, Conscritos/Religião, etc...)  
 
 ✔️ Ferramenta de busca avançada; 
