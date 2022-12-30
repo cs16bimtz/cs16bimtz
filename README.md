@@ -23,6 +23,7 @@ A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
 ![menus e abas 5](https://user-images.githubusercontent.com/121310141/209486078-dd89a412-65c7-4e53-bc3d-2db3ab8643e8.png)
 
  Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do Conscrito em evidência. 
+ 
  > **Note**
 > Repare que o sistema recusa o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, VOLUNTÁRIO ou ENTREVISTADOR não forem corretamente preenchidos. 
 
@@ -170,6 +171,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. 
 
 ### 9 - TABELA DE PERMISSÕES
+A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário.
 |  Nº |      PERFIL       | DADOS PESSOAIS |TITULO ELEITOR|CNH|EXAME MÉDICO|EXAME ODONTO|TESTE HABILIDADES|PERFIL SOCIOECONOMICO|  OBS |
 |:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
 |  1  | Cmt OM            | ALL            | ALL          |ALL| ALL        | ALL        | ALL             | ALL                 | -    |
@@ -178,7 +180,8 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |  4  | Dentista          | V              | V            | V | V          | IEV        | V               | V                   | -    |
 |  5  | Entrevistador     | ALL            | ALL          |ALL| V          | V          | ALL             | ALL                 | -    |
 
-
+> **Note**
+> Não existe no sistema o botão `Indicado`, ou `Indicar candidato`, ou `Indicar conscrito`. Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 
 
 
