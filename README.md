@@ -135,10 +135,10 @@ Principais características do **`SisASC/16º BI Mtz`**:
 ### 7 - STATUS/CASO
 |  CASO |ENTREVISTA|EXAME MÉDICO|EXAME ODONTO|TESTE DE HABILIDADES|  STATUS | OBS|
 | :-----: | :--------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
-| 1     |      🔵  |     🔵    |      🔵    |               🔵  | CLASSIFICADO |    |
-| 2     |      🔵  |     🔵    |      🔵    |               🔴  |   CLASSIFICADO|    |
-| 3     |      🔵  |     🔵    |      🔴    |                    |  NÃO CLASSIFICADO |    |
-| 4     |      🔵  |     🔴    |             |                   | NÃO CLASSIFICADO    |    |
+| 1     |      🟢  |     🟢    |      🟢    |               🟢  | CLASSIFICADO |    |
+| 2     |      🟢  |     🟢    |      🟢    |               🔴  |   CLASSIFICADO|    |
+| 3     |      🟢  |     🟢    |      🔴    |                    |  NÃO CLASSIFICADO |    |
+| 4     |      🟢  |     🔴    |             |                   | NÃO CLASSIFICADO    |    |
 | 5     |      🔴  |            |            |                    |   NÃO CLASSIFICADO   |   | 
 
 > **Note**
