@@ -64,38 +64,22 @@ No entanto, se durante a fase de processamento dos dados (fase pós CS), o núme
 Exemplo: O Cmt pode estabelecer inicialmente que todos os conscritos selecionados para a incorporação necessariamente devam residir em Natal (campo ENDEREÇO, da aba DADOS PESSOAIS, deve conter a expressão "natal", restringindo o universo de seleção). Com oportunidade é possível ampliar o universo de seleção acresecentando aos critérios expressões como "parnamirim", "mipibu", "macaiba", "nisia" etc.  
 
 Principais características do **`SisASC/16º BI Mtz`**:
-
-✔️ Ferramenta de gestão e controle; 
-
-✔️ Ficha Digital de Entrevista (FDE); 
-
-✔️ Relatórios (Consultas) predefinidos no sistema: 
-
-   ➖ Indicados/Contraindicados na Entrevista;
-   
-   ➖ Aptos/Inaptos na Inspeção de Saúde;
-   
-   ➖ Voluntários/Não voluntários;
-   
-   ➖ Possuem/Não possuem habilidades;
-   
-   ➖ Classificados/Não classificados para a incorporação;
-   
-   ➖ Outras consultas (Conscritos/Estado Civil, Conscritos/Escolaridade, Conscritos/Religião, etc...)  
-
-✔️ Ferramenta de busca avançada; 
-
-✔️ Impressão da Ficha de Entrevista gerada (Apenas para os candidatos classificados);
-
-✔️ Imprime e exporta consulta PDF, CSV;
-
-✔️ Formulário para cadastramento de entrevistadores;
-
-✔️ Controle de acesso; 
-
-✔️ Log de ações do usuário (auditoria); 
-
-✔️ A adoção do SisASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
+- Ferramenta de gestão e controle; 
+- Ficha Digital de Entrevista (FDE); 
+- Relatórios (Consultas) predefinidos no sistema: 
+   - Indicados/Contraindicados na Entrevista;   
+   - Aptos/Inaptos na Inspeção de Saúde;   
+   - Voluntários/Não voluntários;   
+   - Possuem/Não possuem habilidades;   
+   - Classificados/Não classificados para a incorporação;   
+   - Outras consultas (Conscritos/Estado Civil, Conscritos/Escolaridade, Conscritos/Religião, etc...)  
+- Ferramenta de busca avançada; 
+- Impressão da Ficha de Entrevista gerada (Apenas para os candidatos classificados);
+- Imprime e exporta consulta PDF, CSV;
+- Formulário para cadastramento de entrevistadores;
+- Controle de acesso; 
+- Log de ações do usuário (auditoria); 
+- A adoção do SisASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
 
 ### 5 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  CLASSIFICAÇÃO | 
