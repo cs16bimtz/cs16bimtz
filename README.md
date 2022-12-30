@@ -148,7 +148,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
 ### 8 - TABELA DE USUÁRIOS DO SISTEMA
-|     Nº   |             NOME                 |      USUÁRIO     |      SENHA      |  OBS | 
+|     Nº   |        NOME DO UTILIZADOR        |      USUÁRIO     |      SENHA      |  OBS | 
 |:--------:|----------------------------------| :--------------: | :-------------: | :---:|
 |  1       | Presidente da CS                 |            chcs  |       root      |  -   | 
 |  2       | Médico 1                         |         medico_1 |       root      |  -   |
@@ -170,18 +170,20 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. 
 
 ### 9 - TABELA DE PERMISSÕES
-| Nº|             NOME                 |      CRIA        |      EDITA      |  OBS | 
-|:---:|----------------------------------| :--------------: | :-------------: | :---:|
-|  1       | Presidente da CS                 |           TODAS  |      TODAS      |  -   | 
-|  2       | Médico 1                         | ABA EXAME MÉDICO | ABA EXAME MÉDICO|  -   |
-|  3       | Médico 2                         | ABA EXAME MÉDICO | ABA EXAME MÉDICO|  -   | 
-|  4       | Dentista                         | ABA EXAME ODONTO | ABA EXAME ODONTO|  -   | 
-|  5       | Entrevistador 1                  |  entrevistador_1 |       root      |  -   | 
-|  6       | Entrevistador 2                  |  entrevistador_2 |       root      |  -   | 
-|  7       | Entrevistador 3                  |  entrevistador_3 |       root      |  -   | 
-|  8       | Entrevistador 4                  |  entrevistador_4 |                 |  -   | 
-|  9       | Entrevistador 5                  |  entrevistador_5 |                 |  -   | 
-|  10      | Entrevistador 6                  |  entrevistador_6 |                 |  -   | 
+|  Nº |      PERFIL       | DADOS PESSOAIS |TITULO ELEITOR|CNH|EXAME MÉDICO|EXAME ODONTO|TESTE HABILIDADES|PERFIL SOCIOECONOMICO|  OBS |
+|:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
+|  1  | Cmt OM            | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
+|  2  | Presidente da CS  | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
+|  3  | Médico            | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
+|  4  | Dentis            | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
+|  5  | Entrevistador     | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
+
+
+
+
+
+
+
 
 
 ## 5 - TABELA DE PERMISSÕES
