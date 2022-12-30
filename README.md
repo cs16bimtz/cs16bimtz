@@ -172,11 +172,11 @@ Principais características do **`SisASC/16º BI Mtz`**:
 ### 9 - TABELA DE PERMISSÕES
 |  Nº |      PERFIL       | DADOS PESSOAIS |TITULO ELEITOR|CNH|EXAME MÉDICO|EXAME ODONTO|TESTE HABILIDADES|PERFIL SOCIOECONOMICO|  OBS |
 |:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
-|  1  | Cmt OM            | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
-|  2  | Presidente da CS  | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | ALL  |
+|  1  | Cmt OM            | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | -    |
+|  2  | Presidente da CS  | ALL            | ALL          |ALL| ALL        |ALL         | ALL             | ALL                 | -    |
 |  3  | Médico            |V               | V            |V  | IEV        |V           | V               | V                   | -    |
-|  4  | Dentis            |V               | V            |V  | -          |IEV         | V               | V                   | -    |
-|  5  | Entrevistador     | ALL            | ALL          |ALL| V          |V           | ALL             | ALL                 | ALL  |
+|  4  | Dentista          |V               | V            |V  | V          |IEV         | V               | V                   | -    |
+|  5  | Entrevistador     | ALL            | ALL          |ALL| V          |V           | ALL             | ALL                 | -    |
 
 
 
