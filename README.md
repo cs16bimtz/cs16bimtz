@@ -168,3 +168,17 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 > **Note**
 > Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. 
+
+### 9 - TABELA DE PERMISSÕES
+|     Nº   |             NOME                 |      CRIA        |      EDITA      |  OBS | 
+|:--------:|----------------------------------| :--------------: | :-------------: | :---:|
+|  1       | Presidente da CS                 |           TODAS  |      TODAS      |  -   | 
+|  2       | Médico 1                         | ABA EXAME MÉDICO | ABA EXAME MÉDICO|  -   |
+|  3       | Médico 2                         | ABA EXAME MÉDICO | ABA EXAME MÉDICO|  -   | 
+|  4       | Dentista                         | ABA EXAME ODONTO | ABA EXAME ODONTO|  -   | 
+|  5       | Entrevistador 1                  |  entrevistador_1 |       root      |  -   | 
+|  6       | Entrevistador 2                  |  entrevistador_2 |       root      |  -   | 
+|  7       | Entrevistador 3                  |  entrevistador_3 |       root      |  -   | 
+|  8       | Entrevistador 4                  |  entrevistador_4 |                 |  -   | 
+|  9       | Entrevistador 5                  |  entrevistador_5 |                 |  -   | 
+|  10      | Entrevistador 6                  |  entrevistador_6 |                 |  -   | 
