@@ -10,7 +10,7 @@ Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinid
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
 
-A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
+📂 A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
 - Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
 - As FDE que serão impressas, assinadas e arquivadas ao final do processo (véspera de incorporação) serão as dos conscritos classificados no processo de selação;
 - Controle eficiente de cada uma das fases da CS;
