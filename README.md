@@ -194,6 +194,9 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 |  5  | Entrevistador     | ALL            | ALL          |ALL| V          | V          | ALL             | ALL                 | -    |
 
 > **Note**
-> O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente.
+
+> O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
+
 > O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
+
 > O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
