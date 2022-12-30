@@ -162,7 +162,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
 ### 8 - TABELA DE USUÁRIOS DO SISTEMA
-|     Nº   |        NOME DO UTILIZADOR        |      USUÁRIO     |      SENHA      |  OBS | 
+|     Nº   |        NOME DO UTILIZADOR        |      👤     |      🔒      |  OBS | 
 |:--------:|----------------------------------| :--------------: | :-------------: | :---:|
 |  1       | Presidente da CS                 |            chcs  |       root      |  -   | 
 |  2       | Médico 1                         |         medico_1 |       root      |  -   |
