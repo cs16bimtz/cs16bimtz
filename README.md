@@ -200,3 +200,12 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > **Note**
 > Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
+### 8 - TABELA DE USUÁRIOS DO SISTEMA
+|     Nº   |             NOME                 |      USUÁRIO     |      SENHA      |  OBS | 
+| :------: | :------------------------------: | :--------------: | :-------------: | :---:|
+|  1       | Cap Lucas Soave                  |  chcs            |       root      |  -   | 
+|  2       | 1º Sgt Luccas dos Santos Filho   |  entrevistador_1 |       root      |  -   |
+|  3       | 2º Sgt Antônio de Sampaio        |  entrevistador_2 |       root      |  -   | 
+|  4       | 3º Sgt Jonatas Damasceno         |  entrevistador_3 |       root      |  -   | 
+|  5       |                                  |  entrevistador_4 |                 |  -   | 
+|  6       |                                  |  entrevistador_4 |                 |  -   | 
