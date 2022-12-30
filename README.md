@@ -77,7 +77,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 ### 5 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
-| :------: | :-------------: | :------------: | :-------------: | :---:|
+| ------ | :-------------: | :------------: | :-------------: | :---:|
 |  1       | ENTREVISTA      |  INDICADO      | CONTRAINDICADO  |  -   | 
 |  2       | EXAME MÉDICO    |  APTO          | INAPTO          |  -   |
 |  3       | EXAME ODONTO    |  APTO          | INAPTO          |  -   | 
