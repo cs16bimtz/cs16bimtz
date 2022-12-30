@@ -192,6 +192,7 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 |  3  | Médico            | V              | V            | V | IEV        | V          | V               | V                   | -    |
 |  4  | Dentista          | V              | V            | V | V          | IEV        | V               | V                   | -    |
 |  5  | Entrevistador     | ALL            | ALL          |ALL| V          | V          | ALL             | ALL                 | -    |
+
 Legenda: 
 **V**: `Visualiza`
 **I**: `Insere`
