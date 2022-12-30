@@ -150,16 +150,16 @@ Principais características do **`SisASC/16º BI Mtz`**:
 ### 8 - TABELA DE USUÁRIOS DO SISTEMA
 |     Nº   |             NOME                 |      USUÁRIO     |      SENHA      |  OBS | 
 |:--------:|----------------------------------| :--------------: | :-------------: | :---:|
-|  1       | Presidente da CS                 |  chcs            |       root      |  -   | 
-|  2       | 1º Sgt Luccas dos Santos Filho   |  entrevistador_1 |       root      |  -   |
-|  3       | 2º Sgt Antônio de Sampaio        |  entrevistador_2 |       root      |  -   | 
-|  4       | 3º Sgt Jonatas Damasceno         |  entrevistador_3 |       root      |  -   | 
-|  5       |                                  |  entrevistador_4 |                 |  -   | 
-|  6       |                                  |  entrevistador_4 |                 |  -   | 
-|  7       |                                  |  entrevistador_4 |                 |  -   | 
-|  8       |                                  |  entrevistador_4 |                 |  -   | 
-|  9       |                                  |  entrevistador_4 |                 |  -   | 
-|  10      |                                  |  entrevistador_4 |                 |  -   | 
+|  1       | Presidente da CS                 |            chcs  |       root      |  -   | 
+|  2       | Médico 1                         |         medico_1 |       root      |  -   |
+|  3       | Médico 2                         |         medico_2 |       root      |  -   | 
+|  4       | Dentista                         |       dentista_1 |       root      |  -   | 
+|  5       | Entrevistador 1                  |  entrevistador_1 |       root      |  -   | 
+|  6       | Entrevistador 2                  |  entrevistador_2 |       root      |  -   | 
+|  7       | Entrevistador 3                  |  entrevistador_3 |       root      |  -   | 
+|  8       | Entrevistador 4                  |  entrevistador_4 |                 |  -   | 
+|  9       | Entrevistador 5                  |  entrevistador_5 |                 |  -   | 
+|  10      | Entrevistador 6                  |  entrevistador_6 |                 |  -   | 
 > **Note**
 > As senhas serão redefinidas por ocasião da CS; 
 
