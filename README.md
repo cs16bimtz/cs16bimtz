@@ -1,10 +1,7 @@
 Sistema de Acompanhamento da Seleção Complementar - Guia do utilizador 👋
 
 ### 1 - INTRODUÇÃO AO SisASC
-Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta e processamento de dados dos conscritos durante a execução da seleção complementar na OM.
-
-### 2 - COMPOSIÇÃO DO SisASC
-O sistema é composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos. A FDE contempla um conjunto de abas ou grupos (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). 
+Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta e processamento de dados dos conscritos durante a execução da seleção complementar na OM. É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos. A FDE contempla um conjunto de abas ou grupos (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). 
 
 Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si. 
 
@@ -18,7 +15,7 @@ A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
 - Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário na FDE, reduz drasticamente o tempo de entrevista por candidato em virtude da simplicidade e da rapidez no preenchimento dos dados;
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
-### 3 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
+### 2 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
 <details>
 <summary>:eyes: <kbd>DADOS PESSOAIS</kbd></summary>
  
@@ -46,7 +43,7 @@ Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do C
 > O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de cadastro.  
 </details>
   
-### 4 - CARACTERÍSTICAS DO SisASC
+### 3 - CARACTERÍSTICAS DO SisASC
 No SisASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM.
 
 O sistema terá as configurações necessárias para garantir que todos os conscritos selecionados para a incorporação, atendam aos requisitos que a unidade deseja. 
@@ -75,7 +72,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Log de ações do usuário (auditoria); 
 - A adoção do SisASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
 
-### 5 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
+### 4 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  CLASSIFICAÇÃO | 
 |:--------:|-----------------|:--------------:|:---------------:|:----:|
 |  1       | ENTREVISTA      |  INDICADO      | CONTRAINDICADO  |  -   | 
@@ -98,7 +95,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
 
 
-### 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
+### 5 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
 #### Parametrização de alguns dos campos de formulário da aba `DADOS PESSOAIS`, para o conscrito ser considerado <kbd>Indicado</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
@@ -146,7 +143,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > **Warning**
 > A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
-### 7 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
+### 6 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
 |   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES| RESULTADO CS | CLASSIFICAÇÃO|
 | :-----: | :---------: | :----------: | :----------: | :------------------: |:-------:|-----|
 | 1       |🟢    |🟢      |🟢     |🟢  |   APROVADO|⭐⭐⭐⭐⭐|
@@ -161,7 +158,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > **Note**
 > Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
-### 8 - TABELA DE USUÁRIOS DO SISTEMA
+### 7 - TABELA DE USUÁRIOS DO SISTEMA
 |     Nº   |        NOME DO UTILIZADOR        |      👤     |      🔒      |  OBS | 
 |:--------:|----------------------------------| :--------------: | :-------------: | :---:|
 |  1       | Presidente da CS                 |            chcs  |       root      |  -   | 
@@ -183,7 +180,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > **Note**
 > Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. 
 
-### 9 - TABELA DE PERMISSÕES
+### 8 - TABELA DE PERMISSÕES
 A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário.
 |  Nº |      PERFIL       | DADOS PESSOAIS |TITULO ELEITOR|CNH|EXAME MÉDICO|EXAME ODONTO|TESTE HABILIDADES|PERFIL SOCIOECONOMICO|  OBS |
 |:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
