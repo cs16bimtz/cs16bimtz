@@ -111,7 +111,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
 > **Note**
-> No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente (!=) de "Pais", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorosos quanto possível. Nesse batalhão hipotético todos os candidatos devem morar com os pais, porque morar com os pais pressupõe certos valores morais e éticos essenciais à vida na caserna.
+> No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente (!=) de "Pais", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorosos quanto possível. Nesse batalhão hipotético todos os conscritos devem morar com os pais, porque morar com os pais pressupõe que o candidato seja detentor de valores morais e éticos que só podem ser adquiridos com a convivência em um grupo familiar, valores esses, essenciais à vida na caserna.
 
 #### Parametrização de alguns dos campos de formulário da aba `EXAME MÉDICO` para o conscrito ser considerado <kbd>Apto</kbd> na fase 2 (EXAME MÉDICO) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
@@ -133,59 +133,6 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Não existe também no sistema, na fase de realização dos exames médicos/adontológicos, o botão `Apto`, ou `Conscrito apto`, ou `Conscrito inapto`. Essa tarefa também foi automatizada, significando dizer que o próprio sistema se encarregará de definir se o conscrito foi apto (ou inapto), a partir dos dados coletados na FDE em confronto com os parâmetros configurados, que por enquanto são os constantes das tabelas acima.
 
 ### 7 - STATUS/CASO
-<!--<table style="width: 100%; height: 109px; border-color: #000000;" border="1"r>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>CASO</strong></td>
-<td style="text-align: center;"><strong>ENTREVISTA</strong></td>
-<td style="text-align: center;"><strong>INSPEÇÃO MÉDICA</strong></td>
-<td style="text-align: center;"><strong>INSPEÇÃO ODONTO</strong></td>
-<td style="text-align: center;"><strong>TESTE DE HABILIDADES</strong></td>
-<td style="text-align: center;"><strong>STATUS</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>1</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>2</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔴</strong></td>
-<td style="text-align: center;"><strong>CLASSIFICADO</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>3</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔴</strong></td>
-<td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>4</strong></td>
-<td style="text-align: center;"><strong>🔵</strong></td>
-<td style="text-align: center;"><strong>🔴</strong></td>
-<td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>5</strong></td>
-<td style="text-align: center;"><strong>🔴</strong></td>
-<td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong></strong></td>
-<td style="text-align: center;"><strong>NÃO CLASSIFICADO</strong></td>
-</tr>
-</tbody>
-</table>-->
-
 |  CASO |ENTREVISTA|EXAME MÉDICO|EXAME ODONTO|TESTE DE HABILIDADES|  STATUS | OBS|
 | :-----: | :--------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
 | 1     |      🔵  |     🔵    |      🔵    |               🔵  | CLASSIFICADO |    |
