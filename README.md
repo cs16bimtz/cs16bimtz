@@ -216,4 +216,4 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > Cada entevistador tem visibilidade apenas dos seus entrevistados
 
 > **Note**
-> Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. Esse aspecto do sistema pode ser ajustado.
+> Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. Essa característica do sistema pode ser modificada.
