@@ -147,10 +147,10 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
 ### 7 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
-|   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES|  CLASSIFICAÇÃO| OBS|
-| :-----: | :---------: | :----------: | :----------: | :------------------: |-------| :-----: |
-| 1       |🟢    |🟢      |🟢     |🟢  |   APROVADO|⭐⭐⭐⭐⭐  |
-| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|⭐⭐⭐⭐  |
+|   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES| RESULTADO CS | CLASSIFICAÇÃO|
+| :-----: | :---------: | :----------: | :----------: | :------------------: |:-------:|-----|
+| 1       |🟢    |🟢      |🟢     |🟢  |   APROVADO|⭐⭐⭐⭐⭐|
+| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|⭐⭐⭐⭐|
 | 3       |🟢    |🟢      |🔴     |     |  REPROVADO |  -  |
 | 4       |🟢    |🔴      |       |     | REPROVADO    |  -  |
 | 5       |🔴    |         |       |     |   REPROVADO   |  - | 
