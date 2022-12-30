@@ -194,9 +194,12 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 |  5  | Entrevistador     | ALL            | ALL          |ALL| V          | V          | ALL             | ALL                 | -    |
 
 Legenda: 
-**V**: `Visualiza`
-**I**: `Insere`
-**E**: `Edita`
+
+**V**-`Visualiza`
+
+**I**-`Insere`
+
+**E**-`Edita`
 
 > **Note**
 
