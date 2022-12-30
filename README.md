@@ -76,7 +76,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - A adoção do SisASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
 
 ### 5 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
-|  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
+|  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  CLASSIFICAÇÃO | 
 |:--------:|-----------------|:--------------:|:---------------:|:----:|
 |  1       | ENTREVISTA      |  INDICADO      | CONTRAINDICADO  |  -   | 
 |  2       | EXAME MÉDICO    |  APTO          | INAPTO          |  -   |
@@ -147,10 +147,10 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
 ### 7 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
-|   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES|  STATUS PÓS CS| OBS|
+|   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES|  CLASSIFICAÇÃO| OBS|
 | :-----: | :---------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
-| 1       |🟢    |🟢      |🟢     |🟢  | APROVADO |PRIORIDADE NA CLASSIFICAÇÃO    |
-| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|  -  |
+| 1       |🟢    |🟢      |🟢     |🟢  | APROVADO |⭐⭐⭐⭐⭐  |
+| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|  ⭐⭐⭐⭐  |
 | 3       |🟢    |🟢      |🔴     |     |  REPROVADO |  -  |
 | 4       |🟢    |🔴      |       |     | REPROVADO    |  -  |
 | 5       |🔴    |         |       |     |   REPROVADO   |  - | 
