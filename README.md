@@ -139,11 +139,11 @@ Principais características do **`SisASC/16º BI Mtz`**:
 ### 7 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
 |   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES|  STATUS PÓS CS| OBS|
 | :-----: | :---------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
-| 1       |🟢    |🟢      |🟢     |🟢  | APROVADO |    |
-| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|    |
-| 3       |🟢    |🟢      |🔴     |     |  REPROVADO |    |
-| 4       |🟢    |🔴      |       |     | REPROVADO    |    |
-| 5       |🔴    |         |       |     |   REPROVADO   |   | 
+| 1       |🟢    |🟢      |🟢     |🟢  | APROVADO |PRIORIDADE NA CLASSIFICAÇÃO    |
+| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|  -  |
+| 3       |🟢    |🟢      |🔴     |     |  REPROVADO |  -  |
+| 4       |🟢    |🔴      |       |     | REPROVADO    |  -  |
+| 5       |🔴    |         |       |     |   REPROVADO   |  - | 
 
 > **Note**
 > Conscrito contraindicado na entrevista não realiza a fase seguinte conforme Caso 5 da tabela STATUS/CASO.
