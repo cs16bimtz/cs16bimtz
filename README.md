@@ -82,7 +82,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |  2       | EXAME MÉDICO    |  APTO          | INAPTO          |  -   |
 |  3       | EXAME ODONTO    |  APTO          | INAPTO          |  -   | 
 |  4       | TESTE HABILIDADE|  DEMONSTROU    | NÃO DEMONSTROU  |  -   | 
-|  5       | RESULTADO FINAL CS |  APROVADO      | REPROVADO       |  -   |
+|  5       | RESULTADO FINAL CS |  APROVADO      | REPROVADO       |  Finalizada a CS, teremos os candidatos distribuídos em dois grupos   |
 |  5       | PARA A INCORPORAÇÃO    |  CLASSIFICADO  | NÃO CLASSIFICADO|  -   | 
 
 > **Note** 
