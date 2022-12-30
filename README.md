@@ -141,7 +141,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 | :-----: | :---------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
 | 1       |🟢    |🟢      |🟢     |🟢  | APROVADO |    |
 | 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|    |
-| 3       |🟢    |🟢      |🔴     |     |  REPROVADOO |    |
+| 3       |🟢    |🟢      |🔴     |     |  REPROVADO |    |
 | 4       |🟢    |🔴      |       |     | REPROVADO    |    |
 | 5       |🔴    |         |       |     |   REPROVADO   |   | 
 
