@@ -82,11 +82,16 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |  2       | EXAME MÉDICO    |  APTO          | INAPTO          |  -   |
 |  3       | EXAME ODONTO    |  APTO          | INAPTO          |  -   | 
 |  4       | TESTE HABILIDADE|  DEMONSTROU    | NÃO DEMONSTROU  |  -   | 
-|  5       | RESULTADO FINAL CS |  APROVADO      | REPROVADO       |  Finalizada a CS, teremos os candidatos distribuídos em dois grupos   |
+|  5       | RESULTADO FINAL CS |  APROVADO      | REPROVADO       |    |
 |  5       | PARA A INCORPORAÇÃO    |  CLASSIFICADO  | NÃO CLASSIFICADO|  -   | 
 
 > **Note** 
-> Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as característica que se deseja em um soldado; na fase onde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada; na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
+> Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; 
+> Ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as característica que se deseja em um soldado; 
+> Na fase aonde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada;
+> Finalizada a CS, os candidatos estarão distribuídos em dois grupos (APROVADOS/REPROVADOS) 
+> Na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
+
 
 ### 6 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
 #### Parametrização de alguns dos campos de formulário da aba `DADOS PESSOAIS`, para o conscrito ser considerado <kbd>Indicado</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
