@@ -149,8 +149,8 @@ Principais características do **`SisASC/16º BI Mtz`**:
 ### 7 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
 |   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES|  CLASSIFICAÇÃO| OBS|
 | :-----: | :---------: | :----------: | :----------: | :------------------: |-------| :-----: |
-| 1       |🟢    |🟢      |🟢     |🟢  | APROVADO |⭐⭐⭐⭐⭐  |
-| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|  ⭐⭐⭐⭐  |
+| 1       |🟢    |🟢      |🟢     |🟢  |   APROVADO|⭐⭐⭐⭐⭐  |
+| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|⭐⭐⭐⭐  |
 | 3       |🟢    |🟢      |🔴     |     |  REPROVADO |  -  |
 | 4       |🟢    |🔴      |       |     | REPROVADO    |  -  |
 | 5       |🔴    |         |       |     |   REPROVADO   |  - | 
