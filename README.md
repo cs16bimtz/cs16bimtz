@@ -73,7 +73,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Formulário para cadastramento de entrevistadores 
 - Controle de acesso; 
 - Log de ações do usuário (auditoria); 
-- Diferentemente da prática adotada pelas comissões anteriores, de dispensar o conscrito não conforme ao longo da seleção complementar, a adoção do SisASC contempla uma fase de divulgação de resultados para os conscritos
+- A adoção do SisASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
 
 ### 5 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
@@ -82,6 +82,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |  2       | EXAME MÉDICO    |  APTO          | INAPTO          |  -   |
 |  3       | EXAME ODONTO    |  APTO          | INAPTO          |  -   | 
 |  4       | TESTE HABILIDADE|  DEMONSTROU    | NÃO DEMONSTROU  |  -   | 
+|  5       | RESULTADO       |  APROVADO      | REPROVADO       |  -   |
 |  5       | INCORPORAÇÃO    |  CLASSIFICADO  | NÃO CLASSIFICADO|  -   | 
 
 > **Note** 
@@ -136,13 +137,13 @@ Principais características do **`SisASC/16º BI Mtz`**:
 > A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
 
 ### 7 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
-|  CASO |ENTREVISTA|EXAME MÉDICO|EXAME ODONTO|TESTE DE HABILIDADES|  STATUS | OBS|
-| :-----: | :--------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
-| 1     |      🟢  |     🟢    |      🟢    |              🟢  | CLASSIFICADO |    |
-| 2     |      🟢  |     🟢    |      🟢    |               🔴  |   CLASSIFICADO|    |
-| 3     |      🟢  |     🟢    |      🔴    |                    |  NÃO CLASSIFICADO |    |
-| 4     |      🟢  |     🔴    |             |                   | NÃO CLASSIFICADO    |    |
-| 5     |      🔴  |            |            |                    |   NÃO CLASSIFICADO   |   | 
+|   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES|  STATUS PÓS CS| OBS|
+| :-----: | :---------: | :----------: | :----------: | :------------------: | :-------: | :-----: |
+| 1       |🟢    |🟢      |🟢     |🟢  | APROVADO |    |
+| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|    |
+| 3       |🟢    |🟢      |🔴     |     |  REPROVADOO |    |
+| 4       |🟢    |🔴      |       |     | REPROVADO    |    |
+| 5       |🔴    |         |       |     |   REPROVADO   |   | 
 
 > **Note**
 > Conscrito contraindicado na entrevista não realiza a fase seguinte conforme Caso 5 da tabela STATUS/CASO.
