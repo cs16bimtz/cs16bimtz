@@ -110,7 +110,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
  DADOS PESSOAIS             | ESCOLARIDADE                        | &ne; Ensino fundamental incompleto                    | INDICADO |Pelo menos o EF completo      |
  DADOS PESSOAIS             | VOLUNTÁRIO                          | = Sim                                                | INDICADO |                              |
 
-- No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre-se de que esse é um campo com validação (noempty). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo não for preenchido.  
+- No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre-se de que esse é um campo com validação (*noempty*). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo não for preenchido.  
 
 - Não existe no sistema o botão `Indicado`, ou `Indicar candidato`, ou `Indicar conscrito`. Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
 
