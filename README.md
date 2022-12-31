@@ -89,7 +89,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 - Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; 
 
-- Ao longo da  inspeção médica e da inspeção odontológica os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as características físicas e a higidez que se deseja em um soldado; 
+- Ao longo do exame médico e do exame odontológico os termos utilizados são **apto** e **inapto** para indicar que o conscrito `possui/não possui` as características físicas e a higidez que se deseja em um soldado; 
 
 - Na fase aonde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada;
 
@@ -121,7 +121,6 @@ Principais características do **`SisASC/16º BI Mtz`**:
  PERFIL SOCIOECONÔMICO      | PASSAGEM PELA POLÍCIA               | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | Não                                                | INDICADO |                              |
-> **Note**
 
 > No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente (!=) de "Pais", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorosos quanto possível. Nesse batalhão hipotético todos os conscritos devem morar com os pais, porque morar com os pais pressupõe que o candidato seja detentor de valores morais e éticos que só podem ser adquiridos com a convivência em um grupo familiar, valores esses, essenciais à vida na caserna.
 
@@ -141,7 +140,6 @@ Principais características do **`SisASC/16º BI Mtz`**:
  EXAME ODONTO               | QNT AUSÊNCIA DENT ANTERIOR          | <=3  (por exemplo)                                 | APTO     |                              |
  EXAME ODONTO               | QNT AUSÊNCIA DENT POSTERIOR         | <=3  (por exemplo)                                 | APTO     |                              |
 
-> **Note**
 > Não existe também no sistema, na fase de realização dos exames médicos/adontológicos, o botão `Apto`, ou `Conscrito apto`, ou `Conscrito inapto`. Essa tarefa também foi automatizada, significando dizer que o próprio sistema se encarregará de definir se o conscrito foi apto (ou inapto), a partir dos dados coletados na FDE em confronto com os parâmetros configurados, que por enquanto são os constantes das tabelas acima.
 
 > **Warning**
@@ -156,11 +154,9 @@ Principais características do **`SisASC/16º BI Mtz`**:
 | 4       |🟢    |🔴      |       |     | REPROVADO    |  -  |
 | 5       |🔴    |         |       |     |   REPROVADO   |  - | 
 
-> **Note**
-> Conscrito contraindicado na entrevista não realiza a fase seguinte conforme Caso 5 da tabela STATUS/CASO.
+- Conscrito contraindicado na entrevista não realiza a fase seguinte conforme Caso 5 da tabela STATUS/CASO.
 
-> **Note**
-> Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
+- Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
 ### 7 - TABELA DE USUÁRIOS DO SISTEMA
 |     Nº   |        NOME DO UTILIZADOR        |      👤     |      🔒      |  OBS | 
@@ -175,14 +171,12 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |  8       | Entrevistador 4                  |  entrevistador_4 |                 |  -   | 
 |  9       | Entrevistador 5                  |  entrevistador_5 |                 |  -   | 
 |  10      | Entrevistador 6                  |  entrevistador_6 |                 |  -   | 
-> **Note**
-> As senhas serão redefinidas por ocasião da CS; 
 
-> **Note**
-> Cada entevistador tem visibilidade apenas dos seus entrevistados
+- As senhas serão redefinidas por ocasião da CS; 
 
-> **Note**
-> Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. 
+- Cada entevistador tem visibilidade apenas dos seus entrevistados
+
+- Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. 
 
 ### 8 - TABELA DE PERMISSÕES
 A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário.
