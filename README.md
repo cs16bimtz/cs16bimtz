@@ -190,7 +190,7 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 
 Legenda: 
 
-🟢 - Visualiza, insere e altera dados;
+🟢 - Visualiza, insere e altera dados nas abas proprietárias;
 🔴 - Visualiza, não insere nem altera dados
 
 - O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros;
