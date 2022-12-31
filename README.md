@@ -164,9 +164,9 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |:--:|-----------------|:--------------:|:---: |:--------------:|:------------:|:-:|:----------:|:----------:|:---:|:-------:|
 | 1 | Cmt OM           |         cmt_om | root| 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢      | 🟢      |
 | 2 | Presidente da CS |  presidente_cs | root| 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢      | 🟢      |
-| 3 | Médico 1         |       medico_1 | root| 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢      | 🟢      | 
-| 4 | Médico 2         |       medico_2 | root| 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢      | 🟢      | 
-| 5 | Dentista         |     dentista_1 | root| 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢      | 🟢      | 
+| 3 | Médico 1         |       medico_1 | root| 🔴           | 🔴          |🔴| 🟢        | 🔴        | 🔴      | 🔴      | 
+| 4 | Médico 2         |       medico_2 | root| 🔴           | 🔴          |🔴| 🟢        | 🔴        | 🔴      | 🔴      | 
+| 5 | Dentista         |     dentista_1 | root| 🔴           | 🔴          |🔴| 🔴        | 🔴        | 🔴      | 🔴      | 
 | 6 | Entrevistador 1  |entrevistador_1 | root| 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢      | 🟢      | 
 | 7 | Entrevistador 2  |entrevistador_2 | root| 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢      | 🟢      | 
 | 8 | Entrevistador 3  |entrevistador_3 | root| 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢      | 🟢      | 
