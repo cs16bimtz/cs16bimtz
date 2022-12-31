@@ -153,7 +153,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 | 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|⭐⭐⭐⭐|
 | 3       |🟢    |🟢      |🔴     |     |  REPROVADO |  -  |
 | 4       |🟢    |🔴      |       |     | REPROVADO    |  -  |
-| 5       |🔴    |         |       |     |   REPROVADO   |  - | 
+| 5       |🔴    |        |       |     |   REPROVADO   |  - | 
 
 - Conscrito contraindicado na entrevista não realiza a fase seguinte conforme Caso 5 da tabela STATUS/CASO.
 
