@@ -3,7 +3,11 @@ Sistema de Acompanhamento da Seleção Complementar - Guia do utilizador 👋
 ### 1 - INTRODUÇÃO AO SisASC
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta e processamento de dados dos conscritos durante a execução da seleção complementar na OM. É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos. A FDE contempla um conjunto de abas ou grupos (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). 
 
-Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si. 
+Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
+
+As abas (grupos) da FDE são visíveis a todos os usuários do sistema, toda via, existem campos em determinadas abas, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro da aba para os demais membros da CS logados no sistema. 
+
+O mesmo princípio foi aplicaddo aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (criação e edição) pelo médico ou dentista da CS.
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
 
@@ -184,7 +188,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário.
 |  Nº |      PERFIL       | DADOS PESSOAIS |TITULO ELEITOR|CNH|EXAME MÉDICO|EXAME ODONTO|TESTE HABILIDADES|PERFIL SOCIOECONOMICO|  OBS |
 |:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
-|  1  | Cmt OM            | 👀✏️💾            | VIE          |VIE| VIE        | VIE        | VIE             | VIE                 | -    |
+|  1  | Cmt OM            | VIE           | VIE          |VIE| VIE        | VIE        | VIE             | VIE                 | -    |
 |  2  | Presidente da CS  | VIE            | VIE          |VIE| VIE        | VIE        | VIE             | VIE                 | -    |
 |  3  | Médico            | V              | V            | V | VIE        | V          | V               | V                   | -    |
 |  4  | Dentista          | V              | V            | V | V          | VIE        | V               | V                   | -    |
