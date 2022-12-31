@@ -102,7 +102,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 
 ### 5 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
-#### Parametrização de alguns dos campos de formulário da aba `DADOS PESSOAIS`, para o conscrito ser considerado <kbd>Indicado</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
+#### Parametrização de alguns dos campos de formulário da aba `DADOS PESSOAIS`, para o conscrito ser considerado <kbd>INDICADO</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
  DADOS PESSOAIS             | ESTADO CIVIL                        | = Solteiro                                           | INDICADO |                              |
@@ -117,14 +117,14 @@ Principais características do **`SisASC/16º BI Mtz`**:
 #### Parametrização de alguns dos campos de formulário da aba `PERFIL SOCIOECONÔMICO` para o conscrito ser considerado <kbd>Indicado</kbd> ainda na fase 1 (ENTREVISTA) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
- PERFIL SOCIOECONÔMICO      | MORA COM QUEM NO ENDEREÇO DECLARADO | = Pais                                               | INDICADO |                              |
+ PERFIL SOCIOECONÔMICO      | `MORA COM QUEM NO ENDEREÇO DECLARADO` | = Pais                                               | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EM CASO DE CONVOCAÇÃO               | &ne; Adotarei o aquartelamento como residência     | INDICADO |Não pode querer ser laranjeira|
  PERFIL SOCIOECONÔMICO      | ARRIMO DE FAMÍLIA                   | = Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | PASSAGEM PELA POLÍCIA               | = Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | EXPERIÊNCIA COM DROGAS              | = Não                                                | INDICADO |                              |
  PERFIL SOCIOECONÔMICO      | USO DE ARMA DE FOGO                 | = Não                                                | INDICADO |                              |
 
-- No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente de "Pais", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorosos quanto possível. Nesse batalhão hipotético todos os conscritos devem morar com os pais, porque morar com os pais pressupõe que o candidato seja detentor de valores morais e éticos que só podem ser adquiridos a partir da convivência em família, valores esses, essenciais à vida na caserna.
+- No campo denominado `MORA COM QUEM NO ENDEREÇO DECLARADO` da aba PERFIL SOCIOECONÔMICO, se o valor selecionado for diferente de "Pais", o conscrito será automaticamente <kbd>CONTRAINDICADO</kbd>, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Repare que os critérios podem ser tão rigorosos quanto possível. Nesse batalhão hipotético todos os conscritos devem morar com os pais, porque morar com os pais pressupõe que o candidato seja detentor de valores morais e éticos que só podem ser adquiridos a partir da convivência em família, valores esses, essenciais à vida na caserna.
 
 #### Parametrização de alguns dos campos de formulário da aba `EXAME MÉDICO` para o conscrito ser considerado <kbd>Apto</kbd> na fase 2 (EXAME MÉDICO) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
@@ -160,7 +160,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
 ### 7 - TABELA DE USUÁRIOS DO SISTEMA E PERMISSÕES POR ABA DA FDE
-A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário.
+A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (E), visualizar (V) os campos de formulário.
 |Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |TIT ELEITOR|CNH|EXM MÉDICO|EXM ODONTO|HABILIDADES|PERFIL|
 |:--:|-----------------|:--------------:|:---: |:--------------:|:------------:|:-:|:----------:|:----------:|:---:|:-------:|
 | 1 | Cmt OM           |         cmt_om | root| ✔️           | ✔️          |✔️| ✖️        | ✖️        | ✔️      | ✔️      |
