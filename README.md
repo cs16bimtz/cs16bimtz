@@ -95,7 +95,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 > Na fase aonde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada;
 
-> Finalizada a CS, os candidatos estarão distribuídos em dois grupos (APROVADOS/REPROVADOS). Os reprovados serão em número a maior em relação à quantidade de vagas disponíveis e os reprovados foram dispensados ao longo da CS;
+> Finalizada a CS, os candidatos estarão distribuídos em dois grupos (APROVADOS/REPROVADOS). Os aprovados serão em número a maior em relação à quantidade de vagas disponíveis e os reprovados, esses foram dispensados ao longo das diversas fases da CS;
 
 > Na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
 
