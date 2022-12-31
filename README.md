@@ -1,7 +1,7 @@
 Sistema de Acompanhamento da Seleção Complementar - Guia do utilizador 👋
 
 ### 1 - INTRODUÇÃO AO SisASC
-Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta e processamento de dados dos conscritos durante a execução da seleção complementar na OM. É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos. A FDE contempla um conjunto de abas ou grupos (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). 
+Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta e processamento de dados dos conscritos durante a execução da seleção complementar na OM. É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos (a que se encontra anexa à Ordem de Serviço para execução da CS). A FDE contempla um conjunto de abas ou grupos (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). 
 
 Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
 
@@ -11,7 +11,7 @@ O mesmo princípio foi aplicaddo aos campos da aba EXAME MÉDICO, e EXAME ODONTO
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
 
-A FDE tem inúmeras vantagens quando comparada à Ficha de Entrevista padrão:
+A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista padrão:
 - Controle de acesso de usuário (grupos de usuários com acesso de visualização e edição);
 - Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
 - As FDE que serão impressas, assinadas e arquivadas ao final do processo (véspera de incorporação) serão as dos conscritos classificados no processo de selação;
