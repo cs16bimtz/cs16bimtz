@@ -179,7 +179,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. 
 
 ### 8 - TABELA DE PERMISSÕES
-A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário.
+A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário (exceto os campos de preenchimento exclusivo).
 |  Nº |      PERFIL       | DADOS PESSOAIS |TITULO ELEITOR|CNH|EXAME MÉDICO|EXAME ODONTO|TESTE HABILIDADES|PERFIL SOCIOECONOMICO|  OBS |
 |:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
 |  1  | Cmt OM            | 🟢           | 🟢          |🟢| 🟢        | 🟢        | 🟢             | 🟢                 | -    |
@@ -189,21 +189,15 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 |  5  | Entrevistador     | 🟢            | 🟢          |🟢| 🔴          | 🔴          | 🟢             | 🟢                 | -    |
 
 Legenda: 
+🟢 - Visualiza, insere e altera dados;
+🔴 - Visualiza, não insere nem altera dados
 
-**V** -`Visualiza`
+- O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros;
 
-**I** -`Insere`
+- O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
 
-**E** -`Edita`
+- O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
 
-> **Note**
-
-> O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros;
-
-> O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
-
-> O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
-
-> O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
+- O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
 
 
