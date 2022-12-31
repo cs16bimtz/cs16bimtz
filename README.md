@@ -200,7 +200,7 @@ Legenda:
 - O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
 
 - O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
-- 
+
 - Exemplo de uso do campo de formulário PRIORIZAÇÃO da aba DADOS PESSOAIS ao final da CS e durante a análise dos dados coletados. Esse campo foi parametrizado classificando e exibindo uma consulta já definida dos conscritos aprovados cuja avaliação tenha sido >=3 estrelas:
 - Pedreiro: ⭐⭐⭐⭐⭐;
 - Mot Cat D: ⭐⭐⭐⭐;
