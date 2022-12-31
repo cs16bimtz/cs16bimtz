@@ -144,9 +144,9 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 - Não existe também no sistema, na fase de realização dos exames médicos/adontológicos, o botão `Apto`, ou `Conscrito apto`, ou `Conscrito inapto`. Essa tarefa também foi automatizada, significando dizer que o próprio sistema se encarregará de definir se o conscrito foi apto (ou inapto), a partir dos dados coletados na FDE em confronto com os parâmetros configurados, que por enquanto são os constantes das tabelas acima.
 
-- A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros.
+- A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros das abas DADOS PESSOAIS  e PERFIL SOCIOECONÔMICO.
 
-### 6 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASO (1-5)
+### 6 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASOS (1-5)
 |   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES| RESULTADO CS | CLASSIFICAÇÃO|
 | :-----: | :---------: | :----------: | :----------: | :------------------: |:-------:|-----|
 | 1       |🟢    |🟢      |🟢     |🟢  |   APROVADO|⭐⭐⭐⭐⭐|
@@ -160,18 +160,17 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
 ### 7 - TABELA DE USUÁRIOS DO SISTEMA
-|     Nº   |        NOME DO UTILIZADOR        |      👤     |      🔒      |  OBS | 
+|     Nº   |        NOME DO UTILIZADOR        |      👤          |      🔒      |  OBS | 
 |:--------:|----------------------------------| :--------------: | :-------------: | :---:|
-|  1       | Presidente da CS                 |            chcs  |       root      |  -   | 
-|  2       | Médico 1                         |         medico_1 |       root      |  -   |
-|  3       | Médico 2                         |         medico_2 |       root      |  -   | 
-|  4       | Dentista                         |       dentista_1 |       root      |  -   | 
-|  5       | Entrevistador 1                  |  entrevistador_1 |       root      |  -   | 
-|  6       | Entrevistador 2                  |  entrevistador_2 |       root      |  -   | 
-|  7       | Entrevistador 3                  |  entrevistador_3 |       root      |  -   | 
-|  8       | Entrevistador 4                  |  entrevistador_4 |                 |  -   | 
-|  9       | Entrevistador 5                  |  entrevistador_5 |                 |  -   | 
-|  10      | Entrevistador 6                  |  entrevistador_6 |                 |  -   | 
+|  1       | Cmt OM                           |           cmt_om |       root      |  -   | 
+|  2       | Presidente da CS                 |   presidente_cs  |       root      |  -   | 
+|  3       | Médico 1                         |         medico_1 |       root      |  -   |
+|  4       | Médico 2                         |         medico_2 |       root      |  -   | 
+|  5       | Dentista                         |       dentista_1 |       root      |  -   | 
+|  6       | Entrevistador 1                  |  entrevistador_1 |       root      |  -   | 
+|  7       | Entrevistador 2                  |  entrevistador_2 |       root      |  -   | 
+|  8       | Entrevistador 3                  |  entrevistador_3 |       root      |  -   | 
+
 
 - As senhas serão redefinidas por ocasião da CS; 
 
