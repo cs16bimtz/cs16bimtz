@@ -3,8 +3,6 @@ Sistema de Acompanhamento da Seleção Complementar - Guia do utilizador 👋
 ### 1 - INTRODUÇÃO AO SisASC
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta e processamento de dados dos conscritos durante a execução da seleção complementar na OM. É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos (a que se encontra anexa à Ordem de Serviço para execução da CS). A FDE contempla um conjunto de abas ou grupos (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). 
 
-<mark>Highlighted</mark>
-
 Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
 
 As abas (grupos) da FDE são visíveis a todos os usuários do sistema, todavia, existem campos em determinadas abas, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro da aba para os demais membros da CS logados no sistema. 
@@ -88,6 +86,8 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |  4       | TESTE HABILIDADE|  DEMONSTROU    | NÃO DEMONSTROU  |  -   | 
 |  5       | RESULTADO FINAL CS |  APROVADO      | REPROVADO       |    |
 |  5       | PARA A INCORPORAÇÃO    |  CLASSIFICADO  | NÃO CLASSIFICADO|  -   | 
+
+!Na fase de entrevista o sistema adota os termos **indicado** e **contraindicado** para significar que o conscrito `atende/não atende` aos requisitos exigidos; 
 
 > **Note** 
 
