@@ -78,7 +78,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - A adoção do SisASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
 
 ### 4 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
-|  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  CLASSIFICAÇÃO | 
+|  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
 |:--------:|-----------------|:--------------:|:---------------:|:----:|
 |  1       | ENTREVISTA      |  INDICADO      | CONTRAINDICADO  |  -   | 
 |  2       | EXAME MÉDICO    |  APTO          | INAPTO          |  -   |
