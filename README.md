@@ -18,8 +18,7 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 - Controle eficiente de cada uma das fases da CS;
 - Garante um processo seletivo seguro, rápido, rígido e homogêneo;
 - Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário na FDE, reduz drasticamente o tempo de entrevista por candidato em virtude da simplicidade e da rapidez no preenchimento dos dados;
-- Durante a análise dos dados coletados (fase pós CS) e antes da divulgação do resultado do processo seletivo, utilizando a ferramenta de busca avançada já disponível no sistema, será possível a realização de consultas como a do exemplo:
-Exemplo de consulta: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos aprovados na CS, que possuam as seguintes características: 
+- Durante a análise dos dados coletados (fase pós CS) e antes da divulgação do resultado do processo seletivo, utilizando a ferramenta de busca avançada já disponível no sistema, será possível a realização de consultas como a do exemplo: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos aprovados na CS, que possuam as seguintes características: 
 Solteiro ou divorciado e que possua o ensino médio completo, católico ou espírita ou evangélico, tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não seja usuário de droga, não tenha passagem pela polícia, não seja arrimo de família, que popssua qualquer conhecimento de TIC, praticante de natação ou basquete, que resida no Tirol ou em Capim Maciou ou em Petrópolis, cujo nome do pai tenha "R" como primmeira letra, etc.
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
