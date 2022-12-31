@@ -49,7 +49,7 @@ Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do C
 </details>
   
 ### 3 - CARACTERÍSTICAS DO SisASC
-No SisASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM. <span style="color:blue">some *blue* text</span>.
+No SisASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM.
 
 O sistema terá as configurações necessárias para garantir que todos os conscritos selecionados (CLASSIFICADOS) para a incorporação, atendam aos requisitos que a unidade deseja. 
 
