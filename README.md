@@ -189,6 +189,7 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 |  5  | Entrevistador     | 🟢            | 🟢          |🟢| 🔴          | 🔴          | 🟢             | 🟢                 | -    |
 
 Legenda: 
+
 🟢 - Visualiza, insere e altera dados;
 🔴 - Visualiza, não insere nem altera dados
 
