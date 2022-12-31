@@ -95,7 +95,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 
 - Finalizada a CS, os candidatos estarão distribuídos em dois grupos (APROVADOS/REPROVADOS). Os aprovados serão em número a maior em relação à quantidade de vagas disponíveis e os reprovados, esses foram dispensados ao longo das diversas fases da CS;
 
-- Na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação.
+- Na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação. selecopnad &ne; classificado
 
 
 ### 5 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
