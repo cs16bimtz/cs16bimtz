@@ -182,8 +182,8 @@ Principais características do **`SisASC/16º BI Mtz`**:
 A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário (exceto os campos de preenchimento exclusivo).
 |  Nº |      PERFIL       | DADOS PESSOAIS |TITULO ELEITOR|CNH|EXAME MÉDICO|EXAME ODONTO|TESTE HABILIDADES|PERFIL SOCIOECONOMICO|  OBS |
 |:---:|-------------------|:--------------:|:------------:|:-:|:----------:|:----------:|:---------------:|:-------------------:|:----:|
-|  1  | Cmt OM            | 🟢           | 🟢          |🟢| 🟢        | 🟢        | 🟢             | 🟢                 | -    |
-|  2  | Presidente da CS  | 🟢            | 🟢          |🟢| 🟢        | 🟢        | 🟢             | 🟢                 | -    |
+|  1  | Cmt OM            | 🟢           | 🟢          |🟢| 🔴        | 🔴        | 🟢             | 🟢                 | -    |
+|  2  | Presidente da CS  | 🟢            | 🟢          |🟢| 🔴        | 🔴        | 🟢             | 🟢                 | -    |
 |  3  | Médico            | 🔴              | 🔴            | 🔴 | 🟢        | 🔴          | 🔴               | 🔴                   | -    |
 |  4  | Dentista          | 🔴              | 🔴            | 🔴 | 🔴          | 🟢        | 🔴               | 🔴                   | -    |
 |  5  | Entrevistador     | 🟢            | 🟢          |🟢| 🔴          | 🔴          | 🟢             | 🟢                 | -    |
