@@ -172,11 +172,11 @@ Principais características do **`SisASC/16º BI Mtz`**:
 |  8       | Entrevistador 3                  |  entrevistador_3 |       root      |  -   | 
 
 
-- As senhas serão redefinidas por ocasião da CS; 
+- As senhas serão redefinidas por ocasião da CS e o sistema hospedado no servidor da OM no endereço https://10.46.40.34; 
 
-- Cada entevistador tem visibilidade apenas dos seus entrevistados
+- Cada entrevistador tem visibilidade apenas dos seus entrevistados
 
-- Os critérios para a classificação do conscrito no processo seletivo, embora pareçam óbvios não são de inteiro conhecimento do entrevistador. 
+- Os critérios para a classificação do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador. 
 
 ### 8 - TABELA DE PERMISSÕES
 A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (), visualizar (V) os campos de formulário (exceto os campos de preenchimento exclusivo).
