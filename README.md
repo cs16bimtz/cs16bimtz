@@ -98,7 +98,7 @@ Principais características do **`SisASC/16º BI Mtz`**:
 - Na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação. 
 
 > **Note**
-> <kbd>INDICADO</kbd> &ne; APTO &ne; APROVADO &ne; CLASSIFICADO
+> <kbd>INDICADO</kbd> &ne; <kbd>APTO</kbd> &ne; <kbd>AROVADO</kbd> &ne; <kbd>CLASSIFICADO</kbd>
 
 
 ### 5 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
