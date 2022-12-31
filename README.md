@@ -22,7 +22,7 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 
 ### 2 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
 <details>
-<summary>:eyes: <kbd>DADOS PESSOAIS</kbd></summary>
+<summary>:eyes: <kbd>DADOS PESSOAIS</kbd></summary> 
  
 ![menus e abas 5](https://user-images.githubusercontent.com/121310141/209486078-dd89a412-65c7-4e53-bc3d-2db3ab8643e8.png)
 
