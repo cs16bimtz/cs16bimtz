@@ -202,10 +202,10 @@ Legenda:
 - O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
 - 
 - Exemplo de uso do campo de formulário PRIORIZAÇÃO da aba DADOS PESSOAIS ao final da CS e durante a análise dos dados coletado. Esse campo foi parametrizado classificando e exibindo uma consulta já definida dos conscritos aprovados e com avaliação >=3 estrelas:
-Pedreiro: ⭐⭐⭐⭐⭐;
-Mot Cat D: ⭐⭐⭐⭐;
-Carpinteiro: ⭐⭐⭐;
-Mecânico: ⭐⭐ (Aprovado, não classificado);
-Padeiro: ⭐ (Aprovado, não classificado), etc.
+- Pedreiro: ⭐⭐⭐⭐⭐;
+- Mot Cat D: ⭐⭐⭐⭐;
+- Carpinteiro: ⭐⭐⭐;
+- Mecânico: ⭐⭐ (Aprovado, não classificado);
+- Padeiro: ⭐ (Aprovado, não classificado), etc.
 
 
