@@ -17,11 +17,17 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 - As FDE que serão impressas, assinadas e arquivadas ao final do processo (véspera de incorporação) serão as dos conscritos `CLASSIFICADOS` no processo seletivo, apenas;
 
 #### 1.2 - GRUPOS DE DADOS
+A inserção ou cadastro do conscrito no sistema só pode ser realizada por entrevistadores nas abas `DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`,`PERFIL SOCIOECONÔMICO`. 
+
+Médico e dentista podem visualizar os dados do conscrito inseridos no sistema pelos entrevistadores, mas não podem editá-los. 
+
 Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, todavia, existem campos em determinados grupos, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro do grupo pelos demais membros da CS quando logados no sistema.
 
-Algo parecido foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (edição) pelo médico ou dentista da CS, lembrando que o médico vê, mas não altera os dados na aba do dentista e vice-versa. Diferentemente dos campos ocultos exclusivos do presidente da CS, aqui os campos são visíveis, mas bloqueados, exceto para o médico e o dentista, cada um em sua respectiva aba "proprietária".
+Algo parecido foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (edição) pelo médico ou dentista da CS. Diferentemente dos campos ocultos exclusivos do presidente da CS, aqui os campos são visíveis, mas bloqueados, exceto para o médico e o dentista, cada um em sua respectiva aba "proprietária". O médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
-Analogamente o médico e o dentista apenas visualizam os dados inseridos pelos entrevistadores. De forma geral, entrevistadores, médico e dentista visualizam os dados uns dos outros, mas sem permissão para edição dos campos que não sejam os do seu grupo. 
+De forma geral, entrevistadores, médico e dentista visualizam os dados uns dos outros, mas sem permissão para edição dos campos que não sejam os do(s) seu(s) grupo(s).
+
+
 
 ### 2 - APRESENTAÇÃO DOS GRUPOS DE DADOS:
 <details>
