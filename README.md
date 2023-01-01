@@ -11,7 +11,7 @@ A FDE contempla um conjunto de grupos de dados ou abas (`DADOS PESSOAIS`, `TÍTU
  
 #### GRUPOS DE DADOS
  - Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, todavia, existem campos em determinadas abas, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro da aba para os demais membros da CS logados no sistema. 
-  - Estado da aba: visível, oculta, visível mas bloqueada para usuários sem perfil para inserir ou editar dados nos campos da aba; 
+   - Estado da aba: visível, oculta, visível mas bloqueada para usuários sem perfil para inserir ou editar dados nos campos da aba; 
 
 O mesmo princípio foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (criação e edição) pelo médico ou dentista da CS, lembrando que o médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
