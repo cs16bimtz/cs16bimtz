@@ -227,13 +227,14 @@ Para cada fase da CS existe uma consulta. O sistema dispõe das seguintes consul
 Como cada fase (com exceção da fase 4) é eliminatória, os conscritos aprovados na CS são os que constam na consulta CONSCRITOS APROVADOS, (tenham ou não declarado al
 guma habilidade), que coincide com o resultado da consulta `CONSCRITOS APTOS NO EXAME ODONTOLÓGICO`, última das fases eliminatórias.
 A classificação dos concritos nesse caso, uma vez que todos estão aprovados, seria realizada atribuindo uma pontuação (⭐) ao conscrito possuidor de habilidades de interesse da OM, como no exemplo abaixo: 
-|  Nº |DESCRIÇÃO DA HABILIDADE|    AVALIAÇÃO  |   OBS |  OBS | 
-|:--------:|------------------|:--------------:|:---------------:|
+
+|  Nº |DESCRIÇÃO DA HABILIDADE|    AVALIAÇÃO   |   OBS           |
+|:---:|-----------------------|:--------------:|:---------------:|
 |  1       | Pedreiro         |  ⭐⭐⭐⭐⭐ | CONTRAINDICADO  |
 |  2       | Carpinteiro      |  ⭐⭐⭐⭐⭐ | INAPTO          |
-|  3       | Pintor           |  ⭐⭐⭐⭐ | INAPTO          |
-|  4       | Encanador        |  ⭐⭐⭐ | NÃO DEMONSTROU  |
-|  5       |Eletricista       |  ⭐⭐ | REPROVADO       |
+|  3       | Pintor           |  ⭐⭐⭐⭐    | INAPTO         |
+|  4       | Encanador        |  ⭐⭐⭐      | NÃO DEMONSTROU  |
+|  5       |Eletricista       |  ⭐⭐         | REPROVADO       |
 
 - Mecânico: ⭐⭐ (Aprovado, não classificado);
 - Padeiro: ⭐ (Aprovado, não classificado), etc.
