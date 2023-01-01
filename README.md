@@ -213,10 +213,29 @@ A consulta retornada poderia ser a relação dos conscritos classificados no pro
 > O único cuidado que se deve ter é fazer constar na pesquisa, exatamente todos os parâmetros que foram utilizados ao longo das diversas fases da CS para indicar/contraindicar (ENTREVISTA), ou capacitar/incapacitar (EXAME MÉDICO e EXAME ODONTOLÓGICO) o conscrito. A pesquisa acima traria os conscritos portadores de epilepsia como conscritos classificados, e os que possuem habilidades na área da construção civil (pedreiro, pintor, encanador, etc) como não classificados, o que seria uma falha grave.
 
 #### 8.2 - UTILIZANDO CONSULTA JÁ DEFINIDA NOS MENUS DO SASC
-Para cada fase da CS existe uma consulta já definida. O sistema dispõe das seguintes consultas predefinidas:
+Para cada fase da CS existe uma consulta. O sistema dispõe das seguintes consultas predefinidas:
 
-- CONSCRTOS APRESENTADOS (FASE - 1)
-- CONSCRITOS INDICADOS (FASE - 2)
-- CONSCRITOS APTOS NO EXAME MÉDICO (FASE - 3)
-- CONSCRITOS APTOS NO EXAME ODONTOLÓGICO (FASE - 4)
+- CONSCRITOS APRESENTADOS
+- CONSCRITOS VOLUNTÁRIOS
+- CONSCRITOS APROVADOS
+- CONSCRITOS INDICADOS (FASE - 1)
+- CONSCRITOS APTOS NO EXAME MÉDICO (FASE - 2)
+- CONSCRITOS APTOS NO EXAME ODONTOLÓGICO (FASE - 3)
+- CONSCRITOS QUE DEMONSTRARAM ALGUMA HABILIDADE (FASE -4)
+- OUTRAS
+
+Como cada fase (com exceção da fase 4) é eliminatória, os conscritos aprovados na CS são os que constam na consulta CONSCRITOS APROVADOS, (tenham ou não declarado al
+guma habilidade), que coincide com o resultado da consulta `CONSCRITOS APTOS NO EXAME ODONTOLÓGICO`, última das fases eliminatórias.
+A classificação dos concritos nesse caso, uma vez que todos estão aprovados, seria realizada atribuindo uma pontuação (⭐) ao conscrito possuidor de habilidades de interesse da OM, como no exemplo abaixo: 
+|  Nº |DESCRIÇÃO DA HABILIDADE|    AVALIAÇÃO  |   OBS |  OBS | 
+|:--------:|------------------|:--------------:|:---------------:|
+|  1       | Pedreiro         |  ⭐⭐⭐⭐⭐ | CONTRAINDICADO  |
+|  2       | Carpinteiro      |  ⭐⭐⭐⭐⭐ | INAPTO          |
+|  3       | Pintor           |  ⭐⭐⭐⭐ | INAPTO          |
+|  4       | Encanador        |  ⭐⭐⭐ | NÃO DEMONSTROU  |
+|  5       |Eletricista       |  ⭐⭐ | REPROVADO       |
+
+- Mecânico: ⭐⭐ (Aprovado, não classificado);
+- Padeiro: ⭐ (Aprovado, não classificado), etc.
+
 <hr>
