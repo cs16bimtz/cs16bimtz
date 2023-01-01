@@ -191,9 +191,9 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 
 - Cada entrevistador tem visibilidade apenas dos seus entrevistados
 
-- Os critérios para a classificação do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador. 
+- Os critérios para a `APROVAÇÃO` do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador. 
 
-- O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros;
+- O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros exceto nas abas `EXAME MÉDICO` e `EXAME ODONTO`;
 
 - O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
 
@@ -201,12 +201,7 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 
 - O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
 
-- Exemplo de uso do campo de formulário PRIORIZAÇÃO da aba DADOS PESSOAIS ao final da CS e durante a análise dos dados coletados. Esse campo foi parametrizado classificando e exibindo uma consulta já definida dos conscritos aprovados cuja avaliação tenha sido >=3 estrelas:
-- Pedreiro: ⭐⭐⭐⭐⭐;
-- Mot Cat D: ⭐⭐⭐⭐;
-- Carpinteiro: ⭐⭐⭐;
-- Mecânico: ⭐⭐ (Aprovado, não classificado);
-- Padeiro: ⭐ (Aprovado, não classificado), etc.
+
 
 
 
