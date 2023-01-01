@@ -1,13 +1,15 @@
-Sistema de Acompanhamento da Seleção Complementar (SisASC) - Guia do utilizador 👋
+Sistema de Acompanhamento da Seleção Complementar (SASC) - Guia do utilizador 👋
 
-### 1 - INTRODUÇÃO AO SisASC
-Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar - SisASC/16º BI Mtz**. 
+### 1 - INTRODUÇÃO AO SASC
+Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar do 16º BI Mtz**. 
 
-O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de coleta e processamento de dados dos conscritos durante a execução da seleção complementar na OM. 
+O SASC é um sistema de gestão e foi concebido para ser a ferramenta de levantamento e análise de dados dos conscritos durante e após a execução da seleção complementar na OM. 
 
 É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos (a que se encontra anexa à Ordem de Serviço para execução da CS). 
 
-A FDE contempla um conjunto de abas ou grupos (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). 
+A FDE contempla um conjunto de abas ou grupos de dados (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc), que agrupa campos de formulário respeitando a afinidade que os dados guardam entre si.
+ 
+As abas (grupos) da FDE são visíveis a todos os usuários do sistema, todavia, existem campos em determinadas abas, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro da aba para os demais membros da CS logados no sistema. 
 
 O mesmo princípio foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (criação e edição) pelo médico ou dentista da CS, lembrando que o médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
@@ -20,9 +22,6 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 - Controle eficiente de cada uma das fases da CS;
 - Garante um processo seletivo seguro, rápido, rígido e homogêneo;
 - Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário na FDE, reduz drasticamente o tempo de entrevista por candidato em virtude da simplicidade e da rapidez no preenchimento dos dados;
-- Durante a análise dos dados coletados (fase pós CS) e antes da divulgação do resultado do processo seletivo, utilizando a ferramenta de busca avançada já disponível no sistema, será possível a realização de consultas como: 
-
-Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca avançada: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos aprovados na CS, que sejam solteiros ou divorciados, morem com os pais, possuam o ensino médio completo, sejam católicos ou espíritas ou evangélicos, tenham tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não sejam usuários de droga, não tenham passagem pela polícia, não sejam arrimo de família, que possuam qualquer conhecimento de TIC,sejam  praticantes de natação ou basquete, e que residam no Tirol ou em Capim Maciou ou em Petrópolis, cujo nome do pai tenha "R" como primmeira letra, etc.
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
 ### 2 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
@@ -33,10 +32,6 @@ Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca
 
 Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do Conscrito em evidência. 
 
-Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
- 
-As abas (grupos) da FDE são visíveis a todos os usuários do sistema, todavia, existem campos em determinadas abas, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro da aba para os demais membros da CS logados no sistema. 
- 
 Repare que o sistema recusa o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, VOLUNTÁRIO ou ENTREVISTADOR não forem corretamente preenchidos. 
 
 O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de cadastro.  
@@ -239,4 +234,6 @@ Legenda:
 - Mecânico: ⭐⭐ (Aprovado, não classificado);
 - Padeiro: ⭐ (Aprovado, não classificado), etc.
 
+- Durante a análise dos dados coletados (fase pós CS) e antes da divulgação do resultado do processo seletivo, utilizando a ferramenta de busca avançada já disponível no sistema, será possível a realização de consultas como: 
 
+Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca avançada: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos aprovados na CS, que sejam solteiros ou divorciados, morem com os pais, possuam o ensino médio completo, sejam católicos ou espíritas ou evangélicos, tenham tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não sejam usuários de droga, não tenham passagem pela polícia, não sejam arrimo de família, que possuam qualquer conhecimento de TIC,sejam  praticantes de natação ou basquete, e que residam no Tirol ou em Capim Maciou ou em Petrópolis, cujo nome do pai tenha "R" como primmeira letra, não sejam portadores de transtornos ansiosos ou depressivos, tenham menos que cinco cáries, etc.
