@@ -38,7 +38,7 @@ O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF a
 </details>
 
 <details>
-<summary>:eyes: <kbd>INSPEÇÃO MÉDICA</kbd></summary>
+<summary><kbd>INSPEÇÃO MÉDICA</kbd></summary>
  
 ![fm](https://user-images.githubusercontent.com/121310141/209503889-b8d7322c-934d-472d-895f-1b6718a2b76d.png)
 
