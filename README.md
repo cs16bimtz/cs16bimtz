@@ -15,7 +15,7 @@ A FDE contempla um conjunto de grupos de dados ou abas (`DADOS PESSOAIS`, `TÍTU
 - Analogamente o médico e o dentista apenas visualizam os dados inseridos pelos entrevistadores. De forma geral, entrevistadores, médico e dentista visualizam os dados uns dos outros, mas sem permissão para edição dos campos que não sejam os do seu grupo. 
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
-
+#### VANTAGENS
 A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista padrão:
 - Controle de acesso de usuário (grupos de usuários com acesso de visualização e edição);
 - Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
