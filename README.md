@@ -92,7 +92,7 @@ Principais características do **`SASC/16º BI Mtz`**:
 - A adoção do SASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SASC.
 
-### 4 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
+### 4 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
 |:--------:|-----------------|:--------------:|:---------------:|:----:|
 |  1       | ENTREVISTA      |  INDICADO      | CONTRAINDICADO  |  -   | 
@@ -115,7 +115,7 @@ Principais características do **`SASC/16º BI Mtz`**:
 > **Note**
 > <kbd>INDICADO</kbd> &ne; <kbd>APTO</kbd> &ne; <kbd>AROVADO</kbd> &ne; <kbd>CLASSIFICADO</kbd>
 
-### 5 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
+### 5 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SASC:
 #### Parametrização de alguns dos campos de formulário da aba `DADOS PESSOAIS`, para o conscrito ser considerado <kbd>INDICADO</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
