@@ -210,8 +210,13 @@ Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca
 A consulta retornada poderia ser a relação dos conscritos classificados no processo, por exemplo. 
 
 > **Warning**
-> O único cuidado que se deve ter é fazer constar na pesquisa, exatamente todos os parâmetros que foram utilizados ao longo das diversas fases da CS para indicar/contraindicar (ENTREVISTA), ou capacitar/incapacitar (EXAME MÉDICO e EXAME ODONTOLÓGICO) o conscrito. A pesquisa acima traria os conscritos portadores de epilepsia como conscritos classificados, e os que possuem habilidades na área de construção civil (pedreiro, pintor, encanador,etc) como não classificados, o que seria uma falha grave.
+> O único cuidado que se deve ter é fazer constar na pesquisa, exatamente todos os parâmetros que foram utilizados ao longo das diversas fases da CS para indicar/contraindicar (ENTREVISTA), ou capacitar/incapacitar (EXAME MÉDICO e EXAME ODONTOLÓGICO) o conscrito. A pesquisa acima traria os conscritos portadores de epilepsia como conscritos classificados, e os que possuem habilidades na área da construção civil (pedreiro, pintor, encanador, etc) como não classificados, o que seria uma falha grave.
 
 #### 8.2 - UTILIZANDO CONSULTA JÁ DEFINIDA NOS MENUS DO SASC
-Para cada fase da CS existe uma consulta já definida. O sistema dispõe de uma consulta
+Para cada fase da CS existe uma consulta já definida. O sistema dispõe das seguintes consultas predefinidas:
+
+- CONSCRTOS APRESENTADOS (FASE - 1)
+- CONSCRITOS INDICADOS (FASE - 2)
+- CONSCRITOS APTOS NO EXAME MÉDICO (FASE - 3)
+- CONSCRITOS APTOS NO EXAME ODONTOLÓGICO (FASE - 4)
 <hr>
