@@ -66,13 +66,14 @@ Exemplo: o Cmt da OM/Presidente da CS pode estabelecer inicialmente que todos os
 
 Principais características do **`SASC/16º BI Mtz`**:
 - É um sistema de gestão e controle;
-- Controle eficiente de cada uma das fases da CS;
+- Permite o controle eficiente de cada uma das fases da CS;
 - Controle de acesso de usuário (grupos de usuários com acesso de visualização e edição);
 - Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
 - Ficha Digital de Entrevista (FDE); 
 - Relatórios (Consultas) predefinidos no sistema: 
    - Indicados/Contraindicados na Entrevista;   
-   - Aptos/Inaptos na Inspeção de Saúde;   
+   - Aptos/Inaptos no exame médico; 
+   - Aptos/Inaptos no exame odontológico;     
    - Voluntários/Não voluntários;   
    - Possuem/Não possuem habilidades;   
    - Classificados/Não classificados para a incorporação;   
