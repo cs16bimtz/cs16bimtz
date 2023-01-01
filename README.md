@@ -15,15 +15,10 @@ A FDE contempla um conjunto de grupos de dados ou abas (`DADOS PESSOAIS`, `TÍTU
 - Analogamente o médico e o dentista apenas visualizam os dados inseridos pelos entrevistadores. De forma geral, entrevistadores, médico e dentista visualizam os dados uns dos outros, mas sem permissão para edição dos campos que não sejam os do seu grupo. 
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
-#### VANTAGENS
-A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista padrão:
-- Controle de acesso de usuário (grupos de usuários com acesso de visualização e edição);
-- Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
+
+A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista padrão: 
+- A quase totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário na FDE, reduz drasticamente o tempo de entrevista por candidato em virtude da simplicidade e da rapidez no preenchimento dos dados;
 - As FDE que serão impressas, assinadas e arquivadas ao final do processo (véspera de incorporação) serão as dos conscritos `CLASSIFICADOS` no processo seletivo;
-- Controle eficiente de cada uma das fases da CS;
-- Garante um processo seletivo seguro, rápido, rígido e homogêneo;
-- Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário na FDE, reduz drasticamente o tempo de entrevista por candidato em virtude da simplicidade e da rapidez no preenchimento dos dados;
-- Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
 ### 2 - APRESENTAÇÃO DAS GRUPOS DE DADOS:
 <details>
@@ -58,8 +53,8 @@ Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do C
 > O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de cadastro.  
 </details>
   
-### 3 - CARACTERÍSTICAS DO SisASC
-No SisASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM.
+### 3 - CARACTERÍSTICAS DO SASC
+No SASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM.
 
 O sistema terá as configurações necessárias para garantir que todos os conscritos selecionados (CLASSIFICADOS) para a incorporação, atendam aos requisitos que a unidade deseja. 
 
@@ -69,8 +64,11 @@ No entanto, se durante a fase de processamento dos dados (fase pós CS), o núme
 
 Exemplo: o Cmt da OM/Presidente da CS pode estabelecer inicialmente que todos os conscritos selecionados para a incorporação necessariamente devam residir no município de Natal (campo ENDEREÇO, da aba DADOS PESSOAIS, deve conter a expressão "natal", restringindo o universo de seleção). Com oportunidade é possível ampliar o universo de seleção acresecentando aos critérios expressões como "parnamirim", "mipibu", "macaiba", "nisia" etc.  
 
-Principais características do **`SisASC/16º BI Mtz`**:
-- Ferramenta de gestão e controle; 
+Principais características do **`SASC/16º BI Mtz`**:
+- É um sistema de gestão e controle;
+- Controle eficiente de cada uma das fases da CS;
+- Controle de acesso de usuário (grupos de usuários com acesso de visualização e edição);
+- Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
 - Ficha Digital de Entrevista (FDE); 
 - Relatórios (Consultas) predefinidos no sistema: 
    - Indicados/Contraindicados na Entrevista;   
@@ -81,11 +79,11 @@ Principais características do **`SisASC/16º BI Mtz`**:
    - Outras consultas (Conscritos/Estado Civil, Conscritos/Escolaridade, Conscritos/Religião, etc...)  
 - Ferramenta de busca avançada; 
 - Impressão da Ficha de Entrevista gerada (Apenas para os candidatos classificados);
-- Imprime e exporta consulta PDF, CSV;
+- Imprime e exporta consultas PDF, CSV;
 - Formulário para cadastramento de entrevistadores;
-- Controle de acesso; 
 - Log de ações do usuário (auditoria); 
-- A adoção do SisASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
+- A adoção do SASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
+- Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SASC.
 
 ### 4 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SisASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
