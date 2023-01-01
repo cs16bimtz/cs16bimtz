@@ -110,11 +110,10 @@ Principais características do **`SASC/16º BI Mtz`**:
 
 - Finalizada a CS, os candidatos estarão distribuídos em dois grupos (APROVADOS/REPROVADOS). Os aprovados serão em número a maior em relação à quantidade de vagas disponíveis e os reprovados, esses foram dispensados ao longo das diversas fases da CS;
 
-- Na etapa onde são processados os dados coletados os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação. 
+- Na etapa aonde são processados (analisados) os dados coletados, os termos utilizados são **classificado** e **não classificado** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação. 
 
 > **Note**
 > <kbd>INDICADO</kbd> &ne; <kbd>APTO</kbd> &ne; <kbd>AROVADO</kbd> &ne; <kbd>CLASSIFICADO</kbd>
-
 
 ### 5 - PARÂMETROS DE CONFIGURAÇÃO UTILIZADOS NO SisASC:
 #### Parametrização de alguns dos campos de formulário da aba `DADOS PESSOAIS`, para o conscrito ser considerado <kbd>INDICADO</kbd> na fase 1 (ENTREVISTA) do processo seletivo:
