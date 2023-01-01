@@ -10,10 +10,8 @@ O SASC é um sistema de gestão e foi concebido para ser a ferramenta de levanta
 A FDE contempla um conjunto de grupos de dados ou abas (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc), que agrupa campos de formulário respeitando a afinidade que os dados guardam entre si.
  
 #### GRUPOS DE DADOS
- - Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, todavia, existem campos em determinadas abas, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro da aba para os demais membros da CS logados no sistema. 
-   - Estado da aba: visível, oculta, visível mas bloqueada para usuários sem perfil para inserir ou editar dados nos campos da aba; 
-
-O mesmo princípio foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (criação e edição) pelo médico ou dentista da CS, lembrando que o médico vê, mas não altera os dados na aba do dentista e vice-versa.
+- Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, todavia, existem campos em determinados grupos, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro do grupo pelos demais membros da CS quando logados no sistema. 
+- O mesmo princípio foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (criação e edição) pelo médico ou dentista da CS, lembrando que o médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
 
@@ -26,7 +24,7 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 - Quase a totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário na FDE, reduz drasticamente o tempo de entrevista por candidato em virtude da simplicidade e da rapidez no preenchimento dos dados;
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SisASC.
 
-### 2 - APRESENTAÇÃO DAS ABAS (GRUPOS) DE DADOS:
+### 2 - APRESENTAÇÃO DAS GRUPOS DE DADOS:
 <details>
 <summary>DADOS PESSOAIS</summary> 
  
@@ -246,3 +244,6 @@ Legenda:
 - Durante a análise dos dados coletados (fase pós CS) e antes da divulgação do resultado do processo seletivo, utilizando a ferramenta de busca avançada já disponível no sistema, será possível a realização de consultas como: 
 
 Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca avançada: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos aprovados na CS, que sejam solteiros ou divorciados, morem com os pais, possuam o ensino médio completo, sejam católicos ou espíritas ou evangélicos, tenham tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não sejam usuários de droga, não tenham passagem pela polícia, não sejam arrimo de família, que possuam qualquer conhecimento de TIC,sejam  praticantes de natação ou basquete, e que residam no Tirol ou em Capim Maciou ou em Petrópolis, cujo nome do pai tenha "R" como primmeira letra, não sejam portadores de transtornos ansiosos ou depressivos, tenham menos que cinco cáries, etc.
+
+ - Estado da aba: visível, oculta, visível mas bloqueada para usuários sem perfil para inserir ou editar dados nos campos da aba; 
+   - Estado do campo: visível, oculto, visível 
