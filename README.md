@@ -17,9 +17,9 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 - As FDE que serão impressas, assinadas e arquivadas ao final do processo (véspera de incorporação) serão as dos conscritos `CLASSIFICADOS` no processo seletivo, apenas;
 
 #### 1.2 - GRUPOS DE DADOS
-A inserção ou cadastro do conscrito no sistema só pode ser realizada por entrevistadores nas abas `DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`,`PERFIL SOCIOECONÔMICO`. 
+A inserção ou cadastro do conscrito no sistema só pode ser realizada por entrevistadores (abas `DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`,`PERFIL SOCIOECONÔMICO`). 
 
-Médico e dentista podem visualizar os dados do conscrito inseridos no sistema pelos entrevistadores, mas não podem editá-los. 
+Médico e dentista não podem inserir um conscrito no sistema, mas podem visualizar os dados dos conscritos inseridos pelos entrevistadores, sem que possa editá-los. 
 
 Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, todavia, existem campos em determinados grupos, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro do grupo pelos demais membros da CS quando logados no sistema.
 
