@@ -12,7 +12,7 @@ A FDE contempla um conjunto de grupos de dados ou abas (`DADOS PESSOAIS`, `TÍTU
 #### GRUPOS DE DADOS
 - Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, todavia, existem campos em determinados grupos, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro do grupo pelos demais membros da CS quando logados no sistema. 
 - Algo parecido foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (criação e edição) pelo médico ou dentista da CS, lembrando que o médico vê, mas não altera os dados na aba do dentista e vice-versa. Diferentemente dos campos ocultos exclusivos do presidente da CS, aqui os campos são visíveis, mas bloqueados, exceto para o médico e o dentista, cada um em sua respectiva aba "proprietária".
-- Analogamente o médico e o dentista apenas visualizam os dados inseridos pelos entrevistadores. De forma geral, entrevistadores, medico e dentista visualizam os dados nas abas, mas não editam dados um dos outros. 
+- Analogamente o médico e o dentista apenas visualizam os dados inseridos pelos entrevistadores. De forma geral, entrevistadores, medico e dentista visualizam os dados uns dos outros, mas sem permissão para edição dos campos que não sejam os do seu grrupo. 
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
 
