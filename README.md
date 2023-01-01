@@ -231,12 +231,13 @@ A classificação dos concritos nesse caso, uma vez que todos estão aprovados, 
 |  Nº |DESCRIÇÃO DA HABILIDADE|    AVALIAÇÃO   |   OBS           |
 |:---:|-----------------------|--------------:|:---------------:|
 |  1       | Pedreiro         |  ⭐⭐⭐⭐⭐ | -  |
-|  2       | Carpinteiro      |  ⭐⭐⭐⭐⭐ | -      |
-|  3       | Pintor           |  ⭐⭐⭐⭐    | -    |
-|  4       | Encanador        |  ⭐⭐⭐      | -  |
-|  5       |Eletricista       |  ⭐⭐         | -      |
+|  2       | Carpinteiro      |  ⭐⭐⭐⭐ | -      |
+|  3       | Pintor           |  ⭐⭐⭐    | -    |
+|  4       | Encanador        |  ⭐⭐      | -  |
+|  5       |Eletricista       |  ⭐         | -      |
 
-- Mecânico: ⭐⭐ (Aprovado, não classificado);
-- Padeiro: ⭐ (Aprovado, não classificado), etc.
+Estabelecendo o critério de avaliação maior ou igual a ⭐⭐⭐, não seriam classificados:
+- Encanador: ⭐⭐ (Aprovado, não classificado);
+- Eletricista: ⭐ (Aprovado, não classificado), etc.
 
 <hr>
