@@ -20,7 +20,7 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 - A quase totalidade dos campos da FDE são do tipo *dropdow* (botões com alternância de visibilidade de listas, também chamados de listas suspensas), *checkbox* (caixas de checagem) ou *radiobuton* (recurso que permite ao usuário selecionar apenas um ítem entre vários). A utilização desses recursos de formulário na FDE, reduz drasticamente o tempo de entrevista por candidato em virtude da simplicidade e da rapidez no preenchimento dos dados;
 - As FDE que serão impressas, assinadas e arquivadas ao final do processo (véspera de incorporação) serão as dos conscritos `CLASSIFICADOS` no processo seletivo;
 
-### 2 - APRESENTAÇÃO DAS GRUPOS DE DADOS:
+### 2 - APRESENTAÇÃO DOS GRUPOS DE DADOS:
 <details>
 <summary>DADOS PESSOAIS</summary> 
  
