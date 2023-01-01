@@ -175,7 +175,7 @@ Principais características do **`SASC/16º BI Mtz`**:
 
 ### 7 - TABELA DE USUÁRIOS DO SISTEMA E PERMISSÕES POR ABA DA FDE
 A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (E), visualizar (V) os campos de formulário.
-|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |TIT ELEITOR|CNH|EXM MÉDICO|EXM ODONTO|HABILIDADES|PERFIL|
+|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |TIT ELEITOR|CNH|EXM MÉD|EXM ODONTO|HBL|PERFIL|
 |:--:|-----------------|:--------------:|:---: |:--------------:|:------------:|:-:|:----------:|:----------:|:---:|:-------:|
 | 1 | Cmt OM           |         cmt_om | root| ✔️           | ✔️          |✔️| ✖️        | ✖️        | ✔️      | ✔️      |
 | 2 | Presidente da CS |  presidente_cs | root| ✔️           | ✔️          |✔️| ✖️        | ✖️        | ✔️      | ✔️      |
