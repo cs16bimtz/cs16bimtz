@@ -60,10 +60,6 @@ O sistema terá as configurações necessárias para garantir que todos os consc
 
 Para que o conscrito seja considerado <kbd>INDICADO</kbd> na entrevista, uma série de requisitos devem ser satisfeitos; para que o conscrito seja <kbd>CONTRAINDICADO</kbd> na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja atendido. Essas características do sistema garantem o rigor e a homogeneidade do processo seletivo. 
 
-No entanto, se durante a fase de processamento dos dados (fase pós CS), o número necessário de conscritos para o preenchimento dos `claros` não tenha sido atingido, em virtude do rigor dos parâmetros definidos no sistema, a critério do Cmt OM, tais parâmetros podem ser flexibilizados obedecendo a uma precedência definida também pelo Cmt OM, sem prejuízo para o processo. Conclui-se daí que existe uma fase aonde são coletados os dados dos conscritos (dados pessoais, dados socioeconomicos, dados médicos, etc) e uma outra fase muita curta aonde os dados coletados são processados (analisados). 
-
-Exemplo: o Cmt da OM/Presidente da CS pode estabelecer inicialmente que todos os conscritos selecionados para a incorporação necessariamente devam residir no município de Natal (campo ENDEREÇO, da aba DADOS PESSOAIS, deve conter a expressão "natal", restringindo o universo de seleção). Com oportunidade é possível ampliar o universo de seleção acresecentando aos critérios expressões como "parnamirim", "mipibu", "macaiba", "nisia" etc.  
-
 Principais características do **`SASC/16º BI Mtz`**:
 - É um sistema de gestão e controle;
 - Permite o controle eficiente de cada uma das fases da CS;
@@ -247,3 +243,10 @@ Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca
 
  - Estado da aba: visível, oculta, visível mas bloqueada para usuários sem perfil para inserir ou editar dados nos campos da aba; 
    - Estado do campo: visível, oculto, visível 
+
+
+
+No entanto, se durante a fase de processamento dos dados (fase pós CS), o número necessário de conscritos para o preenchimento dos `claros` não tenha sido atingido, em virtude do rigor dos parâmetros definidos no sistema, a critério do Cmt OM, tais parâmetros podem ser flexibilizados obedecendo a uma precedência definida também pelo Cmt OM, sem prejuízo para o processo. Conclui-se daí que existe uma fase aonde são coletados os dados dos conscritos (dados pessoais, dados socioeconomicos, dados médicos, etc) e uma outra fase muita curta aonde os dados coletados são processados (analisados). 
+
+Exemplo: o Cmt da OM/Presidente da CS pode estabelecer inicialmente que todos os conscritos selecionados para a incorporação necessariamente devam residir no município de Natal (campo ENDEREÇO, da aba DADOS PESSOAIS, deve conter a expressão "natal", restringindo o universo de seleção). Com oportunidade é possível ampliar o universo de seleção acresecentando aos critérios expressões como "parnamirim", "mipibu", "macaiba", "nisia" etc.  
+
