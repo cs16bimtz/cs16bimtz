@@ -203,11 +203,14 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 
 ### 8 - MÉTODO PARA A CLASSIFICAÇÃO DOS CONSCRITOS
 
-A classificação dos concritos poderá ser feita solicitando à base de dados de conscritos uma consulta que atenda a um conjunto de critérios. 
+A classificação dos conscritos poderá ser feita solicitando à **base de dados** de conscritos uma consulta que atenda a um conjunto de critérios. 
 
 Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca avançada: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos que sejam solteiros ou divorciados, morem com os pais, possuam o ensino médio completo, sejam católicos ou espíritas ou evangélicos, tenham tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não sejam usuários de droga, não tenham passagem pela polícia, não sejam arrimo de família, que possuam qualquer conhecimento de TIC, sejam  praticantes de natação ou basquete, e que residam no Tirol ou em Capim Macio ou em Petrópolis, cujo nome do pai tenha "R" como primmeira letra, não sejam portadores de transtornos ansiosos ou depressivos, não estejam ou tenham passado por tratamento psicológico ou psiquiátrico, sejam voluntários e que tenham menos que cinco cáries, etc.
 
-A consulta retornada poderia ser a relação dos conscritos classificados no processo, por exemplo.
+A consulta retornada poderia ser a relação dos conscritos classificados no processo, por exemplo. 
+
+> **Warning**
+> O único cuidado é fazer constar na pesquisa, exatamente todos os parâmetros que foram utilizados ao longo das diversas fases da CS para contraindicar (entrevista), ou incapacitar (médico e dentista) o conscrito. A pesquisa acima traria os conscritos portadores de epilepsia como conscritos classificados, o que seria uma falha grave.
 <hr>
 
 
