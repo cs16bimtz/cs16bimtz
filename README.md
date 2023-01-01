@@ -218,6 +218,7 @@ Para cada fase da CS existe uma consulta. O sistema dispõe das seguintes consul
 - CONSCRITOS APRESENTADOS
 - CONSCRITOS VOLUNTÁRIOS
 - CONSCRITOS APROVADOS
+- CONSCRITOS CLASSIFICADOS
 - CONSCRITOS INDICADOS (FASE - 1)
 - CONSCRITOS APTOS NO EXAME MÉDICO (FASE - 2)
 - CONSCRITOS APTOS NO EXAME ODONTOLÓGICO (FASE - 3)
@@ -236,8 +237,9 @@ A classificação dos concritos nesse caso, uma vez que todos estão aprovados, 
 |  4       | Encanador        |  ⭐⭐      | -  |
 |  5       |Eletricista       |  ⭐         | -      |
 
-Estabelecendo o critério de avaliação maior ou igual a ⭐⭐⭐, não seriam classificados:
+Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual a ⭐⭐⭐, não seriam classificados:
 - Encanador: ⭐⭐ (Aprovado, não classificado);
 - Eletricista: ⭐ (Aprovado, não classificado), etc.
 
+Existe uma consulta definida no sistema para exibir os classificadoss que atendam a esses critérios.
 <hr>
