@@ -9,10 +9,6 @@ O SisASC é um instrumento de gestão e foi concebido para ser a ferramenta de c
 
 A FDE contempla um conjunto de abas ou grupos (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc). 
 
-Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
-
-As abas (grupos) da FDE são visíveis a todos os usuários do sistema, todavia, existem campos em determinadas abas, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro da aba para os demais membros da CS logados no sistema. 
-
 O mesmo princípio foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (criação e edição) pelo médico ou dentista da CS, lembrando que o médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador.
@@ -36,12 +32,14 @@ Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca
 ![dados_pessoais](https://user-images.githubusercontent.com/121310141/210165676-6ef36d84-1c92-4bcc-9627-b69f00407a9e.png)
 
 Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do Conscrito em evidência. 
- 
-> **Note**
-> Repare que o sistema recusa o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, VOLUNTÁRIO ou ENTREVISTADOR não forem corretamente preenchidos. 
 
-> **Note**
-> O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de cadastro.  
+Em cada aba da FDE os campos de formulário foram agrupados respeitando a afinidade que os dados guardam entre si.
+ 
+As abas (grupos) da FDE são visíveis a todos os usuários do sistema, todavia, existem campos em determinadas abas, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro da aba para os demais membros da CS logados no sistema. 
+ 
+Repare que o sistema recusa o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, VOLUNTÁRIO ou ENTREVISTADOR não forem corretamente preenchidos. 
+
+O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de cadastro.  
 </details>
 
 <details>
