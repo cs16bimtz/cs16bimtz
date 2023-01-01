@@ -202,7 +202,7 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 - O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
 
 ### 8 - MÉTODO PARA A CLASSIFICAÇÃO DOS CONSCRITOS
-#### - FERRAMENTA DE BUSCAAVANÇADADO SASC
+#### 8.1 - FERRAMENTA DE BUSCAAVANÇADADO SASC
 A classificação dos conscritos poderá ser feita solicitando à **base de dados** de conscritos uma consulta que atenda a um conjunto de critérios. 
 
 Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca avançada: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos que sejam solteiros ou divorciados, morem com os pais, possuam o ensino médio completo, sejam católicos ou espíritas ou evangélicos, tenham tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não sejam usuários de droga, não tenham passagem pela polícia, não sejam arrimo de família, que possuam qualquer conhecimento de TIC, sejam  praticantes de natação ou basquete, e que residam no Tirol ou em Capim Macio ou em Petrópolis, cujo nome do pai tenha "R" como primmeira letra, não sejam portadores de transtornos ansiosos ou depressivos, não estejam ou tenham passado por tratamento psicológico ou psiquiátrico, sejam voluntários e que tenham menos que cinco cáries, etc.
@@ -212,7 +212,7 @@ A consulta retornada poderia ser a relação dos conscritos classificados no pro
 > **Warning**
 > O único cuidado que se deve ter é fazer constar na pesquisa, exatamente todos os parâmetros que foram utilizados ao longo das diversas fases da CS para indicar/contraindicar (ENTREVISTA), ou capacitar/incapacitar (EXAME MÉDICO e EXAME ODONTOLÓGICO) o conscrito. A pesquisa acima traria os conscritos portadores de epilepsia como conscritos classificados, e os que possuem habilidades na área de construção civil (pedreiro, pintor, encanador,etc) como não classificados, o que seria uma falha grave.
 
-#### - UTILIZANDO CONSULTA JÁ DEFINIDA NOS MENUS DO SASC
+#### 8.2 - UTILIZANDO CONSULTA JÁ DEFINIDA NOS MENUS DO SASC
 Para cada fase da CS existe uma consulta já definida. O sistema dispõe de uma consulta
 <hr>
 
