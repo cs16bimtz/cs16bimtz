@@ -229,7 +229,7 @@ guma habilidade), que coincide com o resultado da consulta `CONSCRITOS APTOS NO 
 A classificação dos concritos nesse caso, uma vez que todos estão aprovados, seria realizada atribuindo uma pontuação (⭐) ao conscrito possuidor de habilidades de interesse da OM, como no exemplo abaixo: 
 
 |  Nº |DESCRIÇÃO DA HABILIDADE|    AVALIAÇÃO   |   OBS           |
-|:---:|-----------------------|--------------:|:---------------:|
+|:---:|-----------------------|:--------------|:---------------:|
 |  1       | Pedreiro         |  ⭐⭐⭐⭐⭐ | -  |
 |  2       | Carpinteiro      |  ⭐⭐⭐⭐ | -      |
 |  3       | Pintor           |  ⭐⭐⭐    | -    |
