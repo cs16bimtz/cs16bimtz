@@ -19,11 +19,14 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 #### 1.2 - GRUPOS DE DADOS
 A inserção ou cadastro do conscrito no sistema só pode ser realizada por entrevistadores (abas `DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `PERFIL SOCIOECONÔMICO`). 
 
-Médico e dentista não podem inserir um conscrito no sistema, mas podem visualizar os dados dos conscritos inseridos pelos entrevistadores, sem que possa editá-los. 
+Médico e dentista só estão autorizados a inserir dados no cadastro dos conscritos nas abas `EXAME MÉDICO`, e `EXAME ODONTOLÓGICO` respectivamente. De outra forma: entrevistador realiza o cadastro do conscrito no SASC via FDE, médico e dentista preenchem os campos das abas que lhe correspondem, completando o cadastro do conscrito com informações sanitárias necessárias, cada qual em sua aba proprietária.
 
-Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, todavia, existem campos em determinados grupos, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro do grupo pelos demais membros da CS quando logados no sistema.
+>**Warning**
+> De forma geral, entrevistadores, médico e dentista visualizam os dados uns dos outros, mas sem permissão para edição dos campos que não sejam os do(s) seu(s) grupo(s).não podem inserir um conscrito no sistema, mas podem visualizar os dados dos conscritos inseridos pelos entrevistadores sem no entanto, poder editar tais dados. 
 
-Algo parecido foi aplicado aos campos da aba EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (edição) pelo médico ou dentista da CS. Diferentemente dos campos ocultos exclusivos do presidente da CS, aqui os campos são visíveis, mas bloqueados, exceto para o médico e o dentista, cada um em sua respectiva aba "proprietária". O médico vê, mas não altera os dados na aba do dentista e vice-versa.
+Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, todavia, existem campos em determinados grupos, que foram concebidos como campos de preenchimento exclusivo pelo presidente da CS. Tais campos não são visíveis dentro do grupo pelos demais membros da CS (entrevistadores, médico e dentista) quando logados no sistema.
+
+Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (edição) pelo médico ou dentista da CS. Diferentemente dos campos ocultos exclusivos do presidente da CS, aqui os campos são visíveis, mas bloqueados, exceto para o médico e o dentista, cada um em sua respectiva aba "proprietária". O médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
 De forma geral, entrevistadores, médico e dentista visualizam os dados uns dos outros, mas sem permissão para edição dos campos que não sejam os do(s) seu(s) grupo(s).
 
