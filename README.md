@@ -201,8 +201,11 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 
 - O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
 
+### 8 - MÉTODO PARA A CLASSIFICAÇÃO DOS CONSCRITOS
 
+A classificação dos concritos poderá ser feita solicitando à base de dados de conscritos uma consulta que atenda a um conjunto de critérios. 
 
+Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca avançada: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos que sejam solteiros ou divorciados, morem com os pais, possuam o ensino médio completo, sejam católicos ou espíritas ou evangélicos, tenham tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não sejam usuários de droga, não tenham passagem pela polícia, não sejam arrimo de família, que possuam qualquer conhecimento de TIC, sejam  praticantes de natação ou basquete, e que residam no Tirol ou em Capim Maciou ou em Petrópolis, cujo nome do pai tenha "R" como primmeira letra, não sejam portadores de transtornos ansiosos ou depressivos, tenham menos que cinco cáries, etc.
 <hr>
 
 
@@ -243,7 +246,7 @@ Legenda:
 
 - Durante a análise dos dados coletados (fase pós CS) e antes da divulgação do resultado do processo seletivo, utilizando a ferramenta de busca avançada já disponível no sistema, será possível a realização de consultas como: 
 
-Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca avançada: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos aprovados na CS, que sejam solteiros ou divorciados, morem com os pais, possuam o ensino médio completo, sejam católicos ou espíritas ou evangélicos, tenham tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não sejam usuários de droga, não tenham passagem pela polícia, não sejam arrimo de família, que possuam qualquer conhecimento de TIC,sejam  praticantes de natação ou basquete, e que residam no Tirol ou em Capim Maciou ou em Petrópolis, cujo nome do pai tenha "R" como primmeira letra, não sejam portadores de transtornos ansiosos ou depressivos, tenham menos que cinco cáries, etc.
+
 
  - Estado da aba: visível, oculta, visível mas bloqueada para usuários sem perfil para inserir ou editar dados nos campos da aba; 
    - Estado do campo: visível, oculto, visível 
