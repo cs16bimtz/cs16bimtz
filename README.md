@@ -38,7 +38,14 @@ O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF a
 </details>
 
 <details>
-<summary><kbd>INSPEÇÃO MÉDICA</kbd></summary>
+<summary>TÍTULO DE ELEITOR</summary> 
+ 
+![dados_pessoais](https://user-images.githubusercontent.com/121310141/210165676-6ef36d84-1c92-4bcc-9627-b69f00407a9e.png)
+  
+</details>
+
+<details>
+<summary>CNH</kbd></summary>
  
 ![fm](https://user-images.githubusercontent.com/121310141/209503889-b8d7322c-934d-472d-895f-1b6718a2b76d.png)
 
