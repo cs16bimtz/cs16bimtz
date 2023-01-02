@@ -257,3 +257,5 @@ Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual
 Existe uma consulta definida no sistema para exibir os classificadoss que atendam a esses critérios.
 <hr>
 </details>
+
+ 
