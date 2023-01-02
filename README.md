@@ -51,8 +51,8 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 | 7 | Entrevistador 3  |entrevistador_3 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
 
 - As senhas serão redefinidas por ocasião da CS e o sistema no endereço https://www.cse16bimtz.org/, será implantado no servidor da OM em https://10.46.40.34; 
-- Cada entrevistador tem visibilidade apenas dos seus entrevistados
-- Os critérios para a `APROVAÇÃO` do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador. 
+- Cada entrevistador tem visibilidade apenas dos seus entrevistados;
+- Os critérios para a `APROVAÇÃO` do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador; 
 - O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros exceto nas abas `EXAME MÉDICO` e `EXAME ODONTO`;
 - O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
 - O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
