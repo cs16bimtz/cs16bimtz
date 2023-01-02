@@ -63,7 +63,7 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfil de usuário do SASC. Em cada menu estão disponíveis consultas predefinidas de acordo com o perfil do usuário. 
 
 <details>
-<summary>PRESIDENTE DA CS 👁️ </summary> 
+<summary>CMT OM 👁️ </summary> 
 
 ![CS - CMT OM](https://user-images.githubusercontent.com/121310141/210225159-d4219ef2-9ebc-428d-a149-b3e9cbf95744.png)
  
