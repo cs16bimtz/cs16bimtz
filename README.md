@@ -255,6 +255,16 @@ Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual
 - Eletricista: ⭐ (Aprovado, não classificado), etc.
 
 Existe uma consulta definida no sistema para exibir os classificados que atendam a esses critérios.
+ 
+### 8 - MÉTODO PARA A CLASSIFICAÇÃO DOS CONSCRITOS
+ 
+ <details>
+<summary>LISTA DOS CONSCRITOS VOLUNTÁRIOS/ENTREVISTADOR (Exemplo de consulta) :eye: </summary> 
+ 
+![CS Diagrama (3)](https://user-images.githubusercontent.com/121310141/210282936-a7d534b2-4171-494b-8542-42481a9a57c8.png)
+  
+</details>
+ 
 <hr>
 </details>
 
