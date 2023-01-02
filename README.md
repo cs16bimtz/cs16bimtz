@@ -49,7 +49,7 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 | 6 | Entrevistador 2  |entrevistador_2 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |  
 | 7 | Entrevistador 3  |entrevistador_3 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
 
-- As senhas serão redefinidas por ocasião da CS e o sistema hospedado no servidor da OM no endereço https://10.46.40.34; 
+- As senhas serão redefinidas por ocasião da CS e o sistema no endereço https://www.cse16bimtz.org/, será implantado no servidor da OM em https://10.46.40.34; 
 - Cada entrevistador tem visibilidade apenas dos seus entrevistados
 - Os critérios para a `APROVAÇÃO` do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador. 
 - O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros exceto nas abas `EXAME MÉDICO` e `EXAME ODONTO`;
