@@ -157,6 +157,7 @@ Principais características do **`SASC/16º BI Mtz`**:
  DADOS PESSOAIS             | RELIGIÃO                            | &ne; Adventista                                       | INDICADO |Não pode ser adventista       |
  DADOS PESSOAIS             | ESCOLARIDADE                        | &ne; Ensino fundamental incompleto                    | INDICADO |Pelo menos o EF completo      |
  DADOS PESSOAIS             | VOLUNTÁRIO                          | = Sim                                                | INDICADO |                              |
+ DADOS PESSOAIS             | OUTROS CAMPOS                       | OUTROS CRITÉRIOS                                             | INDICADO |                              |
 
 - No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre-se de que esse é um campo com validação (*noempty*). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo não for preenchido.  
 
