@@ -64,6 +64,13 @@ Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfi
 
 <details>
 <summary>PRESIDENTE DA CS 👁️ </summary> 
+
+![CS - CMT OM](https://user-images.githubusercontent.com/121310141/210225159-d4219ef2-9ebc-428d-a149-b3e9cbf95744.png)
+ 
+</details>
+ 
+<details>
+<summary>PRESIDENTE DA CS 👁️ </summary> 
  
 ![CS - PRESIDENTE](https://user-images.githubusercontent.com/121310141/210188611-259ba03b-b855-499e-b605-0ce879cc6a0a.png)
 
