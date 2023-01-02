@@ -3,9 +3,9 @@ Sistema de Acompanhamento da Seleção Complementar (SASC) - Guia do utilizador 
 ### 1 - INTRODUÇÃO AO SASC
 Seja bem vindo ao **Sistema de Acompanhamento da Seleção Complementar do 16º BI Mtz**. 
 
-O SASC é um sistema de gestão e foi concebido para ser a ferramenta de levantamento e análise de dados dos conscritos durante e após a execução da seleção complementar na OM. 
+O SASC é um sistema de cadastro para gestão de pessoal concebido como ferramenta de apoio à tomada de decisão durante a execução da seleção complementar na OM. É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos e um menu de opções que agrupa por afinidade, um conjunto de consultas (relatórios) predefinidas.
 
-É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos (a que se encontra anexa à Ordem de Serviço para execução da CS). 
+<details>
 
 #### 1.1 - FICHA DIGITAL DE ENTREVISTA
 A FDE contempla um conjunto de grupos de dados ou abas para a coleta de informações sobre o conscrito (`DADOS PESSOAIS`, `PERFIL SOCIOECONÔMICO`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`), que agrupa campos de formulário respeitando a afinidade que os dados guardam entre si.
