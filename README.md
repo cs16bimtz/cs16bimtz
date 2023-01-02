@@ -185,16 +185,16 @@ Principais características do **`SASC/16º BI Mtz`**:
 
 ### 7 - TABELA DE USUÁRIOS DO SISTEMA E PERMISSÕES POR ABA DA FDE
 A tababela de permissões trata de quais perfis dentro de cada aba tem permissão para inserir (I), editar (E), visualizar (V) os campos de formulário.
-|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |TIT ELEITOR|CNH|EXM MÉD|EXM ODONTO|HBL|PERFIL|
-|:--:|-----------------|:--------------:|:---: |:--------------:|:------------:|:-:|:----------:|:----------:|:---:|:-------:|
-| 1 | Cmt OM           |         cmt_om | root| ✔️           | ✔️          |✔️| ✖️        | ✖️        | ✔️      | ✔️      |
-| 2 | Presidente da CS |  presidente_cs | root| ✔️           | ✔️          |✔️| ✖️        | ✖️        | ✔️      | ✔️      |
-| 3 | Médico 1         |       medico_1 | root| ✖️           | ✖️          |✖️| ✔️        | ✖️        | ✖️      | ✖️      | 
-| 4 | Médico 2         |       medico_2 | root| ✖️           | ✖️          |✖️| ✔️        | ✖️        | ✖️      | ✖️      | 
-| 5 | Dentista         |     dentista_1 | root| ✖️           | ✖️          |✖️| ✖️        | ✔️        | ✖️      | ✖️      | 
-| 6 | Entrevistador 1  |entrevistador_1 | root| ✔️           | ✔️          |✔️| ✖️        | ✖️        | ✔️      | ✔️      | 
-| 7 | Entrevistador 2  |entrevistador_2 | root| ✔️           | ✔️          |✔️| ✖️        | ✖️        | ✔️      | ✔️      | 
-| 8 | Entrevistador 3  |entrevistador_3 | root| ✔️           | ✔️          |✔️| ✖️        | ✖️        | ✔️      | ✔️      | 
+|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |EXM MÉD|EXM ODONTO|HBL|PERFIL|
+|:--:|-----------------|:--------------:|:---: |:--------------:|:----------:|:----------:|:---:|:-------:|
+| 1 | Cmt OM           |         cmt_om | root| ✔️           | ✖️        | ✖️        | ✔️      | ✔️      |
+| 2 | Presidente da CS |  presidente_cs | root| ✔️           |  ✖️        | ✖️        | ✔️      | ✔️      |
+| 3 | Médico 1         |       medico_1 | root| ✖️           | ✔️        | ✖️        | ✖️      | ✖️      | 
+| 4 | Médico 2         |       medico_2 | root| ✖️           |  ✔️        | ✖️        | ✖️      | ✖️      | 
+| 5 | Dentista         |     dentista_1 | root| ✖️           |  ✖️        | ✔️        | ✖️      | ✖️      | 
+| 6 | Entrevistador 1  |entrevistador_1 | root| ✔️           | ✖️        | ✖️        | ✔️      | ✔️      | 
+| 7 | Entrevistador 2  |entrevistador_2 | root| ✔️           |  ✖️        | ✖️        | ✔️      | ✔️      | 
+| 8 | Entrevistador 3  |entrevistador_3 | root| ✔️           |  ✖️        | ✖️        | ✔️      | ✔️      | 
 
 
 - As senhas serão redefinidas por ocasião da CS e o sistema hospedado no servidor da OM no endereço https://10.46.40.34; 
