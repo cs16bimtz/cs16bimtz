@@ -200,7 +200,7 @@ Principais características do **`SASC/16º BI Mtz`**:
 - Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
 ### 7 - MÉTODO PARA A CLASSIFICAÇÃO DOS CONSCRITOS
-#### 7.1 - FERRAMENTA DE BUSCA AVANÇADADO SASC
+#### 7.1 - FERRAMENTA DE BUSCA AVANÇADA DO SASC
 A classificação dos conscritos poderá ser feita solicitando à **base de dados** de conscritos uma consulta que atenda a um conjunto de critérios. 
 
 Exemplo de consulta à base de dados do sistema utilizando a ferramenta de busca avançada: desejamos que o sistema nos retorne uma consulta (lista) dos conscritos que sejam solteiros ou divorciados, morem com os pais, possuam o ensino médio completo, sejam católicos ou espíritas ou evangélicos, tenham tipo sanguíneo O+ ou A+, CNH Cat D ou E, que não sejam usuários de droga, não tenham passagem pela polícia, não sejam arrimo de família, que possuam qualquer conhecimento de TIC, sejam  praticantes de natação ou basquete, e que residam no Tirol ou em Capim Macio ou em Petrópolis, cujo nome do pai tenha "R" como primeira letra, não sejam portadores de transtornos ansiosos ou depressivos, não estejam ou tenham passado por tratamento psicológico ou psiquiátrico, sejam voluntários e que tenham menos que cinco cáries, etc.
