@@ -121,7 +121,7 @@ Principais características do **`SASC/16º BI Mtz`**:
 <details>
 <summary>LISTA DOS CONSCRITOS VOLUNTÁRIOS/ENTREVISTADOR (Exemplo de consulta) :eyes: </summary> 
  
-![CS - CONSULTA](https://user-images.githubusercontent.com/121310141/210190465-efc6e62f-216d-44c2-b1ea-d49f4d51fd9d.png)
+![CS - CONSCRITOS VOLUNTARIOS](https://user-images.githubusercontent.com/121310141/210190679-961a4b22-bc52-4e95-9e42-e85ecba714c2.png)
 
 </details>
 
