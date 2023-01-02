@@ -254,7 +254,7 @@ Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual
 - Encanador: ⭐⭐ (Aprovado, não classificado);
 - Eletricista: ⭐ (Aprovado, não classificado), etc.
 
-Existe uma consulta definida no sistema para exibir os classificadoss que atendam a esses critérios.
+Existe uma consulta definida no sistema para exibir os classificados que atendam a esses critérios.
 <hr>
 </details>
 
