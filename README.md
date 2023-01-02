@@ -74,7 +74,7 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 |:--:|-----------------|:--------------:|:---: |:--------------:|:----------:|:----------:|:---:|:-------:|
 | 1 | Cmt OM           |         cmt_om | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |
 | 2 | Presidente da CS |  presidente_cs | root|  ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |
-| 3 | Médico 1         |       medico_1 | root| ✖️           | ✖️        | ✖️        | ✔️      | ✖️      | 
+| 3 | Médico           |       medico_1 | root| ✖️           | ✖️        | ✖️        | ✔️      | ✖️      | 
 | 4 | Dentista         |     dentista_1 | root| ✖️           |  ✖️        | ✖️        | ✖️      | ✔️      | 
 | 5 | Entrevistador 1  |entrevistador_1 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
 | 6 | Entrevistador 2  |entrevistador_2 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |  
