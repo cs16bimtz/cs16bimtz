@@ -92,6 +92,34 @@ Principais características do **`SASC/16º BI Mtz`**:
 - A adoção do SASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar.
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SASC.
 
+<details>
+<summary>PRESIDENTE DA CS</summary> 
+ 
+![CS - PRESIDENTE](https://user-images.githubusercontent.com/121310141/210188611-259ba03b-b855-499e-b605-0ce879cc6a0a.png)
+
+</details>
+
+<details>
+<summary>MÉDICO DA CS</summary> 
+ 
+![CS - MEDICO](https://user-images.githubusercontent.com/121310141/210188616-530722ea-832d-48d6-a797-38d6cda4eb5b.png)
+
+</details>
+
+<details>
+<summary>DENTISTA DA CS</summary> 
+ 
+![CS - DENTISTA](https://user-images.githubusercontent.com/121310141/210188623-529f82a5-2408-4e9a-8172-d4cedc2d569d.png)
+
+</details>
+
+<details>
+<summary>ENTREVISTADOR DA CS</summary> 
+ 
+![CS - ENTREVISTADOR](https://user-images.githubusercontent.com/121310141/210188631-cbf172de-6d2e-4ff9-ad14-fb7b069f1ebc.png)
+
+</details>
+
 ### 4 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
 |:--------:|-----------------|:--------------:|:---------------:|:----:|
