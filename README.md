@@ -239,8 +239,7 @@ Para cada fase da CS existe uma consulta. O sistema dispõe das seguintes consul
 - CONSCRITOS QUE DEMONSTRARAM ALGUMA HABILIDADE (FASE -4)
 - OUTRAS
 
-Como cada fase (com exceção da fase 4) é eliminatória, os conscritos aprovados na CS são os que constam na consulta CONSCRITOS APROVADOS, (tenham ou não declarado al
-guma habilidade), que coincide com o resultado da consulta `CONSCRITOS APTOS NO EXAME ODONTOLÓGICO`, última das fases eliminatórias.
+Como cada fase (com exceção da fase 4) é eliminatória, os conscritos aprovados na CS são os que constam na consulta CONSCRITOS APROVADOS, (tenham ou não declarado alguma habilidade), que coincide com o resultado da consulta `CONSCRITOS APTOS NO EXAME ODONTOLÓGICO`, última das fases eliminatórias.
 A classificação dos concritos nesse caso, uma vez que todos estão aprovados, seria realizada atribuindo uma pontuação (⭐) ao conscrito possuidor de habilidades de interesse da OM, como no exemplo abaixo: 
 
 |  Nº |DESCRIÇÃO DA HABILIDADE|RESULTADO CS |  AVALIAÇÃO   |  CLASSIFICAÇÃO    |
