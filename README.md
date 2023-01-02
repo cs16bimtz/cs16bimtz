@@ -256,7 +256,7 @@ Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual
 
 Existe uma consulta definida no sistema para exibir os classificados que atendam a esses critérios.
  
-### 8 - MÉTODO PARA A CLASSIFICAÇÃO DOS CONSCRITOS
+### 8 - FASEAMENTO DE UMA CS DE MODO A OBTER O MÁXIMO DE DESEMPENHO DO SASC
  
  <details>
 <summary>LISTA DOS CONSCRITOS VOLUNTÁRIOS/ENTREVISTADOR (Exemplo de consulta) :eye: </summary> 
