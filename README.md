@@ -8,7 +8,7 @@ O SASC é um sistema de gestão e foi concebido para ser a ferramenta de levanta
 É composto basicamente de um formulário de cadastro denominado **Ficha Digital de Entrevista (FDE)** cujos campos são os campos da Ficha de Entrevista do Conscrito nos moldes como a conhecemos (a que se encontra anexa à Ordem de Serviço para execução da CS). 
 
 #### 1.1 - FICHA DIGITAL DE ENTREVISTA
-A FDE contempla um conjunto de grupos de dados ou abas para a coleta de informações sobre o conscrito (`DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`, `PERFIL SOCIOECONÔMICO`, etc), que agrupa campos de formulário respeitando a afinidade que os dados guardam entre si.
+A FDE contempla um conjunto de grupos de dados ou abas para a coleta de informações sobre o conscrito (`DADOS PESSOAIS`, `PERFIL SOCIOECONÔMICO`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`), que agrupa campos de formulário respeitando a afinidade que os dados guardam entre si.
 
 Na FDE os campos que serão utilizados como critério de seleção possuem um tipo de validação (*noempty*) que impede que os mesmos sejam armazenados com valor *NULL* no banco de dados. São campos, portanto, de preenchimento obrigatório por parte do entrevistador e foram, na medida do possível, agrupados em uma  mesma região do grupo de dados com o intuito de aumentar a legibilidade do formulário e facilitar o trabalho do entrevistador no lançamento das informações. O sistema recusará o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, VOLUNTÁRIO ou ENTREVISTADOR não forem corretamente preenchidos.  
 O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de registro. 
@@ -18,7 +18,7 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 - As FDE que serão impressas, assinadas e arquivadas ao final do processo (véspera de incorporação) serão as dos conscritos `CLASSIFICADOS` no processo seletivo, apenas;
 
 #### 1.2 - GRUPOS DE DADOS
-A inserção ou cadastro do conscrito no sistema só pode ser realizada por entrevistadores (abas `DADOS PESSOAIS`, `TÍTULO DE ELEITOR`, `CNH`, `PERFIL SOCIOECONÔMICO`). 
+A inserção ou cadastro do conscrito no sistema só pode ser realizada por entrevistadores (abas `DADOS PESSOAIS`, `PERFIL SOCIOECONÔMICO`). 
 
 Médico e dentista só estão autorizados a inserir dados no cadastro dos conscritos nas abas `EXAME MÉDICO`, e `EXAME ODONTOLÓGICO` respectivamente. 
 
