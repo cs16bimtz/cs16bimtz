@@ -119,9 +119,9 @@ Principais características do **`SASC/16º BI Mtz`**:
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SASC;
 
 <details>
-<summary>LISTA DOS CONSCRITOS VOLUNTÁRIOS (Exemplo de consulta) :eyes: </summary> 
+<summary>LISTA DOS CONSCRITOS VOLUNTÁRIOS/ENTREVISTADOR (Exemplo de consulta) :eyes: </summary> 
  
-![CS - CONSCRITOS VOLUNTARIOS](https://user-images.githubusercontent.com/121310141/210190563-450de903-9884-40ce-92fd-e3b233d18012.png)
+![CS - CONSULTA](https://user-images.githubusercontent.com/121310141/210190465-efc6e62f-216d-44c2-b1ea-d49f4d51fd9d.png)
 
 </details>
 
