@@ -62,28 +62,28 @@ A tababela de permissões trata de quais perfis dentro de cada aba tem permissã
 Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfil de usuário do SASC. Em cada menu estão disponíveis consultas predefinidas de acordo com o perfil do usuário. 
 
 <details>
-<summary>PRESIDENTE DA CS :eyes: </summary> 
+<summary>PRESIDENTE DA CS 👁️: </summary> 
  
 ![CS - PRESIDENTE](https://user-images.githubusercontent.com/121310141/210188611-259ba03b-b855-499e-b605-0ce879cc6a0a.png)
 
 </details>
 
 <details>
-<summary>MÉDICO DA CS:eyes: </summary> 
+<summary>MÉDICO DA CS:eye: </summary> 
  
 ![CS - MEDICO](https://user-images.githubusercontent.com/121310141/210188616-530722ea-832d-48d6-a797-38d6cda4eb5b.png)
 
 </details>
 
 <details>
-<summary>DENTISTA DA CS :eyes: </summary> 
+<summary>DENTISTA DA CS :eye: </summary> 
  
 ![CS - DENTISTA](https://user-images.githubusercontent.com/121310141/210188623-529f82a5-2408-4e9a-8172-d4cedc2d569d.png)
 
 </details>
 
 <details>
-<summary>ENTREVISTADOR DA CS :eyes: </summary> 
+<summary>ENTREVISTADOR DA CS :eye: </summary> 
  
 ![CS - ENTREVISTADOR](https://user-images.githubusercontent.com/121310141/210188631-cbf172de-6d2e-4ff9-ad14-fb7b069f1ebc.png)
 
@@ -119,7 +119,7 @@ Principais características do **`SASC/16º BI Mtz`**:
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SASC;
 
 <details>
-<summary>LISTA DOS CONSCRITOS VOLUNTÁRIOS/ENTREVISTADOR (Exemplo de consulta) :eyes: </summary> 
+<summary>LISTA DOS CONSCRITOS VOLUNTÁRIOS/ENTREVISTADOR (Exemplo de consulta) :eye: </summary> 
  
 ![CS - CONSCRITOS VOLUNTARIOS](https://user-images.githubusercontent.com/121310141/210190679-961a4b22-bc52-4e95-9e42-e85ecba714c2.png)
 
