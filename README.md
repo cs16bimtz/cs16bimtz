@@ -33,7 +33,7 @@ Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, 
 Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (edição) pelo médico ou dentista da CS. Diferentemente dos campos ocultos exclusivos do presidente da CS, aqui os campos são visíveis, mas bloqueados, exceto para o médico e o dentista, cada um em sua respectiva aba "proprietária". O médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
 <details>
-<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "DADOS PESSOAIS)</summary> 
+<summary> :eyes: FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "DADOS PESSOAIS)</summary> 
  
 ![CS - FDE](https://user-images.githubusercontent.com/121310141/210189125-a821f7da-8310-4568-bbd2-e366d895a720.png)
 
