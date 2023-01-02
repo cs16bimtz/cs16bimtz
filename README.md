@@ -118,6 +118,12 @@ Principais características do **`SASC/16º BI Mtz`**:
 - A adoção do SASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar;
 - Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SASC;
 
+<details>
+<summary>LISTA DOS CONSCRITOS VOLUNTÁRIOS (Exemplo de consulta) :eyes: </summary> 
+ 
+![CS - CONSULTA](https://user-images.githubusercontent.com/121310141/210190465-efc6e62f-216d-44c2-b1ea-d49f4d51fd9d.png)
+
+</details>
 
 ### 4 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
