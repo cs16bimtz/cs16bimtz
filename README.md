@@ -7,6 +7,7 @@ O SASC é um sistema de cadastro para gestão de pessoal concebido como ferramen
 
 <details>
 <summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "DADOS PESSOAIS) :eye: </summary> 
+ 
 #### 1.1 - FICHA DIGITAL DE ENTREVISTA
 A FDE contempla um conjunto de grupos de dados ou abas para a coleta de informações sobre o conscrito (`DADOS PESSOAIS`, `PERFIL SOCIOECONÔMICO`, `EXAME MÉDICO`, `EXAME ODONTOLÓGICO`, `TESTE DE HABILIDADES`), que agrupa campos de formulário respeitando a afinidade que os dados guardam entre si.
 
