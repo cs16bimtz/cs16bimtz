@@ -31,67 +31,8 @@ Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, 
 
 Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (edição) pelo médico ou dentista da CS. Diferentemente dos campos ocultos exclusivos do presidente da CS, aqui os campos são visíveis, mas bloqueados, exceto para o médico e o dentista, cada um em sua respectiva aba "proprietária". O médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
-### 2 - APRESENTAÇÃO DOS GRUPOS DE DADOS:
-<details>
-<summary>DADOS PESSOAIS</summary> 
- 
-![dados_pessoais](https://user-images.githubusercontent.com/121310141/210165676-6ef36d84-1c92-4bcc-9627-b69f00407a9e.png)
+### 2 - AMBIENTE CUSTOMIZADO PARA CADA PERFIL NO SASC:
 
-Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do Conscrito em evidência. 
-
-Repare que o sistema recusa o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, VOLUNTÁRIO ou ENTREVISTADOR não forem corretamente preenchidos.  
-
-O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de cadastro.  
-</details>
-
-<details>
-<summary>TÍTULO DE ELEITOR</summary> 
- 
-![dados_pessoais](https://user-images.githubusercontent.com/121310141/210165676-6ef36d84-1c92-4bcc-9627-b69f00407a9e.png)
-  
-</details>
-
-<details>
-<summary>CNH</kbd></summary>
- 
-![fm](https://user-images.githubusercontent.com/121310141/209503889-b8d7322c-934d-472d-895f-1b6718a2b76d.png)
-
-Na imagem acima temos a aba DADOS PESSOAIS da Ficha "Digital" de Entrevista do Conscrito em evidência. 
- > **Note**
-> Repare que o sistema recusa o cadastramanto do conscrito se `quaisquer` dos campos: NOME, CPF, ESTADO CIVIL, RELIGIÃO, ESCOLARIDADE, VOLUNTÁRIO ou ENTREVISTADOR não forem corretamente preenchidos. 
-
-> **Note**
-> O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. De outra forma: o sistema não permitirá a duplicidade de cadastro.  
-</details>
-  
-### 3 - CARACTERÍSTICAS DO SASC
-No SASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM.
-
-O sistema terá as configurações necessárias para garantir que todos os conscritos selecionados (CLASSIFICADOS) para a incorporação, atendam aos requisitos que a unidade deseja. 
-
-Para que o conscrito seja considerado <kbd>INDICADO</kbd> na entrevista, uma série de requisitos devem ser satisfeitos; para que o conscrito seja <kbd>CONTRAINDICADO</kbd> na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja atendido. Essas características do sistema garantem o rigor e a homogeneidade do processo seletivo. 
-
-Principais características do **`SASC/16º BI Mtz`**:
-- É um sistema de gestão e controle;
-- Permite o controle eficiente de cada uma das fases da CS;
-- Controle de acesso de usuário (grupos de usuários com acesso de visualização e edição);
-- Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
-- Ficha Digital de Entrevista (FDE); 
-- Relatórios (Consultas) predefinidos no sistema: 
-   - Indicados/Contraindicados na Entrevista;   
-   - Aptos/Inaptos no exame médico; 
-   - Aptos/Inaptos no exame odontológico;     
-   - Voluntários/Não voluntários;   
-   - Possuem/Não possuem habilidades;   
-   - Classificados/Não classificados para a incorporação;   
-   - Outras consultas (Conscritos/Estado Civil, Conscritos/Escolaridade, Conscritos/Religião, etc...)  
-- Ferramenta de busca avançada; 
-- Impressão da Ficha de Entrevista gerada (Apenas para os candidatos classificados);
-- Imprime e exporta consultas PDF, CSV;
-- Formulário para cadastramento de entrevistadores;
-- Log de ações do usuário (auditoria); 
-- A adoção do SASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar;
-- Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SASC;
 - Ambiente personalizado para cada perfil de usuário do SASC.
 
 <details>
@@ -121,6 +62,39 @@ Principais características do **`SASC/16º BI Mtz`**:
 ![CS - ENTREVISTADOR](https://user-images.githubusercontent.com/121310141/210188631-cbf172de-6d2e-4ff9-ad14-fb7b069f1ebc.png)
 
 </details>
+
+
+
+  
+### 3 - CARACTERÍSTICAS DO SASC
+No SASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM.
+
+O sistema terá as configurações necessárias para garantir que todos os conscritos selecionados (CLASSIFICADOS) para a incorporação, atendam aos requisitos que a unidade deseja. 
+
+Para que o conscrito seja considerado <kbd>INDICADO</kbd> na entrevista, uma série de requisitos devem ser satisfeitos; para que o conscrito seja <kbd>CONTRAINDICADO</kbd> na fase de entrevista, todavia, basta que apenas um dos parâmetros (requisitos) não seja atendido. Essas características do sistema garantem o rigor e a homogeneidade do processo seletivo. 
+
+Principais características do **`SASC/16º BI Mtz`**:
+- É um sistema de gestão e controle;
+- Permite o controle eficiente de cada uma das fases da CS;
+- Controle de acesso de usuário (grupos de usuários com acesso de visualização e edição);
+- Abstração do uso de papel e de impressão ao longo de praticamente toda a realização da CS;
+- Ficha Digital de Entrevista (FDE); 
+- Relatórios (Consultas) predefinidos no sistema: 
+   - Indicados/Contraindicados na Entrevista;   
+   - Aptos/Inaptos no exame médico; 
+   - Aptos/Inaptos no exame odontológico;     
+   - Voluntários/Não voluntários;   
+   - Possuem/Não possuem habilidades;   
+   - Classificados/Não classificados para a incorporação;   
+   - Outras consultas (Conscritos/Estado Civil, Conscritos/Escolaridade, Conscritos/Religião, etc...)  
+- Ferramenta de busca avançada; 
+- Impressão da Ficha de Entrevista gerada (Apenas para os candidatos classificados);
+- Imprime e exporta consultas PDF, CSV;
+- Formulário para cadastramento de entrevistadores;
+- Log de ações do usuário (auditoria); 
+- A adoção do SASC contempla uma fase de divulgação de resultados (classificação) para os conscritos aprovados no processo de seleção complementar;
+- Menu de opções: os menus agrupam, também por afinidade, as diversas consultas (relatórios) disponíveis no SASC;
+
 
 ### 4 - TERMINOLOGIA/FASE DA `COMISSÃO DE SELEÇÃO` NO SASC
 |  Nº FASE |DESCRIÇÃO DA FASE|      CONFORME  |   NÃO CONFORME  |  OBS | 
