@@ -261,7 +261,7 @@ Existe uma consulta definida no sistema para exibir os classificados que atendam
  <details>
 <summary>DIAGRAMA DE FASES DA CS :eye: </summary> 
  
-![CS Diagrama (4)](https://user-images.githubusercontent.com/121310141/210283281-c484a466-3cc8-43c8-a0e6-f88ddc300513.png)
+![CS Diagrama (5)](https://user-images.githubusercontent.com/121310141/210283848-4269c17f-f11a-4b2f-a090-2ff3a06841ee.png)
 
 </details>
  
