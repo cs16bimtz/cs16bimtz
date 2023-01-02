@@ -229,13 +229,13 @@ Como cada fase (com exceção da fase 4) é eliminatória, os conscritos aprovad
 guma habilidade), que coincide com o resultado da consulta `CONSCRITOS APTOS NO EXAME ODONTOLÓGICO`, última das fases eliminatórias.
 A classificação dos concritos nesse caso, uma vez que todos estão aprovados, seria realizada atribuindo uma pontuação (⭐) ao conscrito possuidor de habilidades de interesse da OM, como no exemplo abaixo: 
 
-|  Nº |DESCRIÇÃO DA HABILIDADE|    AVALIAÇÃO   |    CLASSIFICAÇÃO         |
-|:---:|-----------------------|:--------------|:---------------:|
-|  1       | Pedreiro         |  ⭐⭐⭐⭐⭐ | CLASSIFICADO  |
-|  2       | Carpinteiro      |  ⭐⭐⭐⭐ | CLASSIFICADO      |
-|  3       | Pintor           |  ⭐⭐⭐    | CLASSIFICADO    |
-|  4       | Encanador        |  ⭐⭐      | NÃO CLASSIFICADO|
-|  5       |Eletricista       |  ⭐         | NÃO CLASSIFICADO|
+|  Nº |DESCRIÇÃO DA HABILIDADE|RESULTADO|  AVALIAÇÃO   |  CLASSIFICAÇÃO    |
+|:---:|-----------------------|:--------:|:------------|:---------------:|
+|  1       | Pedreiro         | APROVADO |⭐⭐⭐⭐⭐ | CLASSIFICADO  |
+|  2       | Carpinteiro      | APROVADO |⭐⭐⭐⭐   | CLASSIFICADO   |
+|  3       | Pintor           | APROVADO |⭐⭐⭐      | CLASSIFICADO    |
+|  4       | Encanador        | APROVADO |⭐⭐         | NÃO CLASSIFICADO|
+|  5       |Eletricista       | APROVADO |⭐           | NÃO CLASSIFICADO|
 
 Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual a ⭐⭐⭐, não seriam classificados:
 - Encanador: ⭐⭐ (Aprovado, não classificado);
