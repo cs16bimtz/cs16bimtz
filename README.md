@@ -69,7 +69,7 @@ Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfi
 </details>
 
 <details>
-<summary>MÉDICO DA CS:eyes:  :eyes: </summary> 
+<summary>MÉDICO DA CS:eyes: </summary> 
  
 ![CS - MEDICO](https://user-images.githubusercontent.com/121310141/210188616-530722ea-832d-48d6-a797-38d6cda4eb5b.png)
 
