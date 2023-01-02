@@ -32,8 +32,7 @@ Os grupos de dados (abas) da FDE são vistos por todos os usuários do sistema, 
 Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓGICO. Tais campos, embora visíveis para todos os membros da CS, só podem ser manipulados (edição) pelo médico ou dentista da CS. Diferentemente dos campos ocultos exclusivos do presidente da CS, aqui os campos são visíveis, mas bloqueados, exceto para o médico e o dentista, cada um em sua respectiva aba "proprietária". O médico vê, mas não altera os dados na aba do dentista e vice-versa.
 
 ### 2 - AMBIENTE CUSTOMIZADO PARA CADA PERFIL NO SASC:
-
-- Ambiente personalizado para cada perfil de usuário do SASC.
+Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfil de usuário do SASC.
 
 <details>
 <summary>PRESIDENTE DA CS</summary> 
