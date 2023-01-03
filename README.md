@@ -258,6 +258,7 @@ Existe uma consulta definida no sistema para exibir os classificados que atendam
  
 ### 8 -  MÉTODO PARA A DISTRIBUIÇÃO POR SUBUNIDADE
 Feita pelo Presidente da CS. Pode ser realizada manualmente, ou automatizada a patir de critérios.
+
 Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos classificados com três ou mais ⭐⭐⭐ cujo campo ALTURA (cm) seja maior que 170, por exemplo. 
  
 ### 9 - FASEAMENTO DE UMA CS COM O MELHOR DESEMPENHO DO SASC
