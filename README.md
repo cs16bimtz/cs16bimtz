@@ -186,8 +186,7 @@ Principais características do **`SASC/16º BI Mtz`**:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
 ----------------------------|-------------------------------------|----------------------------------------------------|----------|------------------------------|
  EXAME MÉDICO               | TOMA REMÉDIO CONTROLADO             | = Não                                                | APTO     |                              |
- EXAME MÉDICO               | FEZ OU FAZ                          | &ne; Tratamento Psicológico                    | APTO     |                              |
- EXAME MÉDICO               | FEZ OU FAZ                          | &ne; Tratamento Psiquiátrico                      | APTO     |                              |
+ EXAME MÉDICO               | FEZ OU FAZ                          | &ne; Tratamento Psicológico, Tratamento Psiquiátrico                   | APTO     |                              |
  EXAME MÉDICO               | PATOLOGIAS                          | &ne; Transtornos ansiosos, Transtornos psicóticos, Transtornos depressivos, Instabilidade no joelho, Instabilidade no ombro, Hérnias, Sopro cardíaco a esclarecer, Epilepsia, Dor nas costas                     | APTO     |                              |
 
 #### Parametrização de alguns dos campos de formulário da aba `EXAME ODONTOLÓGICO` para o conscrito ser considerado <kbd>Apto</kbd> na fase 3 (EXAME ODONTO) do processo seletivo:
