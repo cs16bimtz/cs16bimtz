@@ -215,7 +215,7 @@ Principais características do **`SASC/16º BI Mtz`**:
 
 - Conscrito `Não conforme` em uma das fases não realiza a triagem na fase seguinte (Casos 3, 4 e 5). 
 
-### 7 - MÉTODO PARA A CLASSIFICAÇÃO DOS CONSCRITOS
+### 7 - MÉTODO PARA A CLASSIFICAÇÃO DOS CONSCRITOS (⭐⭐⭐⭐)
 #### 7.1 - FERRAMENTA DE BUSCA AVANÇADA DO SASC
 A classificação dos conscritos poderá ser feita solicitando à **base de dados** de conscritos uma consulta que atenda a um conjunto de critérios. 
 
@@ -226,7 +226,7 @@ A consulta retornada poderia ser a relação dos conscritos classificados no pro
 > **Warning**
 > O único cuidado que se deve ter é fazer constar na pesquisa, exatamente todos os parâmetros que foram utilizados ao longo das diversas fases da CS para indicar/contraindicar (ENTREVISTA), ou capacitar/incapacitar (EXAME MÉDICO e EXAME ODONTOLÓGICO) o conscrito. A pesquisa acima traria os conscritos portadores de epilepsia como conscritos classificados, e os que possuem habilidades na área da construção civil (pedreiro, pintor, encanador, etc) como não classificados, o que seria uma falha grave.
 
-#### 7.2 - UTILIZANDO CONSULTA JÁ DEFINIDA NOS MENUS DO SASC
+#### 7.2 - UTILIZANDO CONSULTA PREDEFINIDA NOS MENUS DO SASC
 Para cada fase da CS existe uma consulta. O sistema dispõe das seguintes consultas predefinidas:
 
 - CONSCRITOS APRESENTADOS
@@ -256,7 +256,11 @@ Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual
 
 Existe uma consulta definida no sistema para exibir os classificados que atendam a esses critérios.
  
-### 8 - FASEAMENTO DE UMA CS DE MODO A OBTER O MÁXIMO DE DESEMPENHO DO SASC
+### 8 -  MÉTODO PARA A DISTRIBUIÇÃO POR SUBUNIDADE
+Feita pelo Presidente da CS. Pode ser realizada manualmente, ou automatizada a patir de critérios.
+Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos classificados com três ou mais ⭐⭐⭐ cujo campo ALTURA (cm) seja maior que 170, por exemplo. 
+ 
+### 9 - FASEAMENTO DE UMA CS DE MODO A OBTER O MÁXIMO DE DESEMPENHO DO SASC
  
  <details>
 <summary>DIAGRAMA DE FASES DA CS :eye: </summary> 
@@ -264,7 +268,6 @@ Existe uma consulta definida no sistema para exibir os classificados que atendam
 ![CS Diagrama (7)](https://user-images.githubusercontent.com/121310141/210290692-5cf51a34-5aa7-4755-8bd8-1710691e9afd.png)
   
 </details>
-
 <hr>
 </details>
 
