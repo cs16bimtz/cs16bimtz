@@ -261,7 +261,7 @@ Feita pelo Presidente da CS. Pode ser realizada manualmente, ou automatizada a p
 
 Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos classificados com três ou mais ⭐⭐⭐ cujo campo ALTURA (cm) seja maior que 170, por exemplo. 
  
-### 9 - FASEAMENTO DE UMA CS COM O MELHOR DESEMPENHO DO SASC
+### 9 - FASEAMENTO DE UMA CS PARA O MELHOR DESEMPENHO DO SASC
  
  <details>
 <summary>DIAGRAMA DE FASES DA CS :eye: </summary> 
