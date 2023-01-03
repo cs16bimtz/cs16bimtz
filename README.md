@@ -80,7 +80,7 @@ Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfi
 <summary>MÉDICO DA CS:eye: </summary> 
  
 ![CS - MEDICO](https://user-images.githubusercontent.com/121310141/210188616-530722ea-832d-48d6-a797-38d6cda4eb5b.png)
-Situação normal do conscrito no exame médico é apto. Se nenhum campo for preenchido o conscrito será considerado apto em inspeção de saúde.
+
 </details>
 
 <details>
@@ -264,7 +264,7 @@ Existe uma consulta definida no sistema para exibir os classificados que atendam
 ![CS Diagrama (7)](https://user-images.githubusercontent.com/121310141/210290692-5cf51a34-5aa7-4755-8bd8-1710691e9afd.png)
   
 </details>
- 
+
 <hr>
 </details>
 
