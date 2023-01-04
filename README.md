@@ -215,9 +215,7 @@ Principais características do **`SASC/16º BI Mtz`**:
  EXAME ODONTO               | QNT AUSÊNCIA DENT ANTERIOR (ADA)        | <=3  (por exemplo)                                 | APTO     |                              |
  EXAME ODONTO               | QNT AUSÊNCIA DENT POSTERIOR (ADP)        | <=3  (por exemplo)                                 | APTO     |                              |
 
-- Não existe também no sistema, na fase de realização dos exames médicos/adontológicos, o botão `Apto`, ou `Conscrito apto`, ou `Conscrito inapto`. Essa tarefa também foi automatizada, significando dizer que o próprio sistema se encarregará de definir se o conscrito foi apto (ou inapto), a partir dos dados coletados na FDE em confronto com os parâmetros configurados, que por enquanto são os constantes das tabelas acima.
-
-- A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros das abas DADOS PESSOAIS  e PERFIL SOCIOECONÔMICO.
+A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros das abas DADOS PESSOAIS  e PERFIL SOCIOECONÔMICO.
 
 ### 6 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASOS (1-5)
 |   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES| RESULTADO CS | CLASSIFICAÇÃO|
@@ -244,7 +242,7 @@ A consulta retornada poderia ser a relação dos conscritos classificados no pro
 > O único cuidado que se deve ter é fazer constar na pesquisa, exatamente todos os parâmetros que foram utilizados ao longo das diversas fases da CS para indicar/contraindicar (ENTREVISTA), ou capacitar/incapacitar (EXAME MÉDICO e EXAME ODONTOLÓGICO) o conscrito. A pesquisa acima traria os conscritos portadores de epilepsia como conscritos classificados, e os que possuem habilidades na área da construção civil (pedreiro, pintor, encanador, etc) como não classificados, o que seria uma falha grave.
 
 #### 7.2 - UTILIZANDO CONSULTA PREDEFINIDA NOS MENUS DO SASC
-Para cada fase da CS existe uma consulta. O sistema dispõe das seguintes consultas predefinidas:
+O sistema dispõe das seguintes consultas predefinidas:
 
 - CONSCRITOS APRESENTADOS
 - CONSCRITOS VOLUNTÁRIOS
@@ -256,8 +254,6 @@ Para cada fase da CS existe uma consulta. O sistema dispõe das seguintes consul
 - CONSCRITOS QUE DEMONSTRARAM ALGUMA HABILIDADE (FASE -4)
 - OUTRAS
 
-Como cada fase (com exceção da fase 4) é eliminatória, os conscritos aprovados na CS são os que constam na consulta CONSCRITOS APROVADOS, (tenham ou não declarado alguma habilidade), que coincide com o resultado da consulta `CONSCRITOS APTOS NO EXAME ODONTOLÓGICO`, última das fases eliminatórias.
-A classificação dos concritos nesse caso, uma vez que todos estão aprovados, seria realizada atribuindo uma pontuação (⭐) ao conscrito possuidor de habilidades de interesse da OM, como no exemplo abaixo: 
 
 |  Nº |DESCRIÇÃO DA HABILIDADE|RESULTADO CS |  AVALIAÇÃO   |  CLASSIFICAÇÃO    |
 |:---:|-----------------------|:--------:|:------------|:---------------:|
