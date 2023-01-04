@@ -223,10 +223,10 @@ Principais características do **`SASC/16º BI Mtz`**:
 ### 6 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASOS (1-5)
 |   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES| RESULTADO CS | CLASSIFICAÇÃO|
 | :-----: | :---------: | :----------: | :----------: | :------------------: |:-------:|-----|
-| 1       |🟢    |🟢      |🟢     |🟢  |   APROVADO|⭐⭐⭐⭐⭐|
-| 2       |🟢    |🟢      |🟢     |🔴  |   APROVADO|⭐⭐⭐⭐|
-| 3       |🟢    |🟢      |🔴     |     |  REPROVADO |  -  |
-| 4       |🟢    |🔴      |       |     | REPROVADO    |  -  |
+| 1       |🔵    |🔵      |🔵     |🔵  |   APROVADO|⭐⭐⭐⭐⭐|
+| 2       |🔵    |🔵      |🔵     |🔴  |   APROVADO|⭐⭐⭐⭐|
+| 3       |🔵    |🔵      |🔴     |     |  REPROVADO |  -  |
+| 4       |🔵    |🔴      |       |     | REPROVADO    |  -  |
 | 5       |🔴    |        |       |     |   REPROVADO   |  - | 
 
 - Conscrito contraindicado na entrevista não realiza a fase seguinte conforme Caso 5 da tabela STATUS/CASO.
