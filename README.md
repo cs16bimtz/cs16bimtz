@@ -187,6 +187,8 @@ Principais características do **`SASC/16º BI Mtz`**:
 - No campo `RELIGIÃO` da aba DADOS PESSOAIS, se o valor selecionado for "Adventista", o conscrito será automaticamente contraindicado, independente de quais sejam as respostas para os demais campos utilizados como parâmetros na aba considerada. Lembre-se de que esse é um campo com validação (*noempty*). O entrevistador é impedido de salvar/cadastrar as demais informações do conscrito se esse campo não for preenchido.  
 
 - Não existe no sistema o botão `Indicado`, ou `Indicar candidato`, ou `Indicar conscrito`. Essa tarefa foi automatizada, significando dizer que o próprio sistema se encarregará de indicar (ou contraindicar) o conscrito a partir dos dados coletados na FDE em confronto com os parâmetros configurados.
+ 
+ - A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros das abas DADOS PESSOAIS  e PERFIL SOCIOECONÔMICO.
 
 #### Parametrização de alguns dos campos de formulário da aba `PERFIL SOCIOECONÔMICO` para o conscrito ser considerado <kbd>Indicado</kbd> ainda na fase 1 (ENTREVISTA) do processo seletivo:
  ABA DE DADOS DO FORMULÁRIO |            CAMPO DE FORMULÁRIO      |     CONDIÇÃO (CRITÉRIO OU PARÂMETRO UTILIZADO)     | STATUS   | OBS                          |
@@ -214,8 +216,6 @@ Principais características do **`SASC/16º BI Mtz`**:
  EXAME ODONTO               | QNT RESTAURAÇÕES INADEQUADAS(RI)        | <=3  (por exemplo)                                 | APTO     |                              |
  EXAME ODONTO               | QNT AUSÊNCIA DENT ANTERIOR (ADA)        | <=3  (por exemplo)                                 | APTO     |                              |
  EXAME ODONTO               | QNT AUSÊNCIA DENT POSTERIOR (ADP)        | <=3  (por exemplo)                                 | APTO     |                              |
-
-A situação de contraindicado durante a fase de entrevista, depende da negação de apenas um dos parâmetros das abas DADOS PESSOAIS  e PERFIL SOCIOECONÔMICO.
 
 ### 6 - STATUS DO CONSCRITO AO FINAL DA SELEÇÃO/CASOS (1-5)
 |   CASO  | ENTREVISTA  | EXAME MÉDICO |EXAME ODONTO|TESTE DE HABILIDADES| RESULTADO CS | CLASSIFICAÇÃO|
