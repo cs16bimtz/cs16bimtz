@@ -50,7 +50,7 @@ Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓG
  
  
  <details>
-<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "DADOS PESSOAIS") :eye: </summary> 
+<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "HABILIDADES QUE POSSUI") :eye: </summary> 
  
 ![TH](https://user-images.githubusercontent.com/121310141/210563508-f7dce862-b817-4d8c-900d-bb9a33b9335b.png)
 
