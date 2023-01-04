@@ -36,6 +36,29 @@ Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓG
 <details>
 <summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "DADOS PESSOAIS) :eye: </summary> 
  
+![DP](https://user-images.githubusercontent.com/121310141/210562956-79a65c24-df13-4fba-84df-ab1bed90c068.png)
+
+</details>
+ 
+ 
+<details>
+<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "PERFIL SOCIOECONÔMICO") :eye: </summary> 
+  
+![PS](https://user-images.githubusercontent.com/121310141/210563115-6497671f-9aa1-44ef-a6bd-884ad5410b62.png)
+
+</details>
+ 
+ 
+ <details>
+<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "DADOS PESSOAIS") :eye: </summary> 
+ 
+![CS - FDE](https://user-images.githubusercontent.com/121310141/210189125-a821f7da-8310-4568-bbd2-e366d895a720.png)
+
+</details>
+ 
+<details>
+<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "TESTE DE HABILIDADES") :eye: </summary> 
+ 
 ![CS - FDE](https://user-images.githubusercontent.com/121310141/210189125-a821f7da-8310-4568-bbd2-e366d895a720.png)
 
 </details>
