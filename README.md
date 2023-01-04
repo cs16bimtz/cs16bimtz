@@ -56,27 +56,6 @@ Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓG
 ![TH](https://user-images.githubusercontent.com/121310141/210563508-f7dce862-b817-4d8c-900d-bb9a33b9335b.png)
 
 </details>
- 
-
-
-A tabela de permissões define quais perfis têm permissão para inserir (create), editar (update) e visualizar (read) os campos de formulário dentro de cada aba da FDE.
-|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|TESTE HABI|EXM MED|EXM ODONTO|
-|:--:|-----------------|:--------------:|:---: |:--------------:|:----------:|:----------:|:---:|:-------:|
-| 1 | Cmt OM           |         cmt_om | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |
-| 2 | Presidente da CS |  presidente_cs | root|  ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |
-| 3 | Médico           |       medico_1 | root| ✖️           | ✖️        | ✖️        | ✔️      | ✖️      | 
-| 4 | Dentista         |     dentista_1 | root| ✖️           |  ✖️        | ✖️        | ✖️      | ✔️      | 
-| 5 | Entrevistador 1  |entrevistador_1 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
-| 6 | Entrevistador 2  |entrevistador_2 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |  
-| 7 | Entrevistador 3  |entrevistador_3 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
-
-- As senhas serão redefinidas por ocasião da CS e o sistema no endereço https://www.cse16bimtz.org/, será implantado no servidor da OM em https://10.46.40.34; 
-- Cada entrevistador tem visibilidade apenas dos seus entrevistados;
-- Os critérios para a `APROVAÇÃO` do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador; 
-- O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros exceto nas abas `EXAME MÉDICO` e `EXAME ODONTO`;
-- O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
-- O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
-- O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
 
 ### 2 - AMBIENTE CUSTOMIZADO PARA CADA PERFIL NO SASC:
 Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfil de usuário do SASC. Em cada menu estão disponíveis consultas predefinidas de acordo com o perfil do usuário. 
@@ -115,6 +94,26 @@ Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfi
 ![CS - ENTREVISTADOR](https://user-images.githubusercontent.com/121310141/210188631-cbf172de-6d2e-4ff9-ad14-fb7b069f1ebc.png)
 
 </details>
+ 
+
+A tabela de permissões define quais perfis têm permissão para inserir (create), editar (update) e visualizar (read) os campos de formulário dentro de cada aba da FDE.
+|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|TESTE HABI|EXM MED|EXM ODONTO|
+|:--:|-----------------|:--------------:|:---: |:--------------:|:----------:|:----------:|:---:|:-------:|
+| 1 | Cmt OM           |         cmt_om | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |
+| 2 | Presidente da CS |  presidente_cs | root|  ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |
+| 3 | Médico           |       medico_1 | root| ✖️           | ✖️        | ✖️        | ✔️      | ✖️      | 
+| 4 | Dentista         |     dentista_1 | root| ✖️           |  ✖️        | ✖️        | ✖️      | ✔️      | 
+| 5 | Entrevistador 1  |entrevistador_1 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
+| 6 | Entrevistador 2  |entrevistador_2 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |  
+| 7 | Entrevistador 3  |entrevistador_3 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
+
+- As senhas serão redefinidas por ocasião da CS e o sistema no endereço https://www.cse16bimtz.org/, será implantado no servidor da OM em https://10.46.40.34; 
+- Cada entrevistador tem visibilidade apenas dos seus entrevistados;
+- Os critérios para a `APROVAÇÃO` do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador; 
+- O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros exceto nas abas `EXAME MÉDICO` e `EXAME ODONTO`;
+- O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
+- O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
+- O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
   
 ### 3 - CARACTERÍSTICAS DO SASC
 No SASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM.
