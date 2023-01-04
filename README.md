@@ -52,16 +52,11 @@ Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓG
  <details>
 <summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "DADOS PESSOAIS") :eye: </summary> 
  
-![CS - FDE](https://user-images.githubusercontent.com/121310141/210189125-a821f7da-8310-4568-bbd2-e366d895a720.png)
+![TH](https://user-images.githubusercontent.com/121310141/210563508-f7dce862-b817-4d8c-900d-bb9a33b9335b.png)
 
 </details>
  
-<details>
-<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "TESTE DE HABILIDADES") :eye: </summary> 
- 
-![CS - FDE](https://user-images.githubusercontent.com/121310141/210189125-a821f7da-8310-4568-bbd2-e366d895a720.png)
 
-</details>
 
 A tabela de permissões define quais perfis têm permissão para inserir (create), editar (update) e visualizar (read) os campos de formulário dentro de cada aba da FDE.
 |Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|TESTE HABI|EXM MED|EXM ODONTO|
