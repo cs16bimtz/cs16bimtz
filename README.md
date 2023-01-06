@@ -281,7 +281,7 @@ Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos class
   
 </details>### 9 - FASEAMENTO DE UMA CS PARA O MELHOR DESEMPENHO DO SASC
  
- ### 10 - QUADRO DE DISTRIBUIÇÃO DOS CONSCRITOS POR GRUPAMENTO DE TRIAGEM
+ ### 10 - QUADRO DE DISTRIBUIÇÃO DOS CONSCRITOS POR GRUPAMENTO
 |Nº  |   DATA     |EVENTO        |        A      |      B     |      C      |      D       |      E    |   
 |:--:|:----------:|:------------:|:-------------:|:----------:|:-----------:|:------------:|:---------:|
 | 1  | 16/01/2023 | APRESENTAÇÃO |        -      |      -     |     -       |        -     |    -      | 
