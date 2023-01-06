@@ -96,7 +96,7 @@ Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfi
 </details>
  
 
-A tabela de permissões define quais perfis têm permissão para inserir (create), editar (update) e visualizar (read) os campos de formulário dentro de cada aba da FDE.
+A tabela de permissões define quais perfis têm permissão para inserir (create), editar (update) e visualizar (read) os `campos de formulário` dentro de cada aba da FDE.
 |Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|  TESTE HABI  |EXM MED|EXM ODONTO|
 |:--:|-----------------|:--------------:|:-----:|:--------------:|:----------:|:------------:|:-----:|:--------:|
 | 1 | Cmt OM           |         cmt_om | root  |        VE        |       V     |       VE       |    V   |     V     |
@@ -104,7 +104,7 @@ A tabela de permissões define quais perfis têm permissão para inserir (create
 | 3 | Médico           |       medico_1 | root  |      V          |       V     |      V        |   VE    |      V    |
 | 4 | Dentista         |     dentista_1 | root  |      V          |      V      |       V       |    V   |      VE    |
 | 5 | Entrevistador 1  |entrevistador_1 | root  |         VE       |     VE       |     VE         |    V   |     V     |
-| 6 | Entrevistador 2  |entrevistador_2 | root  |                |            |              |    V   |     V     |
+| 6 | Entrevistador 2  |entrevistador_2 | root  |          VE      |        VE    |         VE     |    V   |     V     |
 | 7 | Entrevistador 3  |entrevistador_3 | root  |         VE       |        VE    |      VE        |    V   |     V     |
 
 - As senhas serão redefinidas por ocasião da CS e o sistema hospedado no endereço https://www.cse16bimtz.org/, será implantado no servidor da OM em https://10.46.40.34; 
