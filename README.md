@@ -284,18 +284,18 @@ Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos class
  ### 10 - QUADRO DE DISTRIBUIÇÃO DOS CONSCRITOS POR GRUPAMENTO DE TRIAGEM
 |Nº  |   DATA     |EVENTO        |        A      |      B     |      C      |      D       |      E    |   
 |:--:|------------|:------------:|:-------------:|-----------:|:-----------:|:------------:|:---------:|
-| 1  | 16/01/2023 | APRESENTAÇÃO |                             TODOS                                   |
+| 1  | 16/01/2023 | APRESENTAÇÃO |        -      |      -     |     -       |        -     |    -      | 
 | 2  | 17/01/2023 |       -      |    TRIAGEM    |      -     |     -       |        -     |    -      | 
 | 3  | 18/01/2023 |       -      |        -      |  TRIAGEM   |     -       |        -     |    -      | 
 | 4  | 19/01/2023 |       -      |        -      |      -     |   TRIAGEM   |        -     |    -      |
 | 5  | 20/01/2023 |       -      |        -      |      -     |     -       |    TRIAGEM   |    -      |
 | 6  | 23/01/2023 |       -      |        -      |      -     |     -       |        -     | TRIAGEM   | 
 | 7  | 24/01/2023 |       -      |   TESTE HBL   |      -     |     -       |        -     |    -      |
-| 9  | 26/01/2023 |       -      |               |  TESTE HBL |     -       |        -     |    -      |
-| 10 | 27/01/2023 |       -      |        -      |      -     |   TESTE HBL |        -     |    -      |
-| 11 | 30/01/2023 |       -      |        -      |      -     |      -      |   TESTE HBL  |    -      |
-| 12 | 31/01/2023 |       -      |        -      |      -     |     -       |        -     | TESTE HBL | 
-| 13 | 01/02/2023 |  RESULTADO   |        -      |      -     |     -       |        -     |     -     | 
+| 9  | 25/01/2023 |       -      |               |  TESTE HBL |     -       |        -     |    -      |
+| 10 | 26/01/2023 |       -      |        -      |      -     |   TESTE HBL |        -     |    -      |
+| 11 | 27/01/2023 |       -      |        -      |      -     |      -      |   TESTE HBL  |    -      |
+| 12 | 28/01/2023 |       -      |        -      |      -     |     -       |        -     | TESTE HBL | 
+| 13 | 29/02/2023 |  RESULTADO   |        -      |      -     |     -       |        -     |     -     | 
 
  
  
