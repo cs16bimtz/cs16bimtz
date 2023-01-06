@@ -279,7 +279,24 @@ Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos class
 
 ![CS Diagrama (7)](https://user-images.githubusercontent.com/121310141/210290692-5cf51a34-5aa7-4755-8bd8-1710691e9afd.png)
   
-</details>
+</details>### 9 - FASEAMENTO DE UMA CS PARA O MELHOR DESEMPENHO DO SASC
+ 
+ ### 10 - QUADRO DE DISTRIBUIÇÃO DOS CONSCRITOS POR GRUPAMENTO DE TRIAGEM
+|Nº  |   DATA     |APRESENTAÇÃO |        A      |      B     |      C      |      D       |      E    |    OBS   |
+|:--:|------------|:---------:|:-------------:|-----------:|:-----------:|:------------:|:---------:|:--------:|
+| 1  | 16/01/2022 |   TODOS   |        -      |      -     |     -       |        -     |    -      |    -     |
+| 2  | 17/01/2022 |    -      |        X      |      -     |     -       |        -     |    -      |    -     |
+| 3  | 18/01/2022 |    -      |        -      |      X     |     -       |        -     |    -      |    -     |    
+| 4  | 19/01/2022 |    -      |        -      |      -     |     X       |        -     |    -      |    -     |
+| 5  | 20/01/2022 |    -      |        -      |      -     |     -       |        X     |    -      |    -     |
+| 6  | 23/01/2022 |    -      |        -      |      -     |     -       |        -     |    X      |    -     |
+| 7  | 24/01/2022 |    -      |        -      |      -     |     -       |        -     |    -      |    -     |
+| 9  | 26/01/2022 |    -      |        -      |      -     |     -       |        -     |    -      |    -     |
+| 10 | 27/01/2022 |    -      |        -      |      -     |     -       |        -     |    -      |    -     |
+| 11 | 30/01/2022 |    -      |        -      |      -     |     -       |        -     |    -      |   RESULTADO  |
+
+ 
+ 
 <hr>
 </details>
 
