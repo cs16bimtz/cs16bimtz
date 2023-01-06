@@ -97,18 +97,18 @@ Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfi
  
 
 A tabela de permissões define quais perfis têm permissão para inserir (create), editar (update) e visualizar (read) os campos de formulário dentro de cada aba da FDE.
-|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|TESTE HABI|EXM MED|EXM ODONTO|
-|:--:|-----------------|:--------------:|:---: |:--------------:|:----------:|:----------:|:---:|:-------:|
-| 1 | Cmt OM           |         cmt_om | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |
-| 2 | Presidente da CS |  presidente_cs | root|  ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |
-| 3 | Médico           |       medico_1 | root| ✖️           | ✖️        | ✖️        | ✔️      | ✖️      | 
-| 4 | Dentista         |     dentista_1 | root| ✖️           |  ✖️        | ✖️        | ✖️      | ✔️      | 
-| 5 | Entrevistador 1  |entrevistador_1 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
-| 6 | Entrevistador 2  |entrevistador_2 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      |  
-| 7 | Entrevistador 3  |entrevistador_3 | root| ✔️           | ✔️        | ✔️        | ✖️      | ✖️      | 
+|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|  TESTE HABI  |EXM MED|EXM ODONTO|
+|:--:|-----------------|:--------------:|:-----:|:--------------:|:----------:|:------------:|:-----:|:--------:|
+| 1 | Cmt OM           |         cmt_om | root  |                |            |              |       |          |
+| 2 | Presidente da CS |  presidente_cs | root  |                |            |              |       |          |
+| 3 | Médico           |       medico_1 | root  |                |            |              |       |          |
+| 4 | Dentista         |     dentista_1 | root  |                |            |              |       |          |
+| 5 | Entrevistador 1  |entrevistador_1 | root  |                |            |              |       |          |
+| 6 | Entrevistador 2  |entrevistador_2 | root  |                |            |              |       |          |
+| 7 | Entrevistador 3  |entrevistador_3 | root  |                |            |              |       |          |
 
-- As senhas serão redefinidas por ocasião da CS e o sistema no endereço https://www.cse16bimtz.org/, será implantado no servidor da OM em https://10.46.40.34; 
-- Cada entrevistador tem visibilidade apenas dos seus entrevistados;
+- As senhas serão redefinidas por ocasião da CS e o sistema hospedado no endereço https://www.cse16bimtz.org/, será implantado no servidor da OM em https://10.46.40.34; 
+- Cada entrevistador tem visibilidade apenas dos seus conscritos entrevistados;
 - Os critérios para a `APROVAÇÃO` do conscrito no processo seletivo embora pareçam óbvios, não são de inteiro conhecimento do entrevistador; 
 - O Ch CSC tem a visibilidade de todos os campos de preenchimento da FDE, podendo alterar e salvar informações inseridas por terceiros exceto nas abas `EXAME MÉDICO` e `EXAME ODONTO`;
 - O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
@@ -166,8 +166,6 @@ Principais características do **`SASC/16º BI Mtz`**:
 - Ao longo do exame médico e do exame odontológico os termos utilizados são **APTO** e **INAPTO** para indicar que o conscrito `possui/não possui` as características físicas e a higidez que se deseja em um soldado; 
 
 - Na fase aonde são verificadas as habilidades declaradas pelo conscrito na FDE, os termos utilizados são **demonstrou** e **não demonstrou** a competência declarada;
-
-- Finalizada a CS, os candidatos estarão distribuídos em dois grupos (APROVADOS/REPROVADOS). Os aprovados serão em número a maior em relação à quantidade de vagas disponíveis e os reprovados, esses foram dispensados ao longo das diversas fases da CS;
 
 - Na etapa aonde são processados (analisados) os dados coletados, os termos utilizados são **CLASSIFICADO** e **NÃO CLASSIFICADO** para indicar que o conscrito foi `selecionado/não selecionado` para a incorporação. 
 
