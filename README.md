@@ -283,7 +283,7 @@ Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos class
  
  ### 10 - QUADRO DE DISTRIBUIÇÃO DOS CONSCRITOS POR GRUPAMENTO DE TRIAGEM
 |Nº  |   DATA     |EVENTO        |        A      |      B     |      C      |      D       |      E    |   
-|:--:|------------|:------------:|:-------------:|-----------:|:-----------:|:------------:|:---------:|
+|:--:|:----------:|:------------:|:-------------:|:----------:|:-----------:|:------------:|:---------:|
 | 1  | 16/01/2023 | APRESENTAÇÃO |        -      |      -     |     -       |        -     |    -      | 
 | 2  | 17/01/2023 |       -      |    TRIAGEM    |      -     |     -       |        -     |    -      | 
 | 3  | 18/01/2023 |       -      |        -      |  TRIAGEM   |     -       |        -     |    -      | 
