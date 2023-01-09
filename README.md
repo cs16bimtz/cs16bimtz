@@ -290,8 +290,9 @@ Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos class
 ![CS Diagrama (7)](https://user-images.githubusercontent.com/121310141/210290692-5cf51a34-5aa7-4755-8bd8-1710691e9afd.png)
   
 </details>
- 
-### 10 - QUADRO DE DISTRIBUIÇÃO DOS CONSCRITOS POR GRUPAMENTO
+
+
+ ### 10 - QUADRO DE DISTRIBUIÇÃO DOS CONSCRITOS POR GRUPAMENTO
 |Nº  |   DATA     |EVENTO        |        A      |      B     |      C      |      D       |      E    |   
 |:--:|:----------:|:------------:|:-------------:|:----------:|:-----------:|:------------:|:---------:|
 | 1  | 16/01/2023 | APRESENTAÇÃO |        -      |      -     |     -       |        -     |    -      | 
