@@ -30,7 +30,7 @@ A FDE apresenta uma série de vantagens quando comparada à Ficha de Entrevista 
 - As FDE que serão impressas, assinadas e arquivadas ao final do processo (véspera de incorporação) serão as dos conscritos `CLASSIFICADOS` no processo seletivo, apenas;
 
 #### 1.2 - GRUPOS DE DADOS
-A inserção ou cadastro do conscrito no sistema só pode ser realizada por entrevistadores (abas `DADOS PESSOAIS`, `PERFIL SOCIOECONÔMICO`). 
+A inserção ou cadastro do conscrito no sistema só pode ser realizada por entrevistadores (abas `DADOS PESSOAIS`, `PERFIL SOCIOECONÔMICO` e `RECRUTAMENTO POR COMPETÊNCIA`). 
 
 Médico e dentista só estão autorizados a inserir dados no cadastro dos conscritos nas abas `EXAME MÉDICO`, e `EXAME ODONTOLÓGICO` respectivamente. 
 
@@ -61,7 +61,7 @@ Algo parecido foi aplicado aos campos das abas EXAME MÉDICO, e EXAME ODONTOLÓG
  
  
  <details>
-<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "HABILIDADES QUE POSSUI") :eye: </summary> 
+<summary>FICHA DIGITAL DE ENTREVISTA (Destaque para a aba "RECRUTAMENTO POR COMPETÊNCIA") :eye: </summary> 
  
 ![TH](https://user-images.githubusercontent.com/121310141/210563508-f7dce862-b817-4d8c-900d-bb9a33b9335b.png)
 
