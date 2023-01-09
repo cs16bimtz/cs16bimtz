@@ -311,7 +311,8 @@ Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos class
  
  
 <hr>
- ### - DICAS
+### - DICAS
+ 
  
  1 - FAZ A PERGUNTA, OLHA O CONSCRITO NOS OLHOS, ESPERA ELE FALAR SEM INTERROMPÊ-LO, DEPOIS FAZ O LANÇAMENTO;
  
