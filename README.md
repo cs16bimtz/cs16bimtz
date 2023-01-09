@@ -311,9 +311,7 @@ Exemplo: Cria-se a consulta 2ª Cia Fuz, que agrupará todos os conscritos class
  
  
 <hr>
-### - DICAS
- 
- 
+### 11 - DICAS 
  1 - FAZ A PERGUNTA, OLHA O CONSCRITO NOS OLHOS, ESPERA ELE FALAR SEM INTERROMPÊ-LO, DEPOIS FAZ O LANÇAMENTO;
  
  2 - O CONSCRITO DEVE PERCEBER QUE O ENTREVISTADOR ESTÁ ATENTO AO QUE ELE ESTÁ FALANDO;
