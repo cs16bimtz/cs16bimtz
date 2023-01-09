@@ -107,7 +107,7 @@ Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfi
  
 
 A tabela de permissões define quais perfis têm permissão para inserir (create), editar (update) e visualizar (read) os `campos de formulário` dentro de cada aba da FDE.
-|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|  TESTE HABI  |EXM MED|EXM ODONTO|
+|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|  REC/COMPETÊNCIA  |EXM MED|EXM ODONTO|
 |:--:|-----------------|:--------------:|:-----:|:--------------:|:----------:|:------------:|:-----:|:--------:|
 | 1 | Cmt OM           |         cmt_om | root  |               |           |           |       |        |
 | 2 | Presidente da CS |  presidente_cs | root  |               |           |           |       |        |
