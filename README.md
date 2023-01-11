@@ -107,15 +107,24 @@ Cada usuário do sistema tem um ambiente personalizado de acordo com o seu perfi
  
 
 A tabela de permissões define quais perfis têm permissão para inserir (create), editar (update) e visualizar (read) os `campos de formulário` dentro de cada aba da FDE.
-|Nº |NOME DO UTILIZADOR|      USUÁRIO   | SENHA | DADOS PESSOAIS |PERFIL SOCIO|  REC/COMPETÊNCIA  |EXM MED|EXM ODONTO|
-|:--:|-----------------|:--------------:|:-----:|:--------------:|:----------:|:------------:|:-----:|:--------:|
-| 1 | Cmt OM           |         cmt_om | root  |               |           |           |       |        |
-| 2 | Presidente da CS |  presidente_cs | root  |               |           |           |       |        |
-| 3 | Médico           |       medico_1 | root  |               |           |           |       |        |
-| 4 | Dentista         |     dentista_1 | root  |               |           |           |       |        |
-| 5 | Entrevistador 1  |entrevistador_1 | root  |               |           |           |       |        |
-| 6 | Entrevistador 2  |entrevistador_2 | root  |               |           |           |       |        |
-| 7 | Entrevistador 3  |entrevistador_3 | root  |               |           |           |       |        |
+| Nº  |NOME DO UTILIZADOR       |      USUÁRIO     | SENHA | DADOS PESSOAIS |PERFIL SOCIO|  REC/COMPETÊNCIA  |EXM MED|EXM ODONTO|
+|:---:|-------------------------|:----------------:|:-----:|:--------------:|:----------:|:------------:|:-----:|:--------:|
+|  1  | Cmt OM                  |          cmt_om  | root  |               |           |           |       |        |
+|  2  | Presidente da CS!       |   presidente_cs  | root  |               |           |           |       |        |
+|  3  | 2º Ten Mateus Diniz!    |        medico_1  | root  |               |           |           |       |        |
+|  4  | 2º Ten Fernandes Lopes! |        medico_2  | root  |               |           |           |       |        |
+|  5  | 1º Ten Gadelha!         |      dentista_1  | root  |               |           |           |       |        |
+|  6  | 2º Sgt Monteiro!        | entrevistador_1  | root  |               |           |           |       |        |
+|  7  | 3º Sgt Emerson!         | entrevistador_2  | root  |               |           |           |       |        |
+|  8  | 1º Sgt Bispo!           | entrevistador_3  | root  |               |           |           |       |        |
+|  9  | Entrevistador 4!        | entrevistador_4  | root  |               |           |           |       |        |
+| 10  | Entrevistador 5!        | entrevistador_5  | root  |               |           |           |       |        |
+| 11  | Entrevistador 6!        | entrevistador_6  | root  |               |           |           |       |        |
+| 12  | Entrevistador 7!        | entrevistador_7  | root  |               |           |           |       |        |
+| 13  | Entrevistador 8!        | entrevistador_8  | root  |               |           |           |       |        |
+| 14  | Entrevistador 9!        | entrevistador_9  | root  |               |           |           |       |        |
+| 15  | Entrevistador 10!       | entrevistador_10 | root  |               |           |           |       |        |
+
 
 - As senhas serão redefinidas por ocasião da CS e o sistema hospedado no endereço https://www.cse16bimtz.org/, será implantado no servidor da OM em https://10.46.40.34; 
 - Cada entrevistador tem visibilidade apenas dos seus conscritos entrevistados;
