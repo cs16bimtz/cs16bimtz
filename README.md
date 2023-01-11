@@ -117,9 +117,9 @@ A tabela de permissões define quais perfis têm permissão para inserir (create
 |  137  | 2º Sgt Monteiro!        | entrevistador_1  | root  |                |            |                   |       |          |
 |  140  | 3º Sgt Emerson!         | entrevistador_2  | root  |                |            |                   |       |          |
 |  141  | 1º Sgt Bispo!           | entrevistador_3  | root  |                |            |                   |       |          |
-|  147  | Entrevistador 4!        | entrevistador_4  | root  |                |            |                   |       |          |
-|  148  | Entrevistador 5!        | entrevistador_5  | root  |                |            |                   |       |          |
-|  149  | Entrevistador 6!        | entrevistador_6  | root  |                |            |                   |       |          |
+|  147  | 2º Sgt Kaio!            | entrevistador_4  | root  |                |            |                   |       |          |
+|  148  | 2º Sgt Melquisedeque!   | entrevistador_5  | root  |                |            |                   |       |          |
+|  149  | 1º Ten Fonseca!         | entrevistador_6  | root  |                |            |                   |       |          |
 |  150  | Entrevistador 7!        | entrevistador_7  | root  |                |            |                   |       |          |
 |  151  | Entrevistador 8!        | entrevistador_8  | root  |                |            |                   |       |          |
 |  152  | Entrevistador 9!        | entrevistador_9  | root  |                |            |                   |       |          |
