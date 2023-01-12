@@ -283,6 +283,7 @@ O sistema dispõe das seguintes consultas predefinidas:
 Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual a ⭐⭐⭐, não seriam classificados:
 - Encanador: ⭐⭐ (Aprovado, não classificado);
 - Eletricista: ⭐ (Aprovado, não classificado), etc.
+ 
 |  Nº |DESCRIÇÃO DA HABILIDADE|RESULTADO CS |  AVALIAÇÃO   |  CLASSIFICAÇÃO    |
 |:---:|-----------------------|:--------:|:------------|:---------------:|
 |  1       | Pedreiro         | APROVADO |⭐⭐⭐⭐⭐ | CLASSIFICADO  |
