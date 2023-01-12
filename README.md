@@ -280,7 +280,9 @@ O sistema dispõe das seguintes consultas predefinidas:
 - CONSCRITOS QUE DEMONSTRARAM ALGUMA HABILIDADE (FASE -4)
 - OUTRAS
 
-
+Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual a ⭐⭐⭐, não seriam classificados:
+- Encanador: ⭐⭐ (Aprovado, não classificado);
+- Eletricista: ⭐ (Aprovado, não classificado), etc.
 |  Nº |DESCRIÇÃO DA HABILIDADE|RESULTADO CS |  AVALIAÇÃO   |  CLASSIFICAÇÃO    |
 |:---:|-----------------------|:--------:|:------------|:---------------:|
 |  1       | Pedreiro         | APROVADO |⭐⭐⭐⭐⭐ | CLASSIFICADO  |
@@ -288,10 +290,6 @@ O sistema dispõe das seguintes consultas predefinidas:
 |  3       | Pintor           | APROVADO |⭐⭐⭐      | CLASSIFICADO    |
 |  4       | Encanador        | APROVADO |⭐⭐         | NÃO CLASSIFICADO|
 |  5       |Eletricista       | APROVADO |⭐           | NÃO CLASSIFICADO|
-
-Estabelecendo para a `CLASSIFICAÇÃO` o critério de avaliação maior ou igual a ⭐⭐⭐, não seriam classificados:
-- Encanador: ⭐⭐ (Aprovado, não classificado);
-- Eletricista: ⭐ (Aprovado, não classificado), etc.
 
 Existe uma consulta definida no sistema para exibir os classificados que atendam a esses critérios.
  
