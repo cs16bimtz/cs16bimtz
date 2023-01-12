@@ -123,7 +123,7 @@ A tabela de permissões define quais perfis têm permissão para inserir (create
 |  146  | 2º Ten Fernandes Lopes!         |        medico_2  | root  |                |            |                   |       |          |
 |  142  | 1º Ten Gadelha!                 |      dentista_1  | root  |                |            |                   |       |          |
 |  137  | 2º Sgt Monteiro!                | entrevistador_1  | root  |                |            |                   |       |          |
-|  140  | 2º Sgt Samuel Santos!                 | entrevistador_2  | root  |                |            |                   |       |          |
+|  140  | 2º Sgt Samuel Santos!           | entrevistador_2  | root  |                |            |                   |       |          |
 |  141  | 1º Sgt Bispo!                   | entrevistador_3  | root  |                |            |                   |       |          |
 |  147  | 2º Sgt Kaio!                    | entrevistador_4  | root  |                |            |                   |       |          |
 |  148  | 2º Sgt Melquisedeque!           | entrevistador_5  | root  |                |            |                   |       |          |
