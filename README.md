@@ -142,7 +142,7 @@ A tabela de permissões define quais perfis têm permissão para inserir (create
 - O entrevistador tem perfil com permissão para inserir e editar dados em qualquer campo de formulário da FDE, exceto nos campos das abas `EXAME MÉDICO` e `EXAME ODONTO` de preenchimento exclusivo do médico e do dentista respectivamente;
 - O médico não consegue inserir nem editar campos em outra aba que não seja a sua;
 - O dentista não consegue inserir nem editar campos de formulário da FDE em outra aba que não a sua.
-  
+   
 ### 3 - CARACTERÍSTICAS DO SASC
 No SASC os atributos/características desejáveis no conscrito (Perfil do Conscrito) são os parametros que foram configurados (setados) no sistema e que podem ser alterados a critéro do Cmt OM.
 
