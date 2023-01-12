@@ -24,11 +24,12 @@ Na FDE os campos que serão utilizados como critério de seleção possuem um ti
  - EM CASO DE CONVOCAÇÃO
  - ESTADO CIVIL; 
  - RELIGIÃO;
- - ARRIMO DE FAMÍLIA
- - PASSAGEM PELA POLÍCIA
- - USOU ARMA DE FOGO
- - EXPERIÊNCIA COM DROGAS
- - ESCOLARIDADE
+ - ARRIMO DE FAMÍLIA;
+ - PASSAGEM PELA POLÍCIA;
+ - USOU ARMA DE FOGO;
+ - EXPERIÊNCIA COM DROGAS;
+ - ESCOLARIDADE;
+ - ENTREVISTADOR
 
 O campo CPF do formulário tem validação *isunique*, garantindo que cada CPF armazenado no banco de dados seja único. O sistema não permitirá a duplicidade de registros. 
 
